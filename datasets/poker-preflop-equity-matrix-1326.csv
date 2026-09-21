@@ -1,0 +1,1327 @@
+combo_id,hand,canonical,card1,card2,rank1,rank2,suit1,suit2,is_suited,is_pair,hand_type,combos_in_class,equity_vs_random_pct,win_rate_pct,tie_rate_pct,equity_vs_top10pct,equity_vs_top25pct,playability_score,tier,gto_open_action
+1,AsAh,AA,As,Ah,A,A,s,h,0,1,pair,6,85.20,84.78,0.85,82.50,83.10,10.0,Tier 1 (Premium),100% Open (All Positions)
+2,AsAd,AA,As,Ad,A,A,s,d,0,1,pair,6,85.20,84.78,0.85,82.50,83.10,10.0,Tier 1 (Premium),100% Open (All Positions)
+3,AsAc,AA,As,Ac,A,A,s,c,0,1,pair,6,85.20,84.78,0.85,82.50,83.10,10.0,Tier 1 (Premium),100% Open (All Positions)
+4,AhAd,AA,Ah,Ad,A,A,h,d,0,1,pair,6,85.20,84.78,0.85,82.50,83.10,10.0,Tier 1 (Premium),100% Open (All Positions)
+5,AhAc,AA,Ah,Ac,A,A,h,c,0,1,pair,6,85.20,84.78,0.85,82.50,83.10,10.0,Tier 1 (Premium),100% Open (All Positions)
+6,AdAc,AA,Ad,Ac,A,A,d,c,0,1,pair,6,85.20,84.78,0.85,82.50,83.10,10.0,Tier 1 (Premium),100% Open (All Positions)
+7,KsKh,KK,Ks,Kh,K,K,s,h,0,1,pair,6,82.40,81.98,0.85,74.30,76.80,9.8,Tier 1 (Premium),100% Open (All Positions)
+8,KsKd,KK,Ks,Kd,K,K,s,d,0,1,pair,6,82.40,81.98,0.85,74.30,76.80,9.8,Tier 1 (Premium),100% Open (All Positions)
+9,KsKc,KK,Ks,Kc,K,K,s,c,0,1,pair,6,82.40,81.98,0.85,74.30,76.80,9.8,Tier 1 (Premium),100% Open (All Positions)
+10,KhKd,KK,Kh,Kd,K,K,h,d,0,1,pair,6,82.40,81.98,0.85,74.30,76.80,9.8,Tier 1 (Premium),100% Open (All Positions)
+11,KhKc,KK,Kh,Kc,K,K,h,c,0,1,pair,6,82.40,81.98,0.85,74.30,76.80,9.8,Tier 1 (Premium),100% Open (All Positions)
+12,KdKc,KK,Kd,Kc,K,K,d,c,0,1,pair,6,82.40,81.98,0.85,74.30,76.80,9.8,Tier 1 (Premium),100% Open (All Positions)
+13,QsQh,QQ,Qs,Qh,Q,Q,s,h,0,1,pair,6,79.92,79.50,0.85,67.20,71.50,9.6,Tier 1 (Premium),100% Open (All Positions)
+14,QsQd,QQ,Qs,Qd,Q,Q,s,d,0,1,pair,6,79.92,79.50,0.85,67.20,71.50,9.6,Tier 1 (Premium),100% Open (All Positions)
+15,QsQc,QQ,Qs,Qc,Q,Q,s,c,0,1,pair,6,79.92,79.50,0.85,67.20,71.50,9.6,Tier 1 (Premium),100% Open (All Positions)
+16,QhQd,QQ,Qh,Qd,Q,Q,h,d,0,1,pair,6,79.92,79.50,0.85,67.20,71.50,9.6,Tier 1 (Premium),100% Open (All Positions)
+17,QhQc,QQ,Qh,Qc,Q,Q,h,c,0,1,pair,6,79.92,79.50,0.85,67.20,71.50,9.6,Tier 1 (Premium),100% Open (All Positions)
+18,QdQc,QQ,Qd,Qc,Q,Q,d,c,0,1,pair,6,79.92,79.50,0.85,67.20,71.50,9.6,Tier 1 (Premium),100% Open (All Positions)
+19,JsJh,JJ,Js,Jh,J,J,s,h,0,1,pair,6,77.47,77.05,0.85,61.10,66.80,9.2,Tier 1 (Premium),100% Open (All Positions)
+20,JsJd,JJ,Js,Jd,J,J,s,d,0,1,pair,6,77.47,77.05,0.85,61.10,66.80,9.2,Tier 1 (Premium),100% Open (All Positions)
+21,JsJc,JJ,Js,Jc,J,J,s,c,0,1,pair,6,77.47,77.05,0.85,61.10,66.80,9.2,Tier 1 (Premium),100% Open (All Positions)
+22,JhJd,JJ,Jh,Jd,J,J,h,d,0,1,pair,6,77.47,77.05,0.85,61.10,66.80,9.2,Tier 1 (Premium),100% Open (All Positions)
+23,JhJc,JJ,Jh,Jc,J,J,h,c,0,1,pair,6,77.47,77.05,0.85,61.10,66.80,9.2,Tier 1 (Premium),100% Open (All Positions)
+24,JdJc,JJ,Jd,Jc,J,J,d,c,0,1,pair,6,77.47,77.05,0.85,61.10,66.80,9.2,Tier 1 (Premium),100% Open (All Positions)
+25,TsTh,TT,Ts,Th,T,T,s,h,0,1,pair,6,75.01,74.59,0.85,56.80,63.20,8.9,Tier 2 (Strong),100% Open (All Positions)
+26,TsTd,TT,Ts,Td,T,T,s,d,0,1,pair,6,75.01,74.59,0.85,56.80,63.20,8.9,Tier 2 (Strong),100% Open (All Positions)
+27,TsTc,TT,Ts,Tc,T,T,s,c,0,1,pair,6,75.01,74.59,0.85,56.80,63.20,8.9,Tier 2 (Strong),100% Open (All Positions)
+28,ThTd,TT,Th,Td,T,T,h,d,0,1,pair,6,75.01,74.59,0.85,56.80,63.20,8.9,Tier 2 (Strong),100% Open (All Positions)
+29,ThTc,TT,Th,Tc,T,T,h,c,0,1,pair,6,75.01,74.59,0.85,56.80,63.20,8.9,Tier 2 (Strong),100% Open (All Positions)
+30,TdTc,TT,Td,Tc,T,T,d,c,0,1,pair,6,75.01,74.59,0.85,56.80,63.20,8.9,Tier 2 (Strong),100% Open (All Positions)
+31,9s9h,99,9s,9h,9,9,s,h,0,1,pair,6,72.06,71.64,0.85,51.50,58.60,8.4,Tier 2 (Strong),100% Open (All Positions)
+32,9s9d,99,9s,9d,9,9,s,d,0,1,pair,6,72.06,71.64,0.85,51.50,58.60,8.4,Tier 2 (Strong),100% Open (All Positions)
+33,9s9c,99,9s,9c,9,9,s,c,0,1,pair,6,72.06,71.64,0.85,51.50,58.60,8.4,Tier 2 (Strong),100% Open (All Positions)
+34,9h9d,99,9h,9d,9,9,h,d,0,1,pair,6,72.06,71.64,0.85,51.50,58.60,8.4,Tier 2 (Strong),100% Open (All Positions)
+35,9h9c,99,9h,9c,9,9,h,c,0,1,pair,6,72.06,71.64,0.85,51.50,58.60,8.4,Tier 2 (Strong),100% Open (All Positions)
+36,9d9c,99,9d,9c,9,9,d,c,0,1,pair,6,72.06,71.64,0.85,51.50,58.60,8.4,Tier 2 (Strong),100% Open (All Positions)
+37,8s8h,88,8s,8h,8,8,s,h,0,1,pair,6,69.13,68.70,0.85,46.90,54.40,8.0,Tier 2 (Strong),Open (MP/CO/BTN)
+38,8s8d,88,8s,8d,8,8,s,d,0,1,pair,6,69.13,68.70,0.85,46.90,54.40,8.0,Tier 2 (Strong),Open (MP/CO/BTN)
+39,8s8c,88,8s,8c,8,8,s,c,0,1,pair,6,69.13,68.70,0.85,46.90,54.40,8.0,Tier 2 (Strong),Open (MP/CO/BTN)
+40,8h8d,88,8h,8d,8,8,h,d,0,1,pair,6,69.13,68.70,0.85,46.90,54.40,8.0,Tier 2 (Strong),Open (MP/CO/BTN)
+41,8h8c,88,8h,8c,8,8,h,c,0,1,pair,6,69.13,68.70,0.85,46.90,54.40,8.0,Tier 2 (Strong),Open (MP/CO/BTN)
+42,8d8c,88,8d,8c,8,8,d,c,0,1,pair,6,69.13,68.70,0.85,46.90,54.40,8.0,Tier 2 (Strong),Open (MP/CO/BTN)
+43,AsKs,AKs,As,Ks,A,K,s,s,1,0,suited,4,67.04,66.44,1.20,63.10,64.90,9.5,Tier 1 (Premium),100% Open (All Positions)
+44,AhKh,AKs,Ah,Kh,A,K,h,h,1,0,suited,4,67.04,66.44,1.20,63.10,64.90,9.5,Tier 1 (Premium),100% Open (All Positions)
+45,AdKd,AKs,Ad,Kd,A,K,d,d,1,0,suited,4,67.04,66.44,1.20,63.10,64.90,9.5,Tier 1 (Premium),100% Open (All Positions)
+46,AcKc,AKs,Ac,Kc,A,K,c,c,1,0,suited,4,67.04,66.44,1.20,63.10,64.90,9.5,Tier 1 (Premium),100% Open (All Positions)
+47,7s7h,77,7s,7h,7,7,s,h,0,1,pair,6,66.24,65.81,0.85,43.10,50.80,7.6,Tier 3 (Playable),Open (MP/CO/BTN)
+48,7s7d,77,7s,7d,7,7,s,d,0,1,pair,6,66.24,65.81,0.85,43.10,50.80,7.6,Tier 3 (Playable),Open (MP/CO/BTN)
+49,7s7c,77,7s,7c,7,7,s,c,0,1,pair,6,66.24,65.81,0.85,43.10,50.80,7.6,Tier 3 (Playable),Open (MP/CO/BTN)
+50,7h7d,77,7h,7d,7,7,h,d,0,1,pair,6,66.24,65.81,0.85,43.10,50.80,7.6,Tier 3 (Playable),Open (MP/CO/BTN)
+51,7h7c,77,7h,7c,7,7,h,c,0,1,pair,6,66.24,65.81,0.85,43.10,50.80,7.6,Tier 3 (Playable),Open (MP/CO/BTN)
+52,7d7c,77,7d,7c,7,7,d,c,0,1,pair,6,66.24,65.81,0.85,43.10,50.80,7.6,Tier 3 (Playable),Open (MP/CO/BTN)
+53,AsQs,AQs,As,Qs,A,Q,s,s,1,0,suited,4,66.11,65.51,1.20,58.70,61.80,9.3,Tier 1 (Premium),100% Open (All Positions)
+54,AhQh,AQs,Ah,Qh,A,Q,h,h,1,0,suited,4,66.11,65.51,1.20,58.70,61.80,9.3,Tier 1 (Premium),100% Open (All Positions)
+55,AdQd,AQs,Ad,Qd,A,Q,d,d,1,0,suited,4,66.11,65.51,1.20,58.70,61.80,9.3,Tier 1 (Premium),100% Open (All Positions)
+56,AcQc,AQs,Ac,Qc,A,Q,c,c,1,0,suited,4,66.11,65.51,1.20,58.70,61.80,9.3,Tier 1 (Premium),100% Open (All Positions)
+57,AsJs,AJs,As,Js,A,J,s,s,1,0,suited,4,65.41,64.81,1.20,54.90,58.80,9.0,Tier 2 (Strong),100% Open (All Positions)
+58,AhJh,AJs,Ah,Jh,A,J,h,h,1,0,suited,4,65.41,64.81,1.20,54.90,58.80,9.0,Tier 2 (Strong),100% Open (All Positions)
+59,AdJd,AJs,Ad,Jd,A,J,d,d,1,0,suited,4,65.41,64.81,1.20,54.90,58.80,9.0,Tier 2 (Strong),100% Open (All Positions)
+60,AcJc,AJs,Ac,Jc,A,J,c,c,1,0,suited,4,65.41,64.81,1.20,54.90,58.80,9.0,Tier 2 (Strong),100% Open (All Positions)
+61,AhKs,AKo,Ah,Ks,A,K,h,s,0,0,offsuit,12,65.31,64.59,1.45,60.80,62.40,8.8,Tier 1 (Premium),100% Open (All Positions)
+62,AdKs,AKo,Ad,Ks,A,K,d,s,0,0,offsuit,12,65.31,64.59,1.45,60.80,62.40,8.8,Tier 1 (Premium),100% Open (All Positions)
+63,AcKs,AKo,Ac,Ks,A,K,c,s,0,0,offsuit,12,65.31,64.59,1.45,60.80,62.40,8.8,Tier 1 (Premium),100% Open (All Positions)
+64,AsKh,AKo,As,Kh,A,K,s,h,0,0,offsuit,12,65.31,64.59,1.45,60.80,62.40,8.8,Tier 1 (Premium),100% Open (All Positions)
+65,AdKh,AKo,Ad,Kh,A,K,d,h,0,0,offsuit,12,65.31,64.59,1.45,60.80,62.40,8.8,Tier 1 (Premium),100% Open (All Positions)
+66,AcKh,AKo,Ac,Kh,A,K,c,h,0,0,offsuit,12,65.31,64.59,1.45,60.80,62.40,8.8,Tier 1 (Premium),100% Open (All Positions)
+67,AsKd,AKo,As,Kd,A,K,s,d,0,0,offsuit,12,65.31,64.59,1.45,60.80,62.40,8.8,Tier 1 (Premium),100% Open (All Positions)
+68,AhKd,AKo,Ah,Kd,A,K,h,d,0,0,offsuit,12,65.31,64.59,1.45,60.80,62.40,8.8,Tier 1 (Premium),100% Open (All Positions)
+69,AcKd,AKo,Ac,Kd,A,K,c,d,0,0,offsuit,12,65.31,64.59,1.45,60.80,62.40,8.8,Tier 1 (Premium),100% Open (All Positions)
+70,AsKc,AKo,As,Kc,A,K,s,c,0,0,offsuit,12,65.31,64.59,1.45,60.80,62.40,8.8,Tier 1 (Premium),100% Open (All Positions)
+71,AhKc,AKo,Ah,Kc,A,K,h,c,0,0,offsuit,12,65.31,64.59,1.45,60.80,62.40,8.8,Tier 1 (Premium),100% Open (All Positions)
+72,AdKc,AKo,Ad,Kc,A,K,d,c,0,0,offsuit,12,65.31,64.59,1.45,60.80,62.40,8.8,Tier 1 (Premium),100% Open (All Positions)
+73,AsTs,ATs,As,Ts,A,T,s,s,1,0,suited,4,64.63,64.03,1.20,51.60,56.10,8.7,Tier 2 (Strong),100% Open (All Positions)
+74,AhTh,ATs,Ah,Th,A,T,h,h,1,0,suited,4,64.63,64.03,1.20,51.60,56.10,8.7,Tier 2 (Strong),100% Open (All Positions)
+75,AdTd,ATs,Ad,Td,A,T,d,d,1,0,suited,4,64.63,64.03,1.20,51.60,56.10,8.7,Tier 2 (Strong),100% Open (All Positions)
+76,AcTc,ATs,Ac,Tc,A,T,c,c,1,0,suited,4,64.63,64.03,1.20,51.60,56.10,8.7,Tier 2 (Strong),100% Open (All Positions)
+77,AhQs,AQo,Ah,Qs,A,Q,h,s,0,0,offsuit,12,64.36,63.63,1.45,56.10,59.20,8.4,Tier 2 (Strong),100% Open (All Positions)
+78,AdQs,AQo,Ad,Qs,A,Q,d,s,0,0,offsuit,12,64.36,63.63,1.45,56.10,59.20,8.4,Tier 2 (Strong),100% Open (All Positions)
+79,AcQs,AQo,Ac,Qs,A,Q,c,s,0,0,offsuit,12,64.36,63.63,1.45,56.10,59.20,8.4,Tier 2 (Strong),100% Open (All Positions)
+80,AsQh,AQo,As,Qh,A,Q,s,h,0,0,offsuit,12,64.36,63.63,1.45,56.10,59.20,8.4,Tier 2 (Strong),100% Open (All Positions)
+81,AdQh,AQo,Ad,Qh,A,Q,d,h,0,0,offsuit,12,64.36,63.63,1.45,56.10,59.20,8.4,Tier 2 (Strong),100% Open (All Positions)
+82,AcQh,AQo,Ac,Qh,A,Q,c,h,0,0,offsuit,12,64.36,63.63,1.45,56.10,59.20,8.4,Tier 2 (Strong),100% Open (All Positions)
+83,AsQd,AQo,As,Qd,A,Q,s,d,0,0,offsuit,12,64.36,63.63,1.45,56.10,59.20,8.4,Tier 2 (Strong),100% Open (All Positions)
+84,AhQd,AQo,Ah,Qd,A,Q,h,d,0,0,offsuit,12,64.36,63.63,1.45,56.10,59.20,8.4,Tier 2 (Strong),100% Open (All Positions)
+85,AcQd,AQo,Ac,Qd,A,Q,c,d,0,0,offsuit,12,64.36,63.63,1.45,56.10,59.20,8.4,Tier 2 (Strong),100% Open (All Positions)
+86,AsQc,AQo,As,Qc,A,Q,s,c,0,0,offsuit,12,64.36,63.63,1.45,56.10,59.20,8.4,Tier 2 (Strong),100% Open (All Positions)
+87,AhQc,AQo,Ah,Qc,A,Q,h,c,0,0,offsuit,12,64.36,63.63,1.45,56.10,59.20,8.4,Tier 2 (Strong),100% Open (All Positions)
+88,AdQc,AQo,Ad,Qc,A,Q,d,c,0,0,offsuit,12,64.36,63.63,1.45,56.10,59.20,8.4,Tier 2 (Strong),100% Open (All Positions)
+89,AhJs,AJo,Ah,Js,A,J,h,s,0,0,offsuit,12,63.53,62.80,1.45,52.20,56.00,7.9,Tier 2 (Strong),Open (MP/CO/BTN)
+90,AdJs,AJo,Ad,Js,A,J,d,s,0,0,offsuit,12,63.53,62.80,1.45,52.20,56.00,7.9,Tier 2 (Strong),Open (MP/CO/BTN)
+91,AcJs,AJo,Ac,Js,A,J,c,s,0,0,offsuit,12,63.53,62.80,1.45,52.20,56.00,7.9,Tier 2 (Strong),Open (MP/CO/BTN)
+92,AsJh,AJo,As,Jh,A,J,s,h,0,0,offsuit,12,63.53,62.80,1.45,52.20,56.00,7.9,Tier 2 (Strong),Open (MP/CO/BTN)
+93,AdJh,AJo,Ad,Jh,A,J,d,h,0,0,offsuit,12,63.53,62.80,1.45,52.20,56.00,7.9,Tier 2 (Strong),Open (MP/CO/BTN)
+94,AcJh,AJo,Ac,Jh,A,J,c,h,0,0,offsuit,12,63.53,62.80,1.45,52.20,56.00,7.9,Tier 2 (Strong),Open (MP/CO/BTN)
+95,AsJd,AJo,As,Jd,A,J,s,d,0,0,offsuit,12,63.53,62.80,1.45,52.20,56.00,7.9,Tier 2 (Strong),Open (MP/CO/BTN)
+96,AhJd,AJo,Ah,Jd,A,J,h,d,0,0,offsuit,12,63.53,62.80,1.45,52.20,56.00,7.9,Tier 2 (Strong),Open (MP/CO/BTN)
+97,AcJd,AJo,Ac,Jd,A,J,c,d,0,0,offsuit,12,63.53,62.80,1.45,52.20,56.00,7.9,Tier 2 (Strong),Open (MP/CO/BTN)
+98,AsJc,AJo,As,Jc,A,J,s,c,0,0,offsuit,12,63.53,62.80,1.45,52.20,56.00,7.9,Tier 2 (Strong),Open (MP/CO/BTN)
+99,AhJc,AJo,Ah,Jc,A,J,h,c,0,0,offsuit,12,63.53,62.80,1.45,52.20,56.00,7.9,Tier 2 (Strong),Open (MP/CO/BTN)
+100,AdJc,AJo,Ad,Jc,A,J,d,c,0,0,offsuit,12,63.53,62.80,1.45,52.20,56.00,7.9,Tier 2 (Strong),Open (MP/CO/BTN)
+101,KsQs,KQs,Ks,Qs,K,Q,s,s,1,0,suited,4,63.42,62.82,1.20,53.20,57.60,8.9,Tier 2 (Strong),100% Open (All Positions)
+102,KhQh,KQs,Kh,Qh,K,Q,h,h,1,0,suited,4,63.42,62.82,1.20,53.20,57.60,8.9,Tier 2 (Strong),100% Open (All Positions)
+103,KdQd,KQs,Kd,Qd,K,Q,d,d,1,0,suited,4,63.42,62.82,1.20,53.20,57.60,8.9,Tier 2 (Strong),100% Open (All Positions)
+104,KcQc,KQs,Kc,Qc,K,Q,c,c,1,0,suited,4,63.42,62.82,1.20,53.20,57.60,8.9,Tier 2 (Strong),100% Open (All Positions)
+105,6s6h,66,6s,6h,6,6,s,h,0,1,pair,6,63.28,62.86,0.85,39.80,47.40,7.2,Tier 3 (Playable),Open (CO/BTN only)
+106,6s6d,66,6s,6d,6,6,s,d,0,1,pair,6,63.28,62.86,0.85,39.80,47.40,7.2,Tier 3 (Playable),Open (CO/BTN only)
+107,6s6c,66,6s,6c,6,6,s,c,0,1,pair,6,63.28,62.86,0.85,39.80,47.40,7.2,Tier 3 (Playable),Open (CO/BTN only)
+108,6h6d,66,6h,6d,6,6,h,d,0,1,pair,6,63.28,62.86,0.85,39.80,47.40,7.2,Tier 3 (Playable),Open (CO/BTN only)
+109,6h6c,66,6h,6c,6,6,h,c,0,1,pair,6,63.28,62.86,0.85,39.80,47.40,7.2,Tier 3 (Playable),Open (CO/BTN only)
+110,6d6c,66,6d,6c,6,6,d,c,0,1,pair,6,63.28,62.86,0.85,39.80,47.40,7.2,Tier 3 (Playable),Open (CO/BTN only)
+111,As9s,A9s,As,9s,A,9,s,s,1,0,suited,4,62.96,62.36,1.20,46.80,52.30,8.1,Tier 2 (Strong),Open (MP/CO/BTN)
+112,Ah9h,A9s,Ah,9h,A,9,h,h,1,0,suited,4,62.96,62.36,1.20,46.80,52.30,8.1,Tier 2 (Strong),Open (MP/CO/BTN)
+113,Ad9d,A9s,Ad,9d,A,9,d,d,1,0,suited,4,62.96,62.36,1.20,46.80,52.30,8.1,Tier 2 (Strong),Open (MP/CO/BTN)
+114,Ac9c,A9s,Ac,9c,A,9,c,c,1,0,suited,4,62.96,62.36,1.20,46.80,52.30,8.1,Tier 2 (Strong),Open (MP/CO/BTN)
+115,AhTs,ATo,Ah,Ts,A,T,h,s,0,0,offsuit,12,62.68,61.95,1.45,48.70,53.10,7.4,Tier 3 (Playable),Open (CO/BTN only)
+116,AdTs,ATo,Ad,Ts,A,T,d,s,0,0,offsuit,12,62.68,61.95,1.45,48.70,53.10,7.4,Tier 3 (Playable),Open (CO/BTN only)
+117,AcTs,ATo,Ac,Ts,A,T,c,s,0,0,offsuit,12,62.68,61.95,1.45,48.70,53.10,7.4,Tier 3 (Playable),Open (CO/BTN only)
+118,AsTh,ATo,As,Th,A,T,s,h,0,0,offsuit,12,62.68,61.95,1.45,48.70,53.10,7.4,Tier 3 (Playable),Open (CO/BTN only)
+119,AdTh,ATo,Ad,Th,A,T,d,h,0,0,offsuit,12,62.68,61.95,1.45,48.70,53.10,7.4,Tier 3 (Playable),Open (CO/BTN only)
+120,AcTh,ATo,Ac,Th,A,T,c,h,0,0,offsuit,12,62.68,61.95,1.45,48.70,53.10,7.4,Tier 3 (Playable),Open (CO/BTN only)
+121,AsTd,ATo,As,Td,A,T,s,d,0,0,offsuit,12,62.68,61.95,1.45,48.70,53.10,7.4,Tier 3 (Playable),Open (CO/BTN only)
+122,AhTd,ATo,Ah,Td,A,T,h,d,0,0,offsuit,12,62.68,61.95,1.45,48.70,53.10,7.4,Tier 3 (Playable),Open (CO/BTN only)
+123,AcTd,ATo,Ac,Td,A,T,c,d,0,0,offsuit,12,62.68,61.95,1.45,48.70,53.10,7.4,Tier 3 (Playable),Open (CO/BTN only)
+124,AsTc,ATo,As,Tc,A,T,s,c,0,0,offsuit,12,62.68,61.95,1.45,48.70,53.10,7.4,Tier 3 (Playable),Open (CO/BTN only)
+125,AhTc,ATo,Ah,Tc,A,T,h,c,0,0,offsuit,12,62.68,61.95,1.45,48.70,53.10,7.4,Tier 3 (Playable),Open (CO/BTN only)
+126,AdTc,ATo,Ad,Tc,A,T,d,c,0,0,offsuit,12,62.68,61.95,1.45,48.70,53.10,7.4,Tier 3 (Playable),Open (CO/BTN only)
+127,KsJs,KJs,Ks,Js,K,J,s,s,1,0,suited,4,62.59,61.99,1.20,49.60,54.80,8.5,Tier 2 (Strong),Open (MP/CO/BTN)
+128,KhJh,KJs,Kh,Jh,K,J,h,h,1,0,suited,4,62.59,61.99,1.20,49.60,54.80,8.5,Tier 2 (Strong),Open (MP/CO/BTN)
+129,KdJd,KJs,Kd,Jd,K,J,d,d,1,0,suited,4,62.59,61.99,1.20,49.60,54.80,8.5,Tier 2 (Strong),Open (MP/CO/BTN)
+130,KcJc,KJs,Kc,Jc,K,J,c,c,1,0,suited,4,62.59,61.99,1.20,49.60,54.80,8.5,Tier 2 (Strong),Open (MP/CO/BTN)
+131,As8s,A8s,As,8s,A,8,s,s,1,0,suited,4,62.05,61.45,1.20,44.50,50.40,7.8,Tier 3 (Playable),Open (CO/BTN only)
+132,Ah8h,A8s,Ah,8h,A,8,h,h,1,0,suited,4,62.05,61.45,1.20,44.50,50.40,7.8,Tier 3 (Playable),Open (CO/BTN only)
+133,Ad8d,A8s,Ad,8d,A,8,d,d,1,0,suited,4,62.05,61.45,1.20,44.50,50.40,7.8,Tier 3 (Playable),Open (CO/BTN only)
+134,Ac8c,A8s,Ac,8c,A,8,c,c,1,0,suited,4,62.05,61.45,1.20,44.50,50.40,7.8,Tier 3 (Playable),Open (CO/BTN only)
+135,KsTs,KTs,Ks,Ts,K,T,s,s,1,0,suited,4,61.76,61.16,1.20,46.50,52.30,8.2,Tier 2 (Strong),Open (MP/CO/BTN)
+136,KhTh,KTs,Kh,Th,K,T,h,h,1,0,suited,4,61.76,61.16,1.20,46.50,52.30,8.2,Tier 2 (Strong),Open (MP/CO/BTN)
+137,KdTd,KTs,Kd,Td,K,T,d,d,1,0,suited,4,61.76,61.16,1.20,46.50,52.30,8.2,Tier 2 (Strong),Open (MP/CO/BTN)
+138,KcTc,KTs,Kc,Tc,K,T,c,c,1,0,suited,4,61.76,61.16,1.20,46.50,52.30,8.2,Tier 2 (Strong),Open (MP/CO/BTN)
+139,KhQs,KQo,Kh,Qs,K,Q,h,s,0,0,offsuit,12,61.42,60.70,1.45,50.10,54.80,7.7,Tier 2 (Strong),Open (MP/CO/BTN)
+140,KdQs,KQo,Kd,Qs,K,Q,d,s,0,0,offsuit,12,61.42,60.70,1.45,50.10,54.80,7.7,Tier 2 (Strong),Open (MP/CO/BTN)
+141,KcQs,KQo,Kc,Qs,K,Q,c,s,0,0,offsuit,12,61.42,60.70,1.45,50.10,54.80,7.7,Tier 2 (Strong),Open (MP/CO/BTN)
+142,KsQh,KQo,Ks,Qh,K,Q,s,h,0,0,offsuit,12,61.42,60.70,1.45,50.10,54.80,7.7,Tier 2 (Strong),Open (MP/CO/BTN)
+143,KdQh,KQo,Kd,Qh,K,Q,d,h,0,0,offsuit,12,61.42,60.70,1.45,50.10,54.80,7.7,Tier 2 (Strong),Open (MP/CO/BTN)
+144,KcQh,KQo,Kc,Qh,K,Q,c,h,0,0,offsuit,12,61.42,60.70,1.45,50.10,54.80,7.7,Tier 2 (Strong),Open (MP/CO/BTN)
+145,KsQd,KQo,Ks,Qd,K,Q,s,d,0,0,offsuit,12,61.42,60.70,1.45,50.10,54.80,7.7,Tier 2 (Strong),Open (MP/CO/BTN)
+146,KhQd,KQo,Kh,Qd,K,Q,h,d,0,0,offsuit,12,61.42,60.70,1.45,50.10,54.80,7.7,Tier 2 (Strong),Open (MP/CO/BTN)
+147,KcQd,KQo,Kc,Qd,K,Q,c,d,0,0,offsuit,12,61.42,60.70,1.45,50.10,54.80,7.7,Tier 2 (Strong),Open (MP/CO/BTN)
+148,KsQc,KQo,Ks,Qc,K,Q,s,c,0,0,offsuit,12,61.42,60.70,1.45,50.10,54.80,7.7,Tier 2 (Strong),Open (MP/CO/BTN)
+149,KhQc,KQo,Kh,Qc,K,Q,h,c,0,0,offsuit,12,61.42,60.70,1.45,50.10,54.80,7.7,Tier 2 (Strong),Open (MP/CO/BTN)
+150,KdQc,KQo,Kd,Qc,K,Q,d,c,0,0,offsuit,12,61.42,60.70,1.45,50.10,54.80,7.7,Tier 2 (Strong),Open (MP/CO/BTN)
+151,As7s,A7s,As,7s,A,7,s,s,1,0,suited,4,61.12,60.52,1.20,42.40,48.60,7.5,Tier 3 (Playable),Open (CO/BTN only)
+152,Ah7h,A7s,Ah,7h,A,7,h,h,1,0,suited,4,61.12,60.52,1.20,42.40,48.60,7.5,Tier 3 (Playable),Open (CO/BTN only)
+153,Ad7d,A7s,Ad,7d,A,7,d,d,1,0,suited,4,61.12,60.52,1.20,42.40,48.60,7.5,Tier 3 (Playable),Open (CO/BTN only)
+154,Ac7c,A7s,Ac,7c,A,7,c,c,1,0,suited,4,61.12,60.52,1.20,42.40,48.60,7.5,Tier 3 (Playable),Open (CO/BTN only)
+155,Ah9s,A9o,Ah,9s,A,9,h,s,0,0,offsuit,12,60.77,60.05,1.45,43.60,49.00,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+156,Ad9s,A9o,Ad,9s,A,9,d,s,0,0,offsuit,12,60.77,60.05,1.45,43.60,49.00,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+157,Ac9s,A9o,Ac,9s,A,9,c,s,0,0,offsuit,12,60.77,60.05,1.45,43.60,49.00,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+158,As9h,A9o,As,9h,A,9,s,h,0,0,offsuit,12,60.77,60.05,1.45,43.60,49.00,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+159,Ad9h,A9o,Ad,9h,A,9,d,h,0,0,offsuit,12,60.77,60.05,1.45,43.60,49.00,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+160,Ac9h,A9o,Ac,9h,A,9,c,h,0,0,offsuit,12,60.77,60.05,1.45,43.60,49.00,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+161,As9d,A9o,As,9d,A,9,s,d,0,0,offsuit,12,60.77,60.05,1.45,43.60,49.00,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+162,Ah9d,A9o,Ah,9d,A,9,h,d,0,0,offsuit,12,60.77,60.05,1.45,43.60,49.00,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+163,Ac9d,A9o,Ac,9d,A,9,c,d,0,0,offsuit,12,60.77,60.05,1.45,43.60,49.00,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+164,As9c,A9o,As,9c,A,9,s,c,0,0,offsuit,12,60.77,60.05,1.45,43.60,49.00,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+165,Ah9c,A9o,Ah,9c,A,9,h,c,0,0,offsuit,12,60.77,60.05,1.45,43.60,49.00,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+166,Ad9c,A9o,Ad,9c,A,9,d,c,0,0,offsuit,12,60.77,60.05,1.45,43.60,49.00,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+167,KhJs,KJo,Kh,Js,K,J,h,s,0,0,offsuit,12,60.50,59.77,1.45,46.20,51.80,7.2,Tier 3 (Playable),Open (CO/BTN only)
+168,KdJs,KJo,Kd,Js,K,J,d,s,0,0,offsuit,12,60.50,59.77,1.45,46.20,51.80,7.2,Tier 3 (Playable),Open (CO/BTN only)
+169,KcJs,KJo,Kc,Js,K,J,c,s,0,0,offsuit,12,60.50,59.77,1.45,46.20,51.80,7.2,Tier 3 (Playable),Open (CO/BTN only)
+170,KsJh,KJo,Ks,Jh,K,J,s,h,0,0,offsuit,12,60.50,59.77,1.45,46.20,51.80,7.2,Tier 3 (Playable),Open (CO/BTN only)
+171,KdJh,KJo,Kd,Jh,K,J,d,h,0,0,offsuit,12,60.50,59.77,1.45,46.20,51.80,7.2,Tier 3 (Playable),Open (CO/BTN only)
+172,KcJh,KJo,Kc,Jh,K,J,c,h,0,0,offsuit,12,60.50,59.77,1.45,46.20,51.80,7.2,Tier 3 (Playable),Open (CO/BTN only)
+173,KsJd,KJo,Ks,Jd,K,J,s,d,0,0,offsuit,12,60.50,59.77,1.45,46.20,51.80,7.2,Tier 3 (Playable),Open (CO/BTN only)
+174,KhJd,KJo,Kh,Jd,K,J,h,d,0,0,offsuit,12,60.50,59.77,1.45,46.20,51.80,7.2,Tier 3 (Playable),Open (CO/BTN only)
+175,KcJd,KJo,Kc,Jd,K,J,c,d,0,0,offsuit,12,60.50,59.77,1.45,46.20,51.80,7.2,Tier 3 (Playable),Open (CO/BTN only)
+176,KsJc,KJo,Ks,Jc,K,J,s,c,0,0,offsuit,12,60.50,59.77,1.45,46.20,51.80,7.2,Tier 3 (Playable),Open (CO/BTN only)
+177,KhJc,KJo,Kh,Jc,K,J,h,c,0,0,offsuit,12,60.50,59.77,1.45,46.20,51.80,7.2,Tier 3 (Playable),Open (CO/BTN only)
+178,KdJc,KJo,Kd,Jc,K,J,d,c,0,0,offsuit,12,60.50,59.77,1.45,46.20,51.80,7.2,Tier 3 (Playable),Open (CO/BTN only)
+179,As5s,A5s,As,5s,A,5,s,s,1,0,suited,4,60.40,59.80,1.20,41.50,47.90,8.0,Tier 2 (Strong),Open (MP/CO/BTN)
+180,Ah5h,A5s,Ah,5h,A,5,h,h,1,0,suited,4,60.40,59.80,1.20,41.50,47.90,8.0,Tier 2 (Strong),Open (MP/CO/BTN)
+181,Ad5d,A5s,Ad,5d,A,5,d,d,1,0,suited,4,60.40,59.80,1.20,41.50,47.90,8.0,Tier 2 (Strong),Open (MP/CO/BTN)
+182,Ac5c,A5s,Ac,5c,A,5,c,c,1,0,suited,4,60.40,59.80,1.20,41.50,47.90,8.0,Tier 2 (Strong),Open (MP/CO/BTN)
+183,5s5h,55,5s,5h,5,5,s,h,0,1,pair,6,60.34,59.92,0.85,37.10,44.50,6.8,Tier 3 (Playable),Open (CO/BTN only)
+184,5s5d,55,5s,5d,5,5,s,d,0,1,pair,6,60.34,59.92,0.85,37.10,44.50,6.8,Tier 3 (Playable),Open (CO/BTN only)
+185,5s5c,55,5s,5c,5,5,s,c,0,1,pair,6,60.34,59.92,0.85,37.10,44.50,6.8,Tier 3 (Playable),Open (CO/BTN only)
+186,5h5d,55,5h,5d,5,5,h,d,0,1,pair,6,60.34,59.92,0.85,37.10,44.50,6.8,Tier 3 (Playable),Open (CO/BTN only)
+187,5h5c,55,5h,5c,5,5,h,c,0,1,pair,6,60.34,59.92,0.85,37.10,44.50,6.8,Tier 3 (Playable),Open (CO/BTN only)
+188,5d5c,55,5d,5c,5,5,d,c,0,1,pair,6,60.34,59.92,0.85,37.10,44.50,6.8,Tier 3 (Playable),Open (CO/BTN only)
+189,QsJs,QJs,Qs,Js,Q,J,s,s,1,0,suited,4,60.33,59.73,1.20,46.10,52.10,8.4,Tier 2 (Strong),Open (MP/CO/BTN)
+190,QhJh,QJs,Qh,Jh,Q,J,h,h,1,0,suited,4,60.33,59.73,1.20,46.10,52.10,8.4,Tier 2 (Strong),Open (MP/CO/BTN)
+191,QdJd,QJs,Qd,Jd,Q,J,d,d,1,0,suited,4,60.33,59.73,1.20,46.10,52.10,8.4,Tier 2 (Strong),Open (MP/CO/BTN)
+192,QcJc,QJs,Qc,Jc,Q,J,c,c,1,0,suited,4,60.33,59.73,1.20,46.10,52.10,8.4,Tier 2 (Strong),Open (MP/CO/BTN)
+193,As6s,A6s,As,6s,A,6,s,s,1,0,suited,4,60.03,59.43,1.20,40.40,46.80,7.2,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+194,Ah6h,A6s,Ah,6h,A,6,h,h,1,0,suited,4,60.03,59.43,1.20,40.40,46.80,7.2,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+195,Ad6d,A6s,Ad,6d,A,6,d,d,1,0,suited,4,60.03,59.43,1.20,40.40,46.80,7.2,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+196,Ac6c,A6s,Ac,6c,A,6,c,c,1,0,suited,4,60.03,59.43,1.20,40.40,46.80,7.2,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+197,Ks9s,K9s,Ks,9s,K,9,s,s,1,0,suited,4,59.85,59.25,1.20,41.50,48.00,7.4,Tier 3 (Playable),Open (CO/BTN only)
+198,Kh9h,K9s,Kh,9h,K,9,h,h,1,0,suited,4,59.85,59.25,1.20,41.50,48.00,7.4,Tier 3 (Playable),Open (CO/BTN only)
+199,Kd9d,K9s,Kd,9d,K,9,d,d,1,0,suited,4,59.85,59.25,1.20,41.50,48.00,7.4,Tier 3 (Playable),Open (CO/BTN only)
+200,Kc9c,K9s,Kc,9c,K,9,c,c,1,0,suited,4,59.85,59.25,1.20,41.50,48.00,7.4,Tier 3 (Playable),Open (CO/BTN only)
+201,Ah8s,A8o,Ah,8s,A,8,h,s,0,0,offsuit,12,59.73,59.00,1.45,41.10,46.90,6.1,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+202,Ad8s,A8o,Ad,8s,A,8,d,s,0,0,offsuit,12,59.73,59.00,1.45,41.10,46.90,6.1,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+203,Ac8s,A8o,Ac,8s,A,8,c,s,0,0,offsuit,12,59.73,59.00,1.45,41.10,46.90,6.1,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+204,As8h,A8o,As,8h,A,8,s,h,0,0,offsuit,12,59.73,59.00,1.45,41.10,46.90,6.1,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+205,Ad8h,A8o,Ad,8h,A,8,d,h,0,0,offsuit,12,59.73,59.00,1.45,41.10,46.90,6.1,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+206,Ac8h,A8o,Ac,8h,A,8,c,h,0,0,offsuit,12,59.73,59.00,1.45,41.10,46.90,6.1,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+207,As8d,A8o,As,8d,A,8,s,d,0,0,offsuit,12,59.73,59.00,1.45,41.10,46.90,6.1,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+208,Ah8d,A8o,Ah,8d,A,8,h,d,0,0,offsuit,12,59.73,59.00,1.45,41.10,46.90,6.1,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+209,Ac8d,A8o,Ac,8d,A,8,c,d,0,0,offsuit,12,59.73,59.00,1.45,41.10,46.90,6.1,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+210,As8c,A8o,As,8c,A,8,s,c,0,0,offsuit,12,59.73,59.00,1.45,41.10,46.90,6.1,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+211,Ah8c,A8o,Ah,8c,A,8,h,c,0,0,offsuit,12,59.73,59.00,1.45,41.10,46.90,6.1,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+212,Ad8c,A8o,Ad,8c,A,8,d,c,0,0,offsuit,12,59.73,59.00,1.45,41.10,46.90,6.1,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+213,KhTs,KTo,Kh,Ts,K,T,h,s,0,0,offsuit,12,59.56,58.84,1.45,42.90,49.10,6.8,Tier 3 (Playable),Open (CO/BTN only)
+214,KdTs,KTo,Kd,Ts,K,T,d,s,0,0,offsuit,12,59.56,58.84,1.45,42.90,49.10,6.8,Tier 3 (Playable),Open (CO/BTN only)
+215,KcTs,KTo,Kc,Ts,K,T,c,s,0,0,offsuit,12,59.56,58.84,1.45,42.90,49.10,6.8,Tier 3 (Playable),Open (CO/BTN only)
+216,KsTh,KTo,Ks,Th,K,T,s,h,0,0,offsuit,12,59.56,58.84,1.45,42.90,49.10,6.8,Tier 3 (Playable),Open (CO/BTN only)
+217,KdTh,KTo,Kd,Th,K,T,d,h,0,0,offsuit,12,59.56,58.84,1.45,42.90,49.10,6.8,Tier 3 (Playable),Open (CO/BTN only)
+218,KcTh,KTo,Kc,Th,K,T,c,h,0,0,offsuit,12,59.56,58.84,1.45,42.90,49.10,6.8,Tier 3 (Playable),Open (CO/BTN only)
+219,KsTd,KTo,Ks,Td,K,T,s,d,0,0,offsuit,12,59.56,58.84,1.45,42.90,49.10,6.8,Tier 3 (Playable),Open (CO/BTN only)
+220,KhTd,KTo,Kh,Td,K,T,h,d,0,0,offsuit,12,59.56,58.84,1.45,42.90,49.10,6.8,Tier 3 (Playable),Open (CO/BTN only)
+221,KcTd,KTo,Kc,Td,K,T,c,d,0,0,offsuit,12,59.56,58.84,1.45,42.90,49.10,6.8,Tier 3 (Playable),Open (CO/BTN only)
+222,KsTc,KTo,Ks,Tc,K,T,s,c,0,0,offsuit,12,59.56,58.84,1.45,42.90,49.10,6.8,Tier 3 (Playable),Open (CO/BTN only)
+223,KhTc,KTo,Kh,Tc,K,T,h,c,0,0,offsuit,12,59.56,58.84,1.45,42.90,49.10,6.8,Tier 3 (Playable),Open (CO/BTN only)
+224,KdTc,KTo,Kd,Tc,K,T,d,c,0,0,offsuit,12,59.56,58.84,1.45,42.90,49.10,6.8,Tier 3 (Playable),Open (CO/BTN only)
+225,As4s,A4s,As,4s,A,4,s,s,1,0,suited,4,59.54,58.94,1.20,39.80,46.20,7.7,Tier 3 (Playable),Open (CO/BTN only)
+226,Ah4h,A4s,Ah,4h,A,4,h,h,1,0,suited,4,59.54,58.94,1.20,39.80,46.20,7.7,Tier 3 (Playable),Open (CO/BTN only)
+227,Ad4d,A4s,Ad,4d,A,4,d,d,1,0,suited,4,59.54,58.94,1.20,39.80,46.20,7.7,Tier 3 (Playable),Open (CO/BTN only)
+228,Ac4c,A4s,Ac,4c,A,4,c,c,1,0,suited,4,59.54,58.94,1.20,39.80,46.20,7.7,Tier 3 (Playable),Open (CO/BTN only)
+229,QsTs,QTs,Qs,Ts,Q,T,s,s,1,0,suited,4,59.48,58.88,1.20,43.10,49.80,8.0,Tier 3 (Playable),Open (CO/BTN only)
+230,QhTh,QTs,Qh,Th,Q,T,h,h,1,0,suited,4,59.48,58.88,1.20,43.10,49.80,8.0,Tier 3 (Playable),Open (CO/BTN only)
+231,QdTd,QTs,Qd,Td,Q,T,d,d,1,0,suited,4,59.48,58.88,1.20,43.10,49.80,8.0,Tier 3 (Playable),Open (CO/BTN only)
+232,QcTc,QTs,Qc,Tc,Q,T,c,c,1,0,suited,4,59.48,58.88,1.20,43.10,49.80,8.0,Tier 3 (Playable),Open (CO/BTN only)
+233,As3s,A3s,As,3s,A,3,s,s,1,0,suited,4,58.74,58.14,1.20,38.30,44.70,7.4,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+234,Ah3h,A3s,Ah,3h,A,3,h,h,1,0,suited,4,58.74,58.14,1.20,38.30,44.70,7.4,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+235,Ad3d,A3s,Ad,3d,A,3,d,d,1,0,suited,4,58.74,58.14,1.20,38.30,44.70,7.4,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+236,Ac3c,A3s,Ac,3c,A,3,c,c,1,0,suited,4,58.74,58.14,1.20,38.30,44.70,7.4,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+237,Ah7s,A7o,Ah,7s,A,7,h,s,0,0,offsuit,12,58.67,57.95,1.45,38.80,44.90,5.7,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+238,Ad7s,A7o,Ad,7s,A,7,d,s,0,0,offsuit,12,58.67,57.95,1.45,38.80,44.90,5.7,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+239,Ac7s,A7o,Ac,7s,A,7,c,s,0,0,offsuit,12,58.67,57.95,1.45,38.80,44.90,5.7,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+240,As7h,A7o,As,7h,A,7,s,h,0,0,offsuit,12,58.67,57.95,1.45,38.80,44.90,5.7,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+241,Ad7h,A7o,Ad,7h,A,7,d,h,0,0,offsuit,12,58.67,57.95,1.45,38.80,44.90,5.7,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+242,Ac7h,A7o,Ac,7h,A,7,c,h,0,0,offsuit,12,58.67,57.95,1.45,38.80,44.90,5.7,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+243,As7d,A7o,As,7d,A,7,s,d,0,0,offsuit,12,58.67,57.95,1.45,38.80,44.90,5.7,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+244,Ah7d,A7o,Ah,7d,A,7,h,d,0,0,offsuit,12,58.67,57.95,1.45,38.80,44.90,5.7,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+245,Ac7d,A7o,Ac,7d,A,7,c,d,0,0,offsuit,12,58.67,57.95,1.45,38.80,44.90,5.7,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+246,As7c,A7o,As,7c,A,7,s,c,0,0,offsuit,12,58.67,57.95,1.45,38.80,44.90,5.7,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+247,Ah7c,A7o,Ah,7c,A,7,h,c,0,0,offsuit,12,58.67,57.95,1.45,38.80,44.90,5.7,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+248,Ad7c,A7o,Ad,7c,A,7,d,c,0,0,offsuit,12,58.67,57.95,1.45,38.80,44.90,5.7,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+249,Ks8s,K8s,Ks,8s,K,8,s,s,1,0,suited,4,58.48,57.88,1.20,38.60,45.30,6.9,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+250,Kh8h,K8s,Kh,8h,K,8,h,h,1,0,suited,4,58.48,57.88,1.20,38.60,45.30,6.9,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+251,Kd8d,K8s,Kd,8d,K,8,d,d,1,0,suited,4,58.48,57.88,1.20,38.60,45.30,6.9,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+252,Kc8c,K8s,Kc,8c,K,8,c,c,1,0,suited,4,58.48,57.88,1.20,38.60,45.30,6.9,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+253,QhJs,QJo,Qh,Js,Q,J,h,s,0,0,offsuit,12,58.07,57.34,1.45,42.40,48.80,7.0,Tier 3 (Playable),Open (CO/BTN only)
+254,QdJs,QJo,Qd,Js,Q,J,d,s,0,0,offsuit,12,58.07,57.34,1.45,42.40,48.80,7.0,Tier 3 (Playable),Open (CO/BTN only)
+255,QcJs,QJo,Qc,Js,Q,J,c,s,0,0,offsuit,12,58.07,57.34,1.45,42.40,48.80,7.0,Tier 3 (Playable),Open (CO/BTN only)
+256,QsJh,QJo,Qs,Jh,Q,J,s,h,0,0,offsuit,12,58.07,57.34,1.45,42.40,48.80,7.0,Tier 3 (Playable),Open (CO/BTN only)
+257,QdJh,QJo,Qd,Jh,Q,J,d,h,0,0,offsuit,12,58.07,57.34,1.45,42.40,48.80,7.0,Tier 3 (Playable),Open (CO/BTN only)
+258,QcJh,QJo,Qc,Jh,Q,J,c,h,0,0,offsuit,12,58.07,57.34,1.45,42.40,48.80,7.0,Tier 3 (Playable),Open (CO/BTN only)
+259,QsJd,QJo,Qs,Jd,Q,J,s,d,0,0,offsuit,12,58.07,57.34,1.45,42.40,48.80,7.0,Tier 3 (Playable),Open (CO/BTN only)
+260,QhJd,QJo,Qh,Jd,Q,J,h,d,0,0,offsuit,12,58.07,57.34,1.45,42.40,48.80,7.0,Tier 3 (Playable),Open (CO/BTN only)
+261,QcJd,QJo,Qc,Jd,Q,J,c,d,0,0,offsuit,12,58.07,57.34,1.45,42.40,48.80,7.0,Tier 3 (Playable),Open (CO/BTN only)
+262,QsJc,QJo,Qs,Jc,Q,J,s,c,0,0,offsuit,12,58.07,57.34,1.45,42.40,48.80,7.0,Tier 3 (Playable),Open (CO/BTN only)
+263,QhJc,QJo,Qh,Jc,Q,J,h,c,0,0,offsuit,12,58.07,57.34,1.45,42.40,48.80,7.0,Tier 3 (Playable),Open (CO/BTN only)
+264,QdJc,QJo,Qd,Jc,Q,J,d,c,0,0,offsuit,12,58.07,57.34,1.45,42.40,48.80,7.0,Tier 3 (Playable),Open (CO/BTN only)
+265,As2s,A2s,As,2s,A,2,s,s,1,0,suited,4,57.85,57.25,1.20,36.90,43.30,7.1,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+266,Ah2h,A2s,Ah,2h,A,2,h,h,1,0,suited,4,57.85,57.25,1.20,36.90,43.30,7.1,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+267,Ad2d,A2s,Ad,2d,A,2,d,d,1,0,suited,4,57.85,57.25,1.20,36.90,43.30,7.1,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+268,Ac2c,A2s,Ac,2c,A,2,c,c,1,0,suited,4,57.85,57.25,1.20,36.90,43.30,7.1,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+269,Ah5s,A5o,Ah,5s,A,5,h,s,0,0,offsuit,12,57.73,57.00,1.45,37.60,44.00,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+270,Ad5s,A5o,Ad,5s,A,5,d,s,0,0,offsuit,12,57.73,57.00,1.45,37.60,44.00,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+271,Ac5s,A5o,Ac,5s,A,5,c,s,0,0,offsuit,12,57.73,57.00,1.45,37.60,44.00,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+272,As5h,A5o,As,5h,A,5,s,h,0,0,offsuit,12,57.73,57.00,1.45,37.60,44.00,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+273,Ad5h,A5o,Ad,5h,A,5,d,h,0,0,offsuit,12,57.73,57.00,1.45,37.60,44.00,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+274,Ac5h,A5o,Ac,5h,A,5,c,h,0,0,offsuit,12,57.73,57.00,1.45,37.60,44.00,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+275,As5d,A5o,As,5d,A,5,s,d,0,0,offsuit,12,57.73,57.00,1.45,37.60,44.00,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+276,Ah5d,A5o,Ah,5d,A,5,h,d,0,0,offsuit,12,57.73,57.00,1.45,37.60,44.00,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+277,Ac5d,A5o,Ac,5d,A,5,c,d,0,0,offsuit,12,57.73,57.00,1.45,37.60,44.00,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+278,As5c,A5o,As,5c,A,5,s,c,0,0,offsuit,12,57.73,57.00,1.45,37.60,44.00,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+279,Ah5c,A5o,Ah,5c,A,5,h,c,0,0,offsuit,12,57.73,57.00,1.45,37.60,44.00,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+280,Ad5c,A5o,Ad,5c,A,5,d,c,0,0,offsuit,12,57.73,57.00,1.45,37.60,44.00,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+281,Ks7s,K7s,Ks,7s,K,7,s,s,1,0,suited,4,57.68,57.08,1.20,36.60,43.40,6.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+282,Kh7h,K7s,Kh,7h,K,7,h,h,1,0,suited,4,57.68,57.08,1.20,36.60,43.40,6.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+283,Kd7d,K7s,Kd,7d,K,7,d,d,1,0,suited,4,57.68,57.08,1.20,36.60,43.40,6.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+284,Kc7c,K7s,Kc,7c,K,7,c,c,1,0,suited,4,57.68,57.08,1.20,36.60,43.40,6.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+285,Qs9s,Q9s,Qs,9s,Q,9,s,s,1,0,suited,4,57.59,56.99,1.20,38.50,45.70,7.3,Tier 3 (Playable),Open (CO/BTN only)
+286,Qh9h,Q9s,Qh,9h,Q,9,h,h,1,0,suited,4,57.59,56.99,1.20,38.50,45.70,7.3,Tier 3 (Playable),Open (CO/BTN only)
+287,Qd9d,Q9s,Qd,9d,Q,9,d,d,1,0,suited,4,57.59,56.99,1.20,38.50,45.70,7.3,Tier 3 (Playable),Open (CO/BTN only)
+288,Qc9c,Q9s,Qc,9c,Q,9,c,c,1,0,suited,4,57.59,56.99,1.20,38.50,45.70,7.3,Tier 3 (Playable),Open (CO/BTN only)
+289,JsTs,JTs,Js,Ts,J,T,s,s,1,0,suited,4,57.54,56.94,1.20,40.50,47.80,8.3,Tier 2 (Strong),Open (MP/CO/BTN)
+290,JhTh,JTs,Jh,Th,J,T,h,h,1,0,suited,4,57.54,56.94,1.20,40.50,47.80,8.3,Tier 2 (Strong),Open (MP/CO/BTN)
+291,JdTd,JTs,Jd,Td,J,T,d,d,1,0,suited,4,57.54,56.94,1.20,40.50,47.80,8.3,Tier 2 (Strong),Open (MP/CO/BTN)
+292,JcTc,JTs,Jc,Tc,J,T,c,c,1,0,suited,4,57.54,56.94,1.20,40.50,47.80,8.3,Tier 2 (Strong),Open (MP/CO/BTN)
+293,Ah6s,A6o,Ah,6s,A,6,h,s,0,0,offsuit,12,57.44,56.71,1.45,36.60,42.90,5.3,Tier 5 (Trash),Pure Fold
+294,Ad6s,A6o,Ad,6s,A,6,d,s,0,0,offsuit,12,57.44,56.71,1.45,36.60,42.90,5.3,Tier 5 (Trash),Pure Fold
+295,Ac6s,A6o,Ac,6s,A,6,c,s,0,0,offsuit,12,57.44,56.71,1.45,36.60,42.90,5.3,Tier 5 (Trash),Pure Fold
+296,As6h,A6o,As,6h,A,6,s,h,0,0,offsuit,12,57.44,56.71,1.45,36.60,42.90,5.3,Tier 5 (Trash),Pure Fold
+297,Ad6h,A6o,Ad,6h,A,6,d,h,0,0,offsuit,12,57.44,56.71,1.45,36.60,42.90,5.3,Tier 5 (Trash),Pure Fold
+298,Ac6h,A6o,Ac,6h,A,6,c,h,0,0,offsuit,12,57.44,56.71,1.45,36.60,42.90,5.3,Tier 5 (Trash),Pure Fold
+299,As6d,A6o,As,6d,A,6,s,d,0,0,offsuit,12,57.44,56.71,1.45,36.60,42.90,5.3,Tier 5 (Trash),Pure Fold
+300,Ah6d,A6o,Ah,6d,A,6,h,d,0,0,offsuit,12,57.44,56.71,1.45,36.60,42.90,5.3,Tier 5 (Trash),Pure Fold
+301,Ac6d,A6o,Ac,6d,A,6,c,d,0,0,offsuit,12,57.44,56.71,1.45,36.60,42.90,5.3,Tier 5 (Trash),Pure Fold
+302,As6c,A6o,As,6c,A,6,s,c,0,0,offsuit,12,57.44,56.71,1.45,36.60,42.90,5.3,Tier 5 (Trash),Pure Fold
+303,Ah6c,A6o,Ah,6c,A,6,h,c,0,0,offsuit,12,57.44,56.71,1.45,36.60,42.90,5.3,Tier 5 (Trash),Pure Fold
+304,Ad6c,A6o,Ad,6c,A,6,d,c,0,0,offsuit,12,57.44,56.71,1.45,36.60,42.90,5.3,Tier 5 (Trash),Pure Fold
+305,Kh9s,K9o,Kh,9s,K,9,h,s,0,0,offsuit,12,57.37,56.64,1.45,37.70,44.50,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+306,Kd9s,K9o,Kd,9s,K,9,d,s,0,0,offsuit,12,57.37,56.64,1.45,37.70,44.50,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+307,Kc9s,K9o,Kc,9s,K,9,c,s,0,0,offsuit,12,57.37,56.64,1.45,37.70,44.50,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+308,Ks9h,K9o,Ks,9h,K,9,s,h,0,0,offsuit,12,57.37,56.64,1.45,37.70,44.50,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+309,Kd9h,K9o,Kd,9h,K,9,d,h,0,0,offsuit,12,57.37,56.64,1.45,37.70,44.50,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+310,Kc9h,K9o,Kc,9h,K,9,c,h,0,0,offsuit,12,57.37,56.64,1.45,37.70,44.50,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+311,Ks9d,K9o,Ks,9d,K,9,s,d,0,0,offsuit,12,57.37,56.64,1.45,37.70,44.50,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+312,Kh9d,K9o,Kh,9d,K,9,h,d,0,0,offsuit,12,57.37,56.64,1.45,37.70,44.50,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+313,Kc9d,K9o,Kc,9d,K,9,c,d,0,0,offsuit,12,57.37,56.64,1.45,37.70,44.50,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+314,Ks9c,K9o,Ks,9c,K,9,s,c,0,0,offsuit,12,57.37,56.64,1.45,37.70,44.50,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+315,Kh9c,K9o,Kh,9c,K,9,h,c,0,0,offsuit,12,57.37,56.64,1.45,37.70,44.50,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+316,Kd9c,K9o,Kd,9c,K,9,d,c,0,0,offsuit,12,57.37,56.64,1.45,37.70,44.50,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+317,QhTs,QTo,Qh,Ts,Q,T,h,s,0,0,offsuit,12,57.10,56.38,1.45,39.20,46.20,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+318,QdTs,QTo,Qd,Ts,Q,T,d,s,0,0,offsuit,12,57.10,56.38,1.45,39.20,46.20,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+319,QcTs,QTo,Qc,Ts,Q,T,c,s,0,0,offsuit,12,57.10,56.38,1.45,39.20,46.20,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+320,QsTh,QTo,Qs,Th,Q,T,s,h,0,0,offsuit,12,57.10,56.38,1.45,39.20,46.20,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+321,QdTh,QTo,Qd,Th,Q,T,d,h,0,0,offsuit,12,57.10,56.38,1.45,39.20,46.20,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+322,QcTh,QTo,Qc,Th,Q,T,c,h,0,0,offsuit,12,57.10,56.38,1.45,39.20,46.20,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+323,QsTd,QTo,Qs,Td,Q,T,s,d,0,0,offsuit,12,57.10,56.38,1.45,39.20,46.20,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+324,QhTd,QTo,Qh,Td,Q,T,h,d,0,0,offsuit,12,57.10,56.38,1.45,39.20,46.20,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+325,QcTd,QTo,Qc,Td,Q,T,c,d,0,0,offsuit,12,57.10,56.38,1.45,39.20,46.20,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+326,QsTc,QTo,Qs,Tc,Q,T,s,c,0,0,offsuit,12,57.10,56.38,1.45,39.20,46.20,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+327,QhTc,QTo,Qh,Tc,Q,T,h,c,0,0,offsuit,12,57.10,56.38,1.45,39.20,46.20,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+328,QdTc,QTo,Qd,Tc,Q,T,d,c,0,0,offsuit,12,57.10,56.38,1.45,39.20,46.20,6.5,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+329,4s4h,44,4s,4h,4,4,s,h,0,1,pair,6,57.02,56.60,0.85,34.60,41.70,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+330,4s4d,44,4s,4d,4,4,s,d,0,1,pair,6,57.02,56.60,0.85,34.60,41.70,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+331,4s4c,44,4s,4c,4,4,s,c,0,1,pair,6,57.02,56.60,0.85,34.60,41.70,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+332,4h4d,44,4h,4d,4,4,h,d,0,1,pair,6,57.02,56.60,0.85,34.60,41.70,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+333,4h4c,44,4h,4c,4,4,h,c,0,1,pair,6,57.02,56.60,0.85,34.60,41.70,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+334,4d4c,44,4d,4c,4,4,d,c,0,1,pair,6,57.02,56.60,0.85,34.60,41.70,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+335,Ah4s,A4o,Ah,4s,A,4,h,s,0,0,offsuit,12,56.74,56.02,1.45,35.70,42.10,5.5,Tier 5 (Trash),Pure Fold
+336,Ad4s,A4o,Ad,4s,A,4,d,s,0,0,offsuit,12,56.74,56.02,1.45,35.70,42.10,5.5,Tier 5 (Trash),Pure Fold
+337,Ac4s,A4o,Ac,4s,A,4,c,s,0,0,offsuit,12,56.74,56.02,1.45,35.70,42.10,5.5,Tier 5 (Trash),Pure Fold
+338,As4h,A4o,As,4h,A,4,s,h,0,0,offsuit,12,56.74,56.02,1.45,35.70,42.10,5.5,Tier 5 (Trash),Pure Fold
+339,Ad4h,A4o,Ad,4h,A,4,d,h,0,0,offsuit,12,56.74,56.02,1.45,35.70,42.10,5.5,Tier 5 (Trash),Pure Fold
+340,Ac4h,A4o,Ac,4h,A,4,c,h,0,0,offsuit,12,56.74,56.02,1.45,35.70,42.10,5.5,Tier 5 (Trash),Pure Fold
+341,As4d,A4o,As,4d,A,4,s,d,0,0,offsuit,12,56.74,56.02,1.45,35.70,42.10,5.5,Tier 5 (Trash),Pure Fold
+342,Ah4d,A4o,Ah,4d,A,4,h,d,0,0,offsuit,12,56.74,56.02,1.45,35.70,42.10,5.5,Tier 5 (Trash),Pure Fold
+343,Ac4d,A4o,Ac,4d,A,4,c,d,0,0,offsuit,12,56.74,56.02,1.45,35.70,42.10,5.5,Tier 5 (Trash),Pure Fold
+344,As4c,A4o,As,4c,A,4,s,c,0,0,offsuit,12,56.74,56.02,1.45,35.70,42.10,5.5,Tier 5 (Trash),Pure Fold
+345,Ah4c,A4o,Ah,4c,A,4,h,c,0,0,offsuit,12,56.74,56.02,1.45,35.70,42.10,5.5,Tier 5 (Trash),Pure Fold
+346,Ad4c,A4o,Ad,4c,A,4,d,c,0,0,offsuit,12,56.74,56.02,1.45,35.70,42.10,5.5,Tier 5 (Trash),Pure Fold
+347,Ks6s,K6s,Ks,6s,K,6,s,s,1,0,suited,4,56.63,56.03,1.20,34.60,41.50,6.2,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+348,Kh6h,K6s,Kh,6h,K,6,h,h,1,0,suited,4,56.63,56.03,1.20,34.60,41.50,6.2,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+349,Kd6d,K6s,Kd,6d,K,6,d,d,1,0,suited,4,56.63,56.03,1.20,34.60,41.50,6.2,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+350,Kc6c,K6s,Kc,6c,K,6,c,c,1,0,suited,4,56.63,56.03,1.20,34.60,41.50,6.2,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+351,Ah3s,A3o,Ah,3s,A,3,h,s,0,0,offsuit,12,55.82,55.09,1.45,34.00,40.50,5.1,Tier 5 (Trash),Pure Fold
+352,Ad3s,A3o,Ad,3s,A,3,d,s,0,0,offsuit,12,55.82,55.09,1.45,34.00,40.50,5.1,Tier 5 (Trash),Pure Fold
+353,Ac3s,A3o,Ac,3s,A,3,c,s,0,0,offsuit,12,55.82,55.09,1.45,34.00,40.50,5.1,Tier 5 (Trash),Pure Fold
+354,As3h,A3o,As,3h,A,3,s,h,0,0,offsuit,12,55.82,55.09,1.45,34.00,40.50,5.1,Tier 5 (Trash),Pure Fold
+355,Ad3h,A3o,Ad,3h,A,3,d,h,0,0,offsuit,12,55.82,55.09,1.45,34.00,40.50,5.1,Tier 5 (Trash),Pure Fold
+356,Ac3h,A3o,Ac,3h,A,3,c,h,0,0,offsuit,12,55.82,55.09,1.45,34.00,40.50,5.1,Tier 5 (Trash),Pure Fold
+357,As3d,A3o,As,3d,A,3,s,d,0,0,offsuit,12,55.82,55.09,1.45,34.00,40.50,5.1,Tier 5 (Trash),Pure Fold
+358,Ah3d,A3o,Ah,3d,A,3,h,d,0,0,offsuit,12,55.82,55.09,1.45,34.00,40.50,5.1,Tier 5 (Trash),Pure Fold
+359,Ac3d,A3o,Ac,3d,A,3,c,d,0,0,offsuit,12,55.82,55.09,1.45,34.00,40.50,5.1,Tier 5 (Trash),Pure Fold
+360,As3c,A3o,As,3c,A,3,s,c,0,0,offsuit,12,55.82,55.09,1.45,34.00,40.50,5.1,Tier 5 (Trash),Pure Fold
+361,Ah3c,A3o,Ah,3c,A,3,h,c,0,0,offsuit,12,55.82,55.09,1.45,34.00,40.50,5.1,Tier 5 (Trash),Pure Fold
+362,Ad3c,A3o,Ad,3c,A,3,d,c,0,0,offsuit,12,55.82,55.09,1.45,34.00,40.50,5.1,Tier 5 (Trash),Pure Fold
+363,Ks5s,K5s,Ks,5s,K,5,s,s,1,0,suited,4,55.79,55.19,1.20,33.10,40.00,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+364,Kh5h,K5s,Kh,5h,K,5,h,h,1,0,suited,4,55.79,55.19,1.20,33.10,40.00,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+365,Kd5d,K5s,Kd,5d,K,5,d,d,1,0,suited,4,55.79,55.19,1.20,33.10,40.00,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+366,Kc5c,K5s,Kc,5c,K,5,c,c,1,0,suited,4,55.79,55.19,1.20,33.10,40.00,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+367,Qs8s,Q8s,Qs,8s,Q,8,s,s,1,0,suited,4,55.77,55.17,1.20,34.80,42.40,6.8,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+368,Kh8s,K8o,Kh,8s,K,8,h,s,0,0,offsuit,12,55.77,55.05,1.45,34.60,41.50,5.2,Tier 5 (Trash),Pure Fold
+369,Kd8s,K8o,Kd,8s,K,8,d,s,0,0,offsuit,12,55.77,55.05,1.45,34.60,41.50,5.2,Tier 5 (Trash),Pure Fold
+370,Kc8s,K8o,Kc,8s,K,8,c,s,0,0,offsuit,12,55.77,55.05,1.45,34.60,41.50,5.2,Tier 5 (Trash),Pure Fold
+371,Qh8h,Q8s,Qh,8h,Q,8,h,h,1,0,suited,4,55.77,55.17,1.20,34.80,42.40,6.8,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+372,Ks8h,K8o,Ks,8h,K,8,s,h,0,0,offsuit,12,55.77,55.05,1.45,34.60,41.50,5.2,Tier 5 (Trash),Pure Fold
+373,Kd8h,K8o,Kd,8h,K,8,d,h,0,0,offsuit,12,55.77,55.05,1.45,34.60,41.50,5.2,Tier 5 (Trash),Pure Fold
+374,Kc8h,K8o,Kc,8h,K,8,c,h,0,0,offsuit,12,55.77,55.05,1.45,34.60,41.50,5.2,Tier 5 (Trash),Pure Fold
+375,Qd8d,Q8s,Qd,8d,Q,8,d,d,1,0,suited,4,55.77,55.17,1.20,34.80,42.40,6.8,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+376,Ks8d,K8o,Ks,8d,K,8,s,d,0,0,offsuit,12,55.77,55.05,1.45,34.60,41.50,5.2,Tier 5 (Trash),Pure Fold
+377,Kh8d,K8o,Kh,8d,K,8,h,d,0,0,offsuit,12,55.77,55.05,1.45,34.60,41.50,5.2,Tier 5 (Trash),Pure Fold
+378,Kc8d,K8o,Kc,8d,K,8,c,d,0,0,offsuit,12,55.77,55.05,1.45,34.60,41.50,5.2,Tier 5 (Trash),Pure Fold
+379,Qc8c,Q8s,Qc,8c,Q,8,c,c,1,0,suited,4,55.77,55.17,1.20,34.80,42.40,6.8,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+380,Ks8c,K8o,Ks,8c,K,8,s,c,0,0,offsuit,12,55.77,55.05,1.45,34.60,41.50,5.2,Tier 5 (Trash),Pure Fold
+381,Kh8c,K8o,Kh,8c,K,8,h,c,0,0,offsuit,12,55.77,55.05,1.45,34.60,41.50,5.2,Tier 5 (Trash),Pure Fold
+382,Kd8c,K8o,Kd,8c,K,8,d,c,0,0,offsuit,12,55.77,55.05,1.45,34.60,41.50,5.2,Tier 5 (Trash),Pure Fold
+383,Js9s,J9s,Js,9s,J,9,s,s,1,0,suited,4,55.65,55.05,1.20,36.30,43.90,7.7,Tier 3 (Playable),Open (CO/BTN only)
+384,Jh9h,J9s,Jh,9h,J,9,h,h,1,0,suited,4,55.65,55.05,1.20,36.30,43.90,7.7,Tier 3 (Playable),Open (CO/BTN only)
+385,Jd9d,J9s,Jd,9d,J,9,d,d,1,0,suited,4,55.65,55.05,1.20,36.30,43.90,7.7,Tier 3 (Playable),Open (CO/BTN only)
+386,Jc9c,J9s,Jc,9c,J,9,c,c,1,0,suited,4,55.65,55.05,1.20,36.30,43.90,7.7,Tier 3 (Playable),Open (CO/BTN only)
+387,JhTs,JTo,Jh,Ts,J,T,h,s,0,0,offsuit,12,54.98,54.25,1.45,36.30,44.00,6.7,Tier 3 (Playable),Open (CO/BTN only)
+388,JdTs,JTo,Jd,Ts,J,T,d,s,0,0,offsuit,12,54.98,54.25,1.45,36.30,44.00,6.7,Tier 3 (Playable),Open (CO/BTN only)
+389,JcTs,JTo,Jc,Ts,J,T,c,s,0,0,offsuit,12,54.98,54.25,1.45,36.30,44.00,6.7,Tier 3 (Playable),Open (CO/BTN only)
+390,JsTh,JTo,Js,Th,J,T,s,h,0,0,offsuit,12,54.98,54.25,1.45,36.30,44.00,6.7,Tier 3 (Playable),Open (CO/BTN only)
+391,JdTh,JTo,Jd,Th,J,T,d,h,0,0,offsuit,12,54.98,54.25,1.45,36.30,44.00,6.7,Tier 3 (Playable),Open (CO/BTN only)
+392,JcTh,JTo,Jc,Th,J,T,c,h,0,0,offsuit,12,54.98,54.25,1.45,36.30,44.00,6.7,Tier 3 (Playable),Open (CO/BTN only)
+393,JsTd,JTo,Js,Td,J,T,s,d,0,0,offsuit,12,54.98,54.25,1.45,36.30,44.00,6.7,Tier 3 (Playable),Open (CO/BTN only)
+394,JhTd,JTo,Jh,Td,J,T,h,d,0,0,offsuit,12,54.98,54.25,1.45,36.30,44.00,6.7,Tier 3 (Playable),Open (CO/BTN only)
+395,JcTd,JTo,Jc,Td,J,T,c,d,0,0,offsuit,12,54.98,54.25,1.45,36.30,44.00,6.7,Tier 3 (Playable),Open (CO/BTN only)
+396,JsTc,JTo,Js,Tc,J,T,s,c,0,0,offsuit,12,54.98,54.25,1.45,36.30,44.00,6.7,Tier 3 (Playable),Open (CO/BTN only)
+397,JhTc,JTo,Jh,Tc,J,T,h,c,0,0,offsuit,12,54.98,54.25,1.45,36.30,44.00,6.7,Tier 3 (Playable),Open (CO/BTN only)
+398,JdTc,JTo,Jd,Tc,J,T,d,c,0,0,offsuit,12,54.98,54.25,1.45,36.30,44.00,6.7,Tier 3 (Playable),Open (CO/BTN only)
+399,Qh9s,Q9o,Qh,9s,Q,9,h,s,0,0,offsuit,12,54.91,54.18,1.45,34.30,41.90,5.6,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+400,Qd9s,Q9o,Qd,9s,Q,9,d,s,0,0,offsuit,12,54.91,54.18,1.45,34.30,41.90,5.6,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+401,Qc9s,Q9o,Qc,9s,Q,9,c,s,0,0,offsuit,12,54.91,54.18,1.45,34.30,41.90,5.6,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+402,Qs9h,Q9o,Qs,9h,Q,9,s,h,0,0,offsuit,12,54.91,54.18,1.45,34.30,41.90,5.6,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+403,Qd9h,Q9o,Qd,9h,Q,9,d,h,0,0,offsuit,12,54.91,54.18,1.45,34.30,41.90,5.6,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+404,Qc9h,Q9o,Qc,9h,Q,9,c,h,0,0,offsuit,12,54.91,54.18,1.45,34.30,41.90,5.6,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+405,Qs9d,Q9o,Qs,9d,Q,9,s,d,0,0,offsuit,12,54.91,54.18,1.45,34.30,41.90,5.6,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+406,Qh9d,Q9o,Qh,9d,Q,9,h,d,0,0,offsuit,12,54.91,54.18,1.45,34.30,41.90,5.6,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+407,Qc9d,Q9o,Qc,9d,Q,9,c,d,0,0,offsuit,12,54.91,54.18,1.45,34.30,41.90,5.6,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+408,Qs9c,Q9o,Qs,9c,Q,9,s,c,0,0,offsuit,12,54.91,54.18,1.45,34.30,41.90,5.6,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+409,Qh9c,Q9o,Qh,9c,Q,9,h,c,0,0,offsuit,12,54.91,54.18,1.45,34.30,41.90,5.6,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+410,Qd9c,Q9o,Qd,9c,Q,9,d,c,0,0,offsuit,12,54.91,54.18,1.45,34.30,41.90,5.6,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+411,Kh7s,K7o,Kh,7s,K,7,h,s,0,0,offsuit,12,54.83,54.10,1.45,32.50,39.40,4.8,Tier 5 (Trash),Pure Fold
+412,Kd7s,K7o,Kd,7s,K,7,d,s,0,0,offsuit,12,54.83,54.10,1.45,32.50,39.40,4.8,Tier 5 (Trash),Pure Fold
+413,Kc7s,K7o,Kc,7s,K,7,c,s,0,0,offsuit,12,54.83,54.10,1.45,32.50,39.40,4.8,Tier 5 (Trash),Pure Fold
+414,Ks7h,K7o,Ks,7h,K,7,s,h,0,0,offsuit,12,54.83,54.10,1.45,32.50,39.40,4.8,Tier 5 (Trash),Pure Fold
+415,Kd7h,K7o,Kd,7h,K,7,d,h,0,0,offsuit,12,54.83,54.10,1.45,32.50,39.40,4.8,Tier 5 (Trash),Pure Fold
+416,Kc7h,K7o,Kc,7h,K,7,c,h,0,0,offsuit,12,54.83,54.10,1.45,32.50,39.40,4.8,Tier 5 (Trash),Pure Fold
+417,Ks7d,K7o,Ks,7d,K,7,s,d,0,0,offsuit,12,54.83,54.10,1.45,32.50,39.40,4.8,Tier 5 (Trash),Pure Fold
+418,Kh7d,K7o,Kh,7d,K,7,h,d,0,0,offsuit,12,54.83,54.10,1.45,32.50,39.40,4.8,Tier 5 (Trash),Pure Fold
+419,Kc7d,K7o,Kc,7d,K,7,c,d,0,0,offsuit,12,54.83,54.10,1.45,32.50,39.40,4.8,Tier 5 (Trash),Pure Fold
+420,Ks7c,K7o,Ks,7c,K,7,s,c,0,0,offsuit,12,54.83,54.10,1.45,32.50,39.40,4.8,Tier 5 (Trash),Pure Fold
+421,Kh7c,K7o,Kh,7c,K,7,h,c,0,0,offsuit,12,54.83,54.10,1.45,32.50,39.40,4.8,Tier 5 (Trash),Pure Fold
+422,Kd7c,K7o,Kd,7c,K,7,d,c,0,0,offsuit,12,54.83,54.10,1.45,32.50,39.40,4.8,Tier 5 (Trash),Pure Fold
+423,Ah2s,A2o,Ah,2s,A,2,h,s,0,0,offsuit,12,54.80,54.07,1.45,32.50,38.90,4.8,Tier 5 (Trash),Pure Fold
+424,Ad2s,A2o,Ad,2s,A,2,d,s,0,0,offsuit,12,54.80,54.07,1.45,32.50,38.90,4.8,Tier 5 (Trash),Pure Fold
+425,Ac2s,A2o,Ac,2s,A,2,c,s,0,0,offsuit,12,54.80,54.07,1.45,32.50,38.90,4.8,Tier 5 (Trash),Pure Fold
+426,As2h,A2o,As,2h,A,2,s,h,0,0,offsuit,12,54.80,54.07,1.45,32.50,38.90,4.8,Tier 5 (Trash),Pure Fold
+427,Ad2h,A2o,Ad,2h,A,2,d,h,0,0,offsuit,12,54.80,54.07,1.45,32.50,38.90,4.8,Tier 5 (Trash),Pure Fold
+428,Ac2h,A2o,Ac,2h,A,2,c,h,0,0,offsuit,12,54.80,54.07,1.45,32.50,38.90,4.8,Tier 5 (Trash),Pure Fold
+429,As2d,A2o,As,2d,A,2,s,d,0,0,offsuit,12,54.80,54.07,1.45,32.50,38.90,4.8,Tier 5 (Trash),Pure Fold
+430,Ah2d,A2o,Ah,2d,A,2,h,d,0,0,offsuit,12,54.80,54.07,1.45,32.50,38.90,4.8,Tier 5 (Trash),Pure Fold
+431,Ac2d,A2o,Ac,2d,A,2,c,d,0,0,offsuit,12,54.80,54.07,1.45,32.50,38.90,4.8,Tier 5 (Trash),Pure Fold
+432,As2c,A2o,As,2c,A,2,s,c,0,0,offsuit,12,54.80,54.07,1.45,32.50,38.90,4.8,Tier 5 (Trash),Pure Fold
+433,Ah2c,A2o,Ah,2c,A,2,h,c,0,0,offsuit,12,54.80,54.07,1.45,32.50,38.90,4.8,Tier 5 (Trash),Pure Fold
+434,Ad2c,A2o,Ad,2c,A,2,d,c,0,0,offsuit,12,54.80,54.07,1.45,32.50,38.90,4.8,Tier 5 (Trash),Pure Fold
+435,Ks4s,K4s,Ks,4s,K,4,s,s,1,0,suited,4,54.76,54.16,1.20,31.40,38.30,5.5,Tier 5 (Trash),Pure Fold
+436,Kh4h,K4s,Kh,4h,K,4,h,h,1,0,suited,4,54.76,54.16,1.20,31.40,38.30,5.5,Tier 5 (Trash),Pure Fold
+437,Kd4d,K4s,Kd,4d,K,4,d,d,1,0,suited,4,54.76,54.16,1.20,31.40,38.30,5.5,Tier 5 (Trash),Pure Fold
+438,Kc4c,K4s,Kc,4c,K,4,c,c,1,0,suited,4,54.76,54.16,1.20,31.40,38.30,5.5,Tier 5 (Trash),Pure Fold
+439,Qs7s,Q7s,Qs,7s,Q,7,s,s,1,0,suited,4,54.26,53.66,1.20,32.10,39.70,6.2,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+440,Qh7h,Q7s,Qh,7h,Q,7,h,h,1,0,suited,4,54.26,53.66,1.20,32.10,39.70,6.2,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+441,Qd7d,Q7s,Qd,7d,Q,7,d,d,1,0,suited,4,54.26,53.66,1.20,32.10,39.70,6.2,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+442,Qc7c,Q7s,Qc,7c,Q,7,c,c,1,0,suited,4,54.26,53.66,1.20,32.10,39.70,6.2,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+443,Ts9s,T9s,Ts,9s,T,9,s,s,1,0,suited,4,54.26,53.66,1.20,35.10,43.20,8.1,Tier 2 (Strong),Open (MP/CO/BTN)
+444,Th9h,T9s,Th,9h,T,9,h,h,1,0,suited,4,54.26,53.66,1.20,35.10,43.20,8.1,Tier 2 (Strong),Open (MP/CO/BTN)
+445,Td9d,T9s,Td,9d,T,9,d,d,1,0,suited,4,54.26,53.66,1.20,35.10,43.20,8.1,Tier 2 (Strong),Open (MP/CO/BTN)
+446,Tc9c,T9s,Tc,9c,T,9,c,c,1,0,suited,4,54.26,53.66,1.20,35.10,43.20,8.1,Tier 2 (Strong),Open (MP/CO/BTN)
+447,Ks3s,K3s,Ks,3s,K,3,s,s,1,0,suited,4,53.84,53.24,1.20,29.80,36.70,5.2,Tier 5 (Trash),Pure Fold
+448,Kh3h,K3s,Kh,3h,K,3,h,h,1,0,suited,4,53.84,53.24,1.20,29.80,36.70,5.2,Tier 5 (Trash),Pure Fold
+449,Kd3d,K3s,Kd,3d,K,3,d,d,1,0,suited,4,53.84,53.24,1.20,29.80,36.70,5.2,Tier 5 (Trash),Pure Fold
+450,Kc3c,K3s,Kc,3c,K,3,c,c,1,0,suited,4,53.84,53.24,1.20,29.80,36.70,5.2,Tier 5 (Trash),Pure Fold
+451,Js8s,J8s,Js,8s,J,8,s,s,1,0,suited,4,53.79,53.19,1.20,32.50,40.40,7.1,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+452,Jh8h,J8s,Jh,8h,J,8,h,h,1,0,suited,4,53.79,53.19,1.20,32.50,40.40,7.1,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+453,Jd8d,J8s,Jd,8d,J,8,d,d,1,0,suited,4,53.79,53.19,1.20,32.50,40.40,7.1,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+454,Jc8c,J8s,Jc,8c,J,8,c,c,1,0,suited,4,53.79,53.19,1.20,32.50,40.40,7.1,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+455,3s3h,33,3s,3h,3,3,s,h,0,1,pair,6,53.69,53.27,0.85,32.20,39.00,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+456,3s3d,33,3s,3d,3,3,s,d,0,1,pair,6,53.69,53.27,0.85,32.20,39.00,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+457,3s3c,33,3s,3c,3,3,s,c,0,1,pair,6,53.69,53.27,0.85,32.20,39.00,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+458,3h3d,33,3h,3d,3,3,h,d,0,1,pair,6,53.69,53.27,0.85,32.20,39.00,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+459,3h3c,33,3h,3c,3,3,h,c,0,1,pair,6,53.69,53.27,0.85,32.20,39.00,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+460,3d3c,33,3d,3c,3,3,d,c,0,1,pair,6,53.69,53.27,0.85,32.20,39.00,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+461,Kh6s,K6o,Kh,6s,K,6,h,s,0,0,offsuit,12,53.64,52.91,1.45,30.40,37.30,4.4,Tier 5 (Trash),Pure Fold
+462,Kd6s,K6o,Kd,6s,K,6,d,s,0,0,offsuit,12,53.64,52.91,1.45,30.40,37.30,4.4,Tier 5 (Trash),Pure Fold
+463,Kc6s,K6o,Kc,6s,K,6,c,s,0,0,offsuit,12,53.64,52.91,1.45,30.40,37.30,4.4,Tier 5 (Trash),Pure Fold
+464,Ks6h,K6o,Ks,6h,K,6,s,h,0,0,offsuit,12,53.64,52.91,1.45,30.40,37.30,4.4,Tier 5 (Trash),Pure Fold
+465,Kd6h,K6o,Kd,6h,K,6,d,h,0,0,offsuit,12,53.64,52.91,1.45,30.40,37.30,4.4,Tier 5 (Trash),Pure Fold
+466,Kc6h,K6o,Kc,6h,K,6,c,h,0,0,offsuit,12,53.64,52.91,1.45,30.40,37.30,4.4,Tier 5 (Trash),Pure Fold
+467,Ks6d,K6o,Ks,6d,K,6,s,d,0,0,offsuit,12,53.64,52.91,1.45,30.40,37.30,4.4,Tier 5 (Trash),Pure Fold
+468,Kh6d,K6o,Kh,6d,K,6,h,d,0,0,offsuit,12,53.64,52.91,1.45,30.40,37.30,4.4,Tier 5 (Trash),Pure Fold
+469,Kc6d,K6o,Kc,6d,K,6,c,d,0,0,offsuit,12,53.64,52.91,1.45,30.40,37.30,4.4,Tier 5 (Trash),Pure Fold
+470,Ks6c,K6o,Ks,6c,K,6,s,c,0,0,offsuit,12,53.64,52.91,1.45,30.40,37.30,4.4,Tier 5 (Trash),Pure Fold
+471,Kh6c,K6o,Kh,6c,K,6,h,c,0,0,offsuit,12,53.64,52.91,1.45,30.40,37.30,4.4,Tier 5 (Trash),Pure Fold
+472,Kd6c,K6o,Kd,6c,K,6,d,c,0,0,offsuit,12,53.64,52.91,1.45,30.40,37.30,4.4,Tier 5 (Trash),Pure Fold
+473,Qs6s,Q6s,Qs,6s,Q,6,s,s,1,0,suited,4,53.28,52.68,1.20,30.30,37.90,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+474,Qh6h,Q6s,Qh,6h,Q,6,h,h,1,0,suited,4,53.28,52.68,1.20,30.30,37.90,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+475,Qd6d,Q6s,Qd,6d,Q,6,d,d,1,0,suited,4,53.28,52.68,1.20,30.30,37.90,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+476,Qc6c,Q6s,Qc,6c,Q,6,c,c,1,0,suited,4,53.28,52.68,1.20,30.30,37.90,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+477,Ks2s,K2s,Ks,2s,K,2,s,s,1,0,suited,4,52.88,52.28,1.20,28.30,35.10,4.9,Tier 5 (Trash),Pure Fold
+478,Kh2h,K2s,Kh,2h,K,2,h,h,1,0,suited,4,52.88,52.28,1.20,28.30,35.10,4.9,Tier 5 (Trash),Pure Fold
+479,Kd2d,K2s,Kd,2d,K,2,d,d,1,0,suited,4,52.88,52.28,1.20,28.30,35.10,4.9,Tier 5 (Trash),Pure Fold
+480,Kc2c,K2s,Kc,2c,K,2,c,c,1,0,suited,4,52.88,52.28,1.20,28.30,35.10,4.9,Tier 5 (Trash),Pure Fold
+481,Qh8s,Q8o,Qh,8s,Q,8,h,s,0,0,offsuit,12,52.84,52.12,1.45,30.40,38.30,4.8,Tier 5 (Trash),Pure Fold
+482,Qd8s,Q8o,Qd,8s,Q,8,d,s,0,0,offsuit,12,52.84,52.12,1.45,30.40,38.30,4.8,Tier 5 (Trash),Pure Fold
+483,Qc8s,Q8o,Qc,8s,Q,8,c,s,0,0,offsuit,12,52.84,52.12,1.45,30.40,38.30,4.8,Tier 5 (Trash),Pure Fold
+484,Qs8h,Q8o,Qs,8h,Q,8,s,h,0,0,offsuit,12,52.84,52.12,1.45,30.40,38.30,4.8,Tier 5 (Trash),Pure Fold
+485,Qd8h,Q8o,Qd,8h,Q,8,d,h,0,0,offsuit,12,52.84,52.12,1.45,30.40,38.30,4.8,Tier 5 (Trash),Pure Fold
+486,Qc8h,Q8o,Qc,8h,Q,8,c,h,0,0,offsuit,12,52.84,52.12,1.45,30.40,38.30,4.8,Tier 5 (Trash),Pure Fold
+487,Qs8d,Q8o,Qs,8d,Q,8,s,d,0,0,offsuit,12,52.84,52.12,1.45,30.40,38.30,4.8,Tier 5 (Trash),Pure Fold
+488,Qh8d,Q8o,Qh,8d,Q,8,h,d,0,0,offsuit,12,52.84,52.12,1.45,30.40,38.30,4.8,Tier 5 (Trash),Pure Fold
+489,Qc8d,Q8o,Qc,8d,Q,8,c,d,0,0,offsuit,12,52.84,52.12,1.45,30.40,38.30,4.8,Tier 5 (Trash),Pure Fold
+490,Qs8c,Q8o,Qs,8c,Q,8,s,c,0,0,offsuit,12,52.84,52.12,1.45,30.40,38.30,4.8,Tier 5 (Trash),Pure Fold
+491,Qh8c,Q8o,Qh,8c,Q,8,h,c,0,0,offsuit,12,52.84,52.12,1.45,30.40,38.30,4.8,Tier 5 (Trash),Pure Fold
+492,Qd8c,Q8o,Qd,8c,Q,8,d,c,0,0,offsuit,12,52.84,52.12,1.45,30.40,38.30,4.8,Tier 5 (Trash),Pure Fold
+493,Jh9s,J9o,Jh,9s,J,9,h,s,0,0,offsuit,12,52.83,52.10,1.45,31.90,39.80,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+494,Jd9s,J9o,Jd,9s,J,9,d,s,0,0,offsuit,12,52.83,52.10,1.45,31.90,39.80,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+495,Jc9s,J9o,Jc,9s,J,9,c,s,0,0,offsuit,12,52.83,52.10,1.45,31.90,39.80,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+496,Js9h,J9o,Js,9h,J,9,s,h,0,0,offsuit,12,52.83,52.10,1.45,31.90,39.80,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+497,Jd9h,J9o,Jd,9h,J,9,d,h,0,0,offsuit,12,52.83,52.10,1.45,31.90,39.80,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+498,Jc9h,J9o,Jc,9h,J,9,c,h,0,0,offsuit,12,52.83,52.10,1.45,31.90,39.80,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+499,Js9d,J9o,Js,9d,J,9,s,d,0,0,offsuit,12,52.83,52.10,1.45,31.90,39.80,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+500,Jh9d,J9o,Jh,9d,J,9,h,d,0,0,offsuit,12,52.83,52.10,1.45,31.90,39.80,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+501,Jc9d,J9o,Jc,9d,J,9,c,d,0,0,offsuit,12,52.83,52.10,1.45,31.90,39.80,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+502,Js9c,J9o,Js,9c,J,9,s,c,0,0,offsuit,12,52.83,52.10,1.45,31.90,39.80,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+503,Jh9c,J9o,Jh,9c,J,9,h,c,0,0,offsuit,12,52.83,52.10,1.45,31.90,39.80,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+504,Jd9c,J9o,Jd,9c,J,9,d,c,0,0,offsuit,12,52.83,52.10,1.45,31.90,39.80,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+505,Kh5s,K5o,Kh,5s,K,5,h,s,0,0,offsuit,12,52.68,51.95,1.45,28.80,35.60,4.1,Tier 5 (Trash),Pure Fold
+506,Kd5s,K5o,Kd,5s,K,5,d,s,0,0,offsuit,12,52.68,51.95,1.45,28.80,35.60,4.1,Tier 5 (Trash),Pure Fold
+507,Kc5s,K5o,Kc,5s,K,5,c,s,0,0,offsuit,12,52.68,51.95,1.45,28.80,35.60,4.1,Tier 5 (Trash),Pure Fold
+508,Ks5h,K5o,Ks,5h,K,5,s,h,0,0,offsuit,12,52.68,51.95,1.45,28.80,35.60,4.1,Tier 5 (Trash),Pure Fold
+509,Kd5h,K5o,Kd,5h,K,5,d,h,0,0,offsuit,12,52.68,51.95,1.45,28.80,35.60,4.1,Tier 5 (Trash),Pure Fold
+510,Kc5h,K5o,Kc,5h,K,5,c,h,0,0,offsuit,12,52.68,51.95,1.45,28.80,35.60,4.1,Tier 5 (Trash),Pure Fold
+511,Ks5d,K5o,Ks,5d,K,5,s,d,0,0,offsuit,12,52.68,51.95,1.45,28.80,35.60,4.1,Tier 5 (Trash),Pure Fold
+512,Kh5d,K5o,Kh,5d,K,5,h,d,0,0,offsuit,12,52.68,51.95,1.45,28.80,35.60,4.1,Tier 5 (Trash),Pure Fold
+513,Kc5d,K5o,Kc,5d,K,5,c,d,0,0,offsuit,12,52.68,51.95,1.45,28.80,35.60,4.1,Tier 5 (Trash),Pure Fold
+514,Ks5c,K5o,Ks,5c,K,5,s,c,0,0,offsuit,12,52.68,51.95,1.45,28.80,35.60,4.1,Tier 5 (Trash),Pure Fold
+515,Kh5c,K5o,Kh,5c,K,5,h,c,0,0,offsuit,12,52.68,51.95,1.45,28.80,35.60,4.1,Tier 5 (Trash),Pure Fold
+516,Kd5c,K5o,Kd,5c,K,5,d,c,0,0,offsuit,12,52.68,51.95,1.45,28.80,35.60,4.1,Tier 5 (Trash),Pure Fold
+517,Ts8s,T8s,Ts,8s,T,8,s,s,1,0,suited,4,52.41,51.81,1.20,31.40,39.80,7.4,Tier 3 (Playable),Open (CO/BTN only)
+518,Th8h,T8s,Th,8h,T,8,h,h,1,0,suited,4,52.41,51.81,1.20,31.40,39.80,7.4,Tier 3 (Playable),Open (CO/BTN only)
+519,Td8d,T8s,Td,8d,T,8,d,d,1,0,suited,4,52.41,51.81,1.20,31.40,39.80,7.4,Tier 3 (Playable),Open (CO/BTN only)
+520,Tc8c,T8s,Tc,8c,T,8,c,c,1,0,suited,4,52.41,51.81,1.20,31.40,39.80,7.4,Tier 3 (Playable),Open (CO/BTN only)
+521,Qs5s,Q5s,Qs,5s,Q,5,s,s,1,0,suited,4,52.28,51.68,1.20,28.60,36.10,5.4,Tier 5 (Trash),Pure Fold
+522,Qh5h,Q5s,Qh,5h,Q,5,h,h,1,0,suited,4,52.28,51.68,1.20,28.60,36.10,5.4,Tier 5 (Trash),Pure Fold
+523,Qd5d,Q5s,Qd,5d,Q,5,d,d,1,0,suited,4,52.28,51.68,1.20,28.60,36.10,5.4,Tier 5 (Trash),Pure Fold
+524,Qc5c,Q5s,Qc,5c,Q,5,c,c,1,0,suited,4,52.28,51.68,1.20,28.60,36.10,5.4,Tier 5 (Trash),Pure Fold
+525,9s8s,98s,9s,8s,9,8,s,s,1,0,suited,4,51.98,51.38,1.20,32.50,41.00,8.0,Tier 3 (Playable),Open (MP/CO/BTN)
+526,9h8h,98s,9h,8h,9,8,h,h,1,0,suited,4,51.98,51.38,1.20,32.50,41.00,8.0,Tier 3 (Playable),Open (MP/CO/BTN)
+527,9d8d,98s,9d,8d,9,8,d,d,1,0,suited,4,51.98,51.38,1.20,32.50,41.00,8.0,Tier 3 (Playable),Open (MP/CO/BTN)
+528,9c8c,98s,9c,8c,9,8,c,c,1,0,suited,4,51.98,51.38,1.20,32.50,41.00,8.0,Tier 3 (Playable),Open (MP/CO/BTN)
+529,Js7s,J7s,Js,7s,J,7,s,s,1,0,suited,4,51.78,51.18,1.20,29.10,37.10,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+530,Jh7h,J7s,Jh,7h,J,7,h,h,1,0,suited,4,51.78,51.18,1.20,29.10,37.10,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+531,Jd7d,J7s,Jd,7d,J,7,d,d,1,0,suited,4,51.78,51.18,1.20,29.10,37.10,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+532,Jc7c,J7s,Jc,7c,J,7,c,c,1,0,suited,4,51.78,51.18,1.20,29.10,37.10,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+533,Th9s,T9o,Th,9s,T,9,h,s,0,0,offsuit,12,51.52,50.80,1.45,30.30,38.90,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+534,Td9s,T9o,Td,9s,T,9,d,s,0,0,offsuit,12,51.52,50.80,1.45,30.30,38.90,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+535,Tc9s,T9o,Tc,9s,T,9,c,s,0,0,offsuit,12,51.52,50.80,1.45,30.30,38.90,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+536,Ts9h,T9o,Ts,9h,T,9,s,h,0,0,offsuit,12,51.52,50.80,1.45,30.30,38.90,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+537,Td9h,T9o,Td,9h,T,9,d,h,0,0,offsuit,12,51.52,50.80,1.45,30.30,38.90,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+538,Tc9h,T9o,Tc,9h,T,9,c,h,0,0,offsuit,12,51.52,50.80,1.45,30.30,38.90,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+539,Ts9d,T9o,Ts,9d,T,9,s,d,0,0,offsuit,12,51.52,50.80,1.45,30.30,38.90,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+540,Th9d,T9o,Th,9d,T,9,h,d,0,0,offsuit,12,51.52,50.80,1.45,30.30,38.90,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+541,Tc9d,T9o,Tc,9d,T,9,c,d,0,0,offsuit,12,51.52,50.80,1.45,30.30,38.90,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+542,Ts9c,T9o,Ts,9c,T,9,s,c,0,0,offsuit,12,51.52,50.80,1.45,30.30,38.90,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+543,Th9c,T9o,Th,9c,T,9,h,c,0,0,offsuit,12,51.52,50.80,1.45,30.30,38.90,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+544,Td9c,T9o,Td,9c,T,9,d,c,0,0,offsuit,12,51.52,50.80,1.45,30.30,38.90,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+545,Kh4s,K4o,Kh,4s,K,4,h,s,0,0,offsuit,12,51.51,50.78,1.45,27.00,33.70,3.7,Tier 5 (Trash),Pure Fold
+546,Kd4s,K4o,Kd,4s,K,4,d,s,0,0,offsuit,12,51.51,50.78,1.45,27.00,33.70,3.7,Tier 5 (Trash),Pure Fold
+547,Kc4s,K4o,Kc,4s,K,4,c,s,0,0,offsuit,12,51.51,50.78,1.45,27.00,33.70,3.7,Tier 5 (Trash),Pure Fold
+548,Ks4h,K4o,Ks,4h,K,4,s,h,0,0,offsuit,12,51.51,50.78,1.45,27.00,33.70,3.7,Tier 5 (Trash),Pure Fold
+549,Kd4h,K4o,Kd,4h,K,4,d,h,0,0,offsuit,12,51.51,50.78,1.45,27.00,33.70,3.7,Tier 5 (Trash),Pure Fold
+550,Kc4h,K4o,Kc,4h,K,4,c,h,0,0,offsuit,12,51.51,50.78,1.45,27.00,33.70,3.7,Tier 5 (Trash),Pure Fold
+551,Ks4d,K4o,Ks,4d,K,4,s,d,0,0,offsuit,12,51.51,50.78,1.45,27.00,33.70,3.7,Tier 5 (Trash),Pure Fold
+552,Kh4d,K4o,Kh,4d,K,4,h,d,0,0,offsuit,12,51.51,50.78,1.45,27.00,33.70,3.7,Tier 5 (Trash),Pure Fold
+553,Kc4d,K4o,Kc,4d,K,4,c,d,0,0,offsuit,12,51.51,50.78,1.45,27.00,33.70,3.7,Tier 5 (Trash),Pure Fold
+554,Ks4c,K4o,Ks,4c,K,4,s,c,0,0,offsuit,12,51.51,50.78,1.45,27.00,33.70,3.7,Tier 5 (Trash),Pure Fold
+555,Kh4c,K4o,Kh,4c,K,4,h,c,0,0,offsuit,12,51.51,50.78,1.45,27.00,33.70,3.7,Tier 5 (Trash),Pure Fold
+556,Kd4c,K4o,Kd,4c,K,4,d,c,0,0,offsuit,12,51.51,50.78,1.45,27.00,33.70,3.7,Tier 5 (Trash),Pure Fold
+557,Qs4s,Q4s,Qs,4s,Q,4,s,s,1,0,suited,4,51.30,50.70,1.20,27.00,34.40,5.0,Tier 5 (Trash),Pure Fold
+558,Qh4h,Q4s,Qh,4h,Q,4,h,h,1,0,suited,4,51.30,50.70,1.20,27.00,34.40,5.0,Tier 5 (Trash),Pure Fold
+559,Qd4d,Q4s,Qd,4d,Q,4,d,d,1,0,suited,4,51.30,50.70,1.20,27.00,34.40,5.0,Tier 5 (Trash),Pure Fold
+560,Qc4c,Q4s,Qc,4c,Q,4,c,c,1,0,suited,4,51.30,50.70,1.20,27.00,34.40,5.0,Tier 5 (Trash),Pure Fold
+561,Qh7s,Q7o,Qh,7s,Q,7,h,s,0,0,offsuit,12,51.08,50.35,1.45,27.50,35.20,4.2,Tier 5 (Trash),Pure Fold
+562,Qd7s,Q7o,Qd,7s,Q,7,d,s,0,0,offsuit,12,51.08,50.35,1.45,27.50,35.20,4.2,Tier 5 (Trash),Pure Fold
+563,Qc7s,Q7o,Qc,7s,Q,7,c,s,0,0,offsuit,12,51.08,50.35,1.45,27.50,35.20,4.2,Tier 5 (Trash),Pure Fold
+564,Qs7h,Q7o,Qs,7h,Q,7,s,h,0,0,offsuit,12,51.08,50.35,1.45,27.50,35.20,4.2,Tier 5 (Trash),Pure Fold
+565,Qd7h,Q7o,Qd,7h,Q,7,d,h,0,0,offsuit,12,51.08,50.35,1.45,27.50,35.20,4.2,Tier 5 (Trash),Pure Fold
+566,Qc7h,Q7o,Qc,7h,Q,7,c,h,0,0,offsuit,12,51.08,50.35,1.45,27.50,35.20,4.2,Tier 5 (Trash),Pure Fold
+567,Qs7d,Q7o,Qs,7d,Q,7,s,d,0,0,offsuit,12,51.08,50.35,1.45,27.50,35.20,4.2,Tier 5 (Trash),Pure Fold
+568,Qh7d,Q7o,Qh,7d,Q,7,h,d,0,0,offsuit,12,51.08,50.35,1.45,27.50,35.20,4.2,Tier 5 (Trash),Pure Fold
+569,Qc7d,Q7o,Qc,7d,Q,7,c,d,0,0,offsuit,12,51.08,50.35,1.45,27.50,35.20,4.2,Tier 5 (Trash),Pure Fold
+570,Qs7c,Q7o,Qs,7c,Q,7,s,c,0,0,offsuit,12,51.08,50.35,1.45,27.50,35.20,4.2,Tier 5 (Trash),Pure Fold
+571,Qh7c,Q7o,Qh,7c,Q,7,h,c,0,0,offsuit,12,51.08,50.35,1.45,27.50,35.20,4.2,Tier 5 (Trash),Pure Fold
+572,Qd7c,Q7o,Qd,7c,Q,7,d,c,0,0,offsuit,12,51.08,50.35,1.45,27.50,35.20,4.2,Tier 5 (Trash),Pure Fold
+573,Jh8s,J8o,Jh,8s,J,8,h,s,0,0,offsuit,12,50.73,50.00,1.45,27.70,35.80,5.1,Tier 5 (Trash),Pure Fold
+574,Jd8s,J8o,Jd,8s,J,8,d,s,0,0,offsuit,12,50.73,50.00,1.45,27.70,35.80,5.1,Tier 5 (Trash),Pure Fold
+575,Jc8s,J8o,Jc,8s,J,8,c,s,0,0,offsuit,12,50.73,50.00,1.45,27.70,35.80,5.1,Tier 5 (Trash),Pure Fold
+576,Js8h,J8o,Js,8h,J,8,s,h,0,0,offsuit,12,50.73,50.00,1.45,27.70,35.80,5.1,Tier 5 (Trash),Pure Fold
+577,Jd8h,J8o,Jd,8h,J,8,d,h,0,0,offsuit,12,50.73,50.00,1.45,27.70,35.80,5.1,Tier 5 (Trash),Pure Fold
+578,Jc8h,J8o,Jc,8h,J,8,c,h,0,0,offsuit,12,50.73,50.00,1.45,27.70,35.80,5.1,Tier 5 (Trash),Pure Fold
+579,Js8d,J8o,Js,8d,J,8,s,d,0,0,offsuit,12,50.73,50.00,1.45,27.70,35.80,5.1,Tier 5 (Trash),Pure Fold
+580,Jh8d,J8o,Jh,8d,J,8,h,d,0,0,offsuit,12,50.73,50.00,1.45,27.70,35.80,5.1,Tier 5 (Trash),Pure Fold
+581,Jc8d,J8o,Jc,8d,J,8,c,d,0,0,offsuit,12,50.73,50.00,1.45,27.70,35.80,5.1,Tier 5 (Trash),Pure Fold
+582,Js8c,J8o,Js,8c,J,8,s,c,0,0,offsuit,12,50.73,50.00,1.45,27.70,35.80,5.1,Tier 5 (Trash),Pure Fold
+583,Jh8c,J8o,Jh,8c,J,8,h,c,0,0,offsuit,12,50.73,50.00,1.45,27.70,35.80,5.1,Tier 5 (Trash),Pure Fold
+584,Jd8c,J8o,Jd,8c,J,8,d,c,0,0,offsuit,12,50.73,50.00,1.45,27.70,35.80,5.1,Tier 5 (Trash),Pure Fold
+585,Kh3s,K3o,Kh,3s,K,3,h,s,0,0,offsuit,12,50.47,49.74,1.45,25.30,32.00,3.4,Tier 5 (Trash),Pure Fold
+586,Kd3s,K3o,Kd,3s,K,3,d,s,0,0,offsuit,12,50.47,49.74,1.45,25.30,32.00,3.4,Tier 5 (Trash),Pure Fold
+587,Kc3s,K3o,Kc,3s,K,3,c,s,0,0,offsuit,12,50.47,49.74,1.45,25.30,32.00,3.4,Tier 5 (Trash),Pure Fold
+588,Ks3h,K3o,Ks,3h,K,3,s,h,0,0,offsuit,12,50.47,49.74,1.45,25.30,32.00,3.4,Tier 5 (Trash),Pure Fold
+589,Kd3h,K3o,Kd,3h,K,3,d,h,0,0,offsuit,12,50.47,49.74,1.45,25.30,32.00,3.4,Tier 5 (Trash),Pure Fold
+590,Kc3h,K3o,Kc,3h,K,3,c,h,0,0,offsuit,12,50.47,49.74,1.45,25.30,32.00,3.4,Tier 5 (Trash),Pure Fold
+591,Ks3d,K3o,Ks,3d,K,3,s,d,0,0,offsuit,12,50.47,49.74,1.45,25.30,32.00,3.4,Tier 5 (Trash),Pure Fold
+592,Kh3d,K3o,Kh,3d,K,3,h,d,0,0,offsuit,12,50.47,49.74,1.45,25.30,32.00,3.4,Tier 5 (Trash),Pure Fold
+593,Kc3d,K3o,Kc,3d,K,3,c,d,0,0,offsuit,12,50.47,49.74,1.45,25.30,32.00,3.4,Tier 5 (Trash),Pure Fold
+594,Ks3c,K3o,Ks,3c,K,3,s,c,0,0,offsuit,12,50.47,49.74,1.45,25.30,32.00,3.4,Tier 5 (Trash),Pure Fold
+595,Kh3c,K3o,Kh,3c,K,3,h,c,0,0,offsuit,12,50.47,49.74,1.45,25.30,32.00,3.4,Tier 5 (Trash),Pure Fold
+596,Kd3c,K3o,Kd,3c,K,3,d,c,0,0,offsuit,12,50.47,49.74,1.45,25.30,32.00,3.4,Tier 5 (Trash),Pure Fold
+597,Js6s,J6s,Js,6s,J,6,s,s,1,0,suited,4,50.40,49.80,1.20,26.80,34.80,5.6,Tier 5 (Trash),Pure Fold
+598,Jh6h,J6s,Jh,6h,J,6,h,h,1,0,suited,4,50.40,49.80,1.20,26.80,34.80,5.6,Tier 5 (Trash),Pure Fold
+599,Jd6d,J6s,Jd,6d,J,6,d,d,1,0,suited,4,50.40,49.80,1.20,26.80,34.80,5.6,Tier 5 (Trash),Pure Fold
+600,Jc6c,J6s,Jc,6c,J,6,c,c,1,0,suited,4,50.40,49.80,1.20,26.80,34.80,5.6,Tier 5 (Trash),Pure Fold
+601,Ts7s,T7s,Ts,7s,T,7,s,s,1,0,suited,4,50.38,49.78,1.20,27.60,36.20,6.7,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+602,Th7h,T7s,Th,7h,T,7,h,h,1,0,suited,4,50.38,49.78,1.20,27.60,36.20,6.7,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+603,Td7d,T7s,Td,7d,T,7,d,d,1,0,suited,4,50.38,49.78,1.20,27.60,36.20,6.7,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+604,Tc7c,T7s,Tc,7c,T,7,c,c,1,0,suited,4,50.38,49.78,1.20,27.60,36.20,6.7,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+605,2s2h,22,2s,2h,2,2,s,h,0,1,pair,6,50.33,49.91,0.85,29.80,36.30,5.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+606,2s2d,22,2s,2d,2,2,s,d,0,1,pair,6,50.33,49.91,0.85,29.80,36.30,5.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+607,2s2c,22,2s,2c,2,2,s,c,0,1,pair,6,50.33,49.91,0.85,29.80,36.30,5.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+608,2h2d,22,2h,2d,2,2,h,d,0,1,pair,6,50.33,49.91,0.85,29.80,36.30,5.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+609,2h2c,22,2h,2c,2,2,h,c,0,1,pair,6,50.33,49.91,0.85,29.80,36.30,5.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+610,2d2c,22,2d,2c,2,2,d,c,0,1,pair,6,50.33,49.91,0.85,29.80,36.30,5.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+611,Qs3s,Q3s,Qs,3s,Q,3,s,s,1,0,suited,4,50.18,49.58,1.20,25.30,32.60,4.6,Tier 5 (Trash),Pure Fold
+612,Qh3h,Q3s,Qh,3h,Q,3,h,h,1,0,suited,4,50.18,49.58,1.20,25.30,32.60,4.6,Tier 5 (Trash),Pure Fold
+613,Qd3d,Q3s,Qd,3d,Q,3,d,d,1,0,suited,4,50.18,49.58,1.20,25.30,32.60,4.6,Tier 5 (Trash),Pure Fold
+614,Qc3c,Q3s,Qc,3c,Q,3,c,c,1,0,suited,4,50.18,49.58,1.20,25.30,32.60,4.6,Tier 5 (Trash),Pure Fold
+615,Qh6s,Q6o,Qh,6s,Q,6,h,s,0,0,offsuit,12,49.97,49.24,1.45,25.60,33.20,3.8,Tier 5 (Trash),Pure Fold
+616,Qd6s,Q6o,Qd,6s,Q,6,d,s,0,0,offsuit,12,49.97,49.24,1.45,25.60,33.20,3.8,Tier 5 (Trash),Pure Fold
+617,Qc6s,Q6o,Qc,6s,Q,6,c,s,0,0,offsuit,12,49.97,49.24,1.45,25.60,33.20,3.8,Tier 5 (Trash),Pure Fold
+618,Qs6h,Q6o,Qs,6h,Q,6,s,h,0,0,offsuit,12,49.97,49.24,1.45,25.60,33.20,3.8,Tier 5 (Trash),Pure Fold
+619,Qd6h,Q6o,Qd,6h,Q,6,d,h,0,0,offsuit,12,49.97,49.24,1.45,25.60,33.20,3.8,Tier 5 (Trash),Pure Fold
+620,Qc6h,Q6o,Qc,6h,Q,6,c,h,0,0,offsuit,12,49.97,49.24,1.45,25.60,33.20,3.8,Tier 5 (Trash),Pure Fold
+621,Qs6d,Q6o,Qs,6d,Q,6,s,d,0,0,offsuit,12,49.97,49.24,1.45,25.60,33.20,3.8,Tier 5 (Trash),Pure Fold
+622,Qh6d,Q6o,Qh,6d,Q,6,h,d,0,0,offsuit,12,49.97,49.24,1.45,25.60,33.20,3.8,Tier 5 (Trash),Pure Fold
+623,Qc6d,Q6o,Qc,6d,Q,6,c,d,0,0,offsuit,12,49.97,49.24,1.45,25.60,33.20,3.8,Tier 5 (Trash),Pure Fold
+624,Qs6c,Q6o,Qs,6c,Q,6,s,c,0,0,offsuit,12,49.97,49.24,1.45,25.60,33.20,3.8,Tier 5 (Trash),Pure Fold
+625,Qh6c,Q6o,Qh,6c,Q,6,h,c,0,0,offsuit,12,49.97,49.24,1.45,25.60,33.20,3.8,Tier 5 (Trash),Pure Fold
+626,Qd6c,Q6o,Qd,6c,Q,6,d,c,0,0,offsuit,12,49.97,49.24,1.45,25.60,33.20,3.8,Tier 5 (Trash),Pure Fold
+627,9s7s,97s,9s,7s,9,7,s,s,1,0,suited,4,49.88,49.28,1.20,28.50,37.30,7.2,Tier 3 (Playable),Open (CO/BTN only)
+628,9h7h,97s,9h,7h,9,7,h,h,1,0,suited,4,49.88,49.28,1.20,28.50,37.30,7.2,Tier 3 (Playable),Open (CO/BTN only)
+629,9d7d,97s,9d,7d,9,7,d,d,1,0,suited,4,49.88,49.28,1.20,28.50,37.30,7.2,Tier 3 (Playable),Open (CO/BTN only)
+630,9c7c,97s,9c,7c,9,7,c,c,1,0,suited,4,49.88,49.28,1.20,28.50,37.30,7.2,Tier 3 (Playable),Open (CO/BTN only)
+631,8s7s,87s,8s,7s,8,7,s,s,1,0,suited,4,49.77,49.17,1.20,29.80,38.60,7.9,Tier 3 (Playable),Open (MP/CO/BTN)
+632,8h7h,87s,8h,7h,8,7,h,h,1,0,suited,4,49.77,49.17,1.20,29.80,38.60,7.9,Tier 3 (Playable),Open (MP/CO/BTN)
+633,8d7d,87s,8d,7d,8,7,d,d,1,0,suited,4,49.77,49.17,1.20,29.80,38.60,7.9,Tier 3 (Playable),Open (MP/CO/BTN)
+634,8c7c,87s,8c,7c,8,7,c,c,1,0,suited,4,49.77,49.17,1.20,29.80,38.60,7.9,Tier 3 (Playable),Open (MP/CO/BTN)
+635,Th8s,T8o,Th,8s,T,8,h,s,0,0,offsuit,12,49.39,48.66,1.45,26.30,35.10,5.5,Tier 5 (Trash),Pure Fold
+636,Td8s,T8o,Td,8s,T,8,d,s,0,0,offsuit,12,49.39,48.66,1.45,26.30,35.10,5.5,Tier 5 (Trash),Pure Fold
+637,Tc8s,T8o,Tc,8s,T,8,c,s,0,0,offsuit,12,49.39,48.66,1.45,26.30,35.10,5.5,Tier 5 (Trash),Pure Fold
+638,Ts8h,T8o,Ts,8h,T,8,s,h,0,0,offsuit,12,49.39,48.66,1.45,26.30,35.10,5.5,Tier 5 (Trash),Pure Fold
+639,Td8h,T8o,Td,8h,T,8,d,h,0,0,offsuit,12,49.39,48.66,1.45,26.30,35.10,5.5,Tier 5 (Trash),Pure Fold
+640,Tc8h,T8o,Tc,8h,T,8,c,h,0,0,offsuit,12,49.39,48.66,1.45,26.30,35.10,5.5,Tier 5 (Trash),Pure Fold
+641,Ts8d,T8o,Ts,8d,T,8,s,d,0,0,offsuit,12,49.39,48.66,1.45,26.30,35.10,5.5,Tier 5 (Trash),Pure Fold
+642,Th8d,T8o,Th,8d,T,8,h,d,0,0,offsuit,12,49.39,48.66,1.45,26.30,35.10,5.5,Tier 5 (Trash),Pure Fold
+643,Tc8d,T8o,Tc,8d,T,8,c,d,0,0,offsuit,12,49.39,48.66,1.45,26.30,35.10,5.5,Tier 5 (Trash),Pure Fold
+644,Ts8c,T8o,Ts,8c,T,8,s,c,0,0,offsuit,12,49.39,48.66,1.45,26.30,35.10,5.5,Tier 5 (Trash),Pure Fold
+645,Th8c,T8o,Th,8c,T,8,h,c,0,0,offsuit,12,49.39,48.66,1.45,26.30,35.10,5.5,Tier 5 (Trash),Pure Fold
+646,Td8c,T8o,Td,8c,T,8,d,c,0,0,offsuit,12,49.39,48.66,1.45,26.30,35.10,5.5,Tier 5 (Trash),Pure Fold
+647,Kh2s,K2o,Kh,2s,K,2,h,s,0,0,offsuit,12,49.38,48.66,1.45,23.80,30.30,3.1,Tier 5 (Trash),Pure Fold
+648,Kd2s,K2o,Kd,2s,K,2,d,s,0,0,offsuit,12,49.38,48.66,1.45,23.80,30.30,3.1,Tier 5 (Trash),Pure Fold
+649,Kc2s,K2o,Kc,2s,K,2,c,s,0,0,offsuit,12,49.38,48.66,1.45,23.80,30.30,3.1,Tier 5 (Trash),Pure Fold
+650,Ks2h,K2o,Ks,2h,K,2,s,h,0,0,offsuit,12,49.38,48.66,1.45,23.80,30.30,3.1,Tier 5 (Trash),Pure Fold
+651,Kd2h,K2o,Kd,2h,K,2,d,h,0,0,offsuit,12,49.38,48.66,1.45,23.80,30.30,3.1,Tier 5 (Trash),Pure Fold
+652,Kc2h,K2o,Kc,2h,K,2,c,h,0,0,offsuit,12,49.38,48.66,1.45,23.80,30.30,3.1,Tier 5 (Trash),Pure Fold
+653,Ks2d,K2o,Ks,2d,K,2,s,d,0,0,offsuit,12,49.38,48.66,1.45,23.80,30.30,3.1,Tier 5 (Trash),Pure Fold
+654,Kh2d,K2o,Kh,2d,K,2,h,d,0,0,offsuit,12,49.38,48.66,1.45,23.80,30.30,3.1,Tier 5 (Trash),Pure Fold
+655,Kc2d,K2o,Kc,2d,K,2,c,d,0,0,offsuit,12,49.38,48.66,1.45,23.80,30.30,3.1,Tier 5 (Trash),Pure Fold
+656,Ks2c,K2o,Ks,2c,K,2,s,c,0,0,offsuit,12,49.38,48.66,1.45,23.80,30.30,3.1,Tier 5 (Trash),Pure Fold
+657,Kh2c,K2o,Kh,2c,K,2,h,c,0,0,offsuit,12,49.38,48.66,1.45,23.80,30.30,3.1,Tier 5 (Trash),Pure Fold
+658,Kd2c,K2o,Kd,2c,K,2,d,c,0,0,offsuit,12,49.38,48.66,1.45,23.80,30.30,3.1,Tier 5 (Trash),Pure Fold
+659,Qs2s,Q2s,Qs,2s,Q,2,s,s,1,0,suited,4,49.33,48.73,1.20,23.90,31.00,4.3,Tier 5 (Trash),Pure Fold
+660,Qh2h,Q2s,Qh,2h,Q,2,h,h,1,0,suited,4,49.33,48.73,1.20,23.90,31.00,4.3,Tier 5 (Trash),Pure Fold
+661,Qd2d,Q2s,Qd,2d,Q,2,d,d,1,0,suited,4,49.33,48.73,1.20,23.90,31.00,4.3,Tier 5 (Trash),Pure Fold
+662,Qc2c,Q2s,Qc,2c,Q,2,c,c,1,0,suited,4,49.33,48.73,1.20,23.90,31.00,4.3,Tier 5 (Trash),Pure Fold
+663,Js5s,J5s,Js,5s,J,5,s,s,1,0,suited,4,49.33,48.73,1.20,25.00,32.80,5.1,Tier 5 (Trash),Pure Fold
+664,Jh5h,J5s,Jh,5h,J,5,h,h,1,0,suited,4,49.33,48.73,1.20,25.00,32.80,5.1,Tier 5 (Trash),Pure Fold
+665,Jd5d,J5s,Jd,5d,J,5,d,d,1,0,suited,4,49.33,48.73,1.20,25.00,32.80,5.1,Tier 5 (Trash),Pure Fold
+666,Jc5c,J5s,Jc,5c,J,5,c,c,1,0,suited,4,49.33,48.73,1.20,25.00,32.80,5.1,Tier 5 (Trash),Pure Fold
+667,9h8s,98o,9h,8s,9,8,h,s,0,0,offsuit,12,49.07,48.34,1.45,27.40,36.30,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+668,9d8s,98o,9d,8s,9,8,d,s,0,0,offsuit,12,49.07,48.34,1.45,27.40,36.30,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+669,9c8s,98o,9c,8s,9,8,c,s,0,0,offsuit,12,49.07,48.34,1.45,27.40,36.30,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+670,9s8h,98o,9s,8h,9,8,s,h,0,0,offsuit,12,49.07,48.34,1.45,27.40,36.30,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+671,9d8h,98o,9d,8h,9,8,d,h,0,0,offsuit,12,49.07,48.34,1.45,27.40,36.30,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+672,9c8h,98o,9c,8h,9,8,c,h,0,0,offsuit,12,49.07,48.34,1.45,27.40,36.30,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+673,9s8d,98o,9s,8d,9,8,s,d,0,0,offsuit,12,49.07,48.34,1.45,27.40,36.30,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+674,9h8d,98o,9h,8d,9,8,h,d,0,0,offsuit,12,49.07,48.34,1.45,27.40,36.30,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+675,9c8d,98o,9c,8d,9,8,c,d,0,0,offsuit,12,49.07,48.34,1.45,27.40,36.30,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+676,9s8c,98o,9s,8c,9,8,s,c,0,0,offsuit,12,49.07,48.34,1.45,27.40,36.30,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+677,9h8c,98o,9h,8c,9,8,h,c,0,0,offsuit,12,49.07,48.34,1.45,27.40,36.30,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+678,9d8c,98o,9d,8c,9,8,d,c,0,0,offsuit,12,49.07,48.34,1.45,27.40,36.30,6.0,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+679,Qh5s,Q5o,Qh,5s,Q,5,h,s,0,0,offsuit,12,48.81,48.09,1.45,23.80,31.30,3.4,Tier 5 (Trash),Pure Fold
+680,Qd5s,Q5o,Qd,5s,Q,5,d,s,0,0,offsuit,12,48.81,48.09,1.45,23.80,31.30,3.4,Tier 5 (Trash),Pure Fold
+681,Qc5s,Q5o,Qc,5s,Q,5,c,s,0,0,offsuit,12,48.81,48.09,1.45,23.80,31.30,3.4,Tier 5 (Trash),Pure Fold
+682,Qs5h,Q5o,Qs,5h,Q,5,s,h,0,0,offsuit,12,48.81,48.09,1.45,23.80,31.30,3.4,Tier 5 (Trash),Pure Fold
+683,Qd5h,Q5o,Qd,5h,Q,5,d,h,0,0,offsuit,12,48.81,48.09,1.45,23.80,31.30,3.4,Tier 5 (Trash),Pure Fold
+684,Qc5h,Q5o,Qc,5h,Q,5,c,h,0,0,offsuit,12,48.81,48.09,1.45,23.80,31.30,3.4,Tier 5 (Trash),Pure Fold
+685,Qs5d,Q5o,Qs,5d,Q,5,s,d,0,0,offsuit,12,48.81,48.09,1.45,23.80,31.30,3.4,Tier 5 (Trash),Pure Fold
+686,Qh5d,Q5o,Qh,5d,Q,5,h,d,0,0,offsuit,12,48.81,48.09,1.45,23.80,31.30,3.4,Tier 5 (Trash),Pure Fold
+687,Qc5d,Q5o,Qc,5d,Q,5,c,d,0,0,offsuit,12,48.81,48.09,1.45,23.80,31.30,3.4,Tier 5 (Trash),Pure Fold
+688,Qs5c,Q5o,Qs,5c,Q,5,s,c,0,0,offsuit,12,48.81,48.09,1.45,23.80,31.30,3.4,Tier 5 (Trash),Pure Fold
+689,Qh5c,Q5o,Qh,5c,Q,5,h,c,0,0,offsuit,12,48.81,48.09,1.45,23.80,31.30,3.4,Tier 5 (Trash),Pure Fold
+690,Qd5c,Q5o,Qd,5c,Q,5,d,c,0,0,offsuit,12,48.81,48.09,1.45,23.80,31.30,3.4,Tier 5 (Trash),Pure Fold
+691,Jh7s,J7o,Jh,7s,J,7,h,s,0,0,offsuit,12,48.48,47.75,1.45,24.10,32.20,4.2,Tier 5 (Trash),Pure Fold
+692,Jd7s,J7o,Jd,7s,J,7,d,s,0,0,offsuit,12,48.48,47.75,1.45,24.10,32.20,4.2,Tier 5 (Trash),Pure Fold
+693,Jc7s,J7o,Jc,7s,J,7,c,s,0,0,offsuit,12,48.48,47.75,1.45,24.10,32.20,4.2,Tier 5 (Trash),Pure Fold
+694,Js7h,J7o,Js,7h,J,7,s,h,0,0,offsuit,12,48.48,47.75,1.45,24.10,32.20,4.2,Tier 5 (Trash),Pure Fold
+695,Jd7h,J7o,Jd,7h,J,7,d,h,0,0,offsuit,12,48.48,47.75,1.45,24.10,32.20,4.2,Tier 5 (Trash),Pure Fold
+696,Jc7h,J7o,Jc,7h,J,7,c,h,0,0,offsuit,12,48.48,47.75,1.45,24.10,32.20,4.2,Tier 5 (Trash),Pure Fold
+697,Js7d,J7o,Js,7d,J,7,s,d,0,0,offsuit,12,48.48,47.75,1.45,24.10,32.20,4.2,Tier 5 (Trash),Pure Fold
+698,Jh7d,J7o,Jh,7d,J,7,h,d,0,0,offsuit,12,48.48,47.75,1.45,24.10,32.20,4.2,Tier 5 (Trash),Pure Fold
+699,Jc7d,J7o,Jc,7d,J,7,c,d,0,0,offsuit,12,48.48,47.75,1.45,24.10,32.20,4.2,Tier 5 (Trash),Pure Fold
+700,Js7c,J7o,Js,7c,J,7,s,c,0,0,offsuit,12,48.48,47.75,1.45,24.10,32.20,4.2,Tier 5 (Trash),Pure Fold
+701,Jh7c,J7o,Jh,7c,J,7,h,c,0,0,offsuit,12,48.48,47.75,1.45,24.10,32.20,4.2,Tier 5 (Trash),Pure Fold
+702,Jd7c,J7o,Jd,7c,J,7,d,c,0,0,offsuit,12,48.48,47.75,1.45,24.10,32.20,4.2,Tier 5 (Trash),Pure Fold
+703,Ts6s,T6s,Ts,6s,T,6,s,s,1,0,suited,4,48.43,47.83,1.20,24.60,33.10,5.9,Tier 5 (Trash),Pure Fold
+704,Th6h,T6s,Th,6h,T,6,h,h,1,0,suited,4,48.43,47.83,1.20,24.60,33.10,5.9,Tier 5 (Trash),Pure Fold
+705,Td6d,T6s,Td,6d,T,6,d,d,1,0,suited,4,48.43,47.83,1.20,24.60,33.10,5.9,Tier 5 (Trash),Pure Fold
+706,Tc6c,T6s,Tc,6c,T,6,c,c,1,0,suited,4,48.43,47.83,1.20,24.60,33.10,5.9,Tier 5 (Trash),Pure Fold
+707,Js4s,J4s,Js,4s,J,4,s,s,1,0,suited,4,48.33,47.73,1.20,23.30,31.00,4.7,Tier 5 (Trash),Pure Fold
+708,Jh4h,J4s,Jh,4h,J,4,h,h,1,0,suited,4,48.33,47.73,1.20,23.30,31.00,4.7,Tier 5 (Trash),Pure Fold
+709,Jd4d,J4s,Jd,4d,J,4,d,d,1,0,suited,4,48.33,47.73,1.20,23.30,31.00,4.7,Tier 5 (Trash),Pure Fold
+710,Jc4c,J4s,Jc,4c,J,4,c,c,1,0,suited,4,48.33,47.73,1.20,23.30,31.00,4.7,Tier 5 (Trash),Pure Fold
+711,9s6s,96s,9s,6s,9,6,s,s,1,0,suited,4,47.96,47.36,1.20,24.90,33.70,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+712,9h6h,96s,9h,6h,9,6,h,h,1,0,suited,4,47.96,47.36,1.20,24.90,33.70,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+713,9d6d,96s,9d,6d,9,6,d,d,1,0,suited,4,47.96,47.36,1.20,24.90,33.70,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+714,9c6c,96s,9c,6c,9,6,c,c,1,0,suited,4,47.96,47.36,1.20,24.90,33.70,6.3,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+715,8s6s,86s,8s,6s,8,6,s,s,1,0,suited,4,47.76,47.16,1.20,25.80,34.80,7.0,Tier 3 (Playable),Open (CO/BTN only)
+716,8h6h,86s,8h,6h,8,6,h,h,1,0,suited,4,47.76,47.16,1.20,25.80,34.80,7.0,Tier 3 (Playable),Open (CO/BTN only)
+717,8d6d,86s,8d,6d,8,6,d,d,1,0,suited,4,47.76,47.16,1.20,25.80,34.80,7.0,Tier 3 (Playable),Open (CO/BTN only)
+718,8c6c,86s,8c,6c,8,6,c,c,1,0,suited,4,47.76,47.16,1.20,25.80,34.80,7.0,Tier 3 (Playable),Open (CO/BTN only)
+719,Qh4s,Q4o,Qh,4s,Q,4,h,s,0,0,offsuit,12,47.66,46.93,1.45,22.00,29.30,3.0,Tier 5 (Trash),Pure Fold
+720,Qd4s,Q4o,Qd,4s,Q,4,d,s,0,0,offsuit,12,47.66,46.93,1.45,22.00,29.30,3.0,Tier 5 (Trash),Pure Fold
+721,Qc4s,Q4o,Qc,4s,Q,4,c,s,0,0,offsuit,12,47.66,46.93,1.45,22.00,29.30,3.0,Tier 5 (Trash),Pure Fold
+722,Qs4h,Q4o,Qs,4h,Q,4,s,h,0,0,offsuit,12,47.66,46.93,1.45,22.00,29.30,3.0,Tier 5 (Trash),Pure Fold
+723,Qd4h,Q4o,Qd,4h,Q,4,d,h,0,0,offsuit,12,47.66,46.93,1.45,22.00,29.30,3.0,Tier 5 (Trash),Pure Fold
+724,Qc4h,Q4o,Qc,4h,Q,4,c,h,0,0,offsuit,12,47.66,46.93,1.45,22.00,29.30,3.0,Tier 5 (Trash),Pure Fold
+725,Qs4d,Q4o,Qs,4d,Q,4,s,d,0,0,offsuit,12,47.66,46.93,1.45,22.00,29.30,3.0,Tier 5 (Trash),Pure Fold
+726,Qh4d,Q4o,Qh,4d,Q,4,h,d,0,0,offsuit,12,47.66,46.93,1.45,22.00,29.30,3.0,Tier 5 (Trash),Pure Fold
+727,Qc4d,Q4o,Qc,4d,Q,4,c,d,0,0,offsuit,12,47.66,46.93,1.45,22.00,29.30,3.0,Tier 5 (Trash),Pure Fold
+728,Qs4c,Q4o,Qs,4c,Q,4,s,c,0,0,offsuit,12,47.66,46.93,1.45,22.00,29.30,3.0,Tier 5 (Trash),Pure Fold
+729,Qh4c,Q4o,Qh,4c,Q,4,h,c,0,0,offsuit,12,47.66,46.93,1.45,22.00,29.30,3.0,Tier 5 (Trash),Pure Fold
+730,Qd4c,Q4o,Qd,4c,Q,4,d,c,0,0,offsuit,12,47.66,46.93,1.45,22.00,29.30,3.0,Tier 5 (Trash),Pure Fold
+731,7s6s,76s,7s,6s,7,6,s,s,1,0,suited,4,47.53,46.93,1.20,27.20,36.10,7.7,Tier 3 (Playable),Open (CO/BTN only)
+732,7h6h,76s,7h,6h,7,6,h,h,1,0,suited,4,47.53,46.93,1.20,27.20,36.10,7.7,Tier 3 (Playable),Open (CO/BTN only)
+733,7d6d,76s,7d,6d,7,6,d,d,1,0,suited,4,47.53,46.93,1.20,27.20,36.10,7.7,Tier 3 (Playable),Open (CO/BTN only)
+734,7c6c,76s,7c,6c,7,6,c,c,1,0,suited,4,47.53,46.93,1.20,27.20,36.10,7.7,Tier 3 (Playable),Open (CO/BTN only)
+735,Js3s,J3s,Js,3s,J,3,s,s,1,0,suited,4,47.33,46.73,1.20,21.60,29.20,4.3,Tier 5 (Trash),Pure Fold
+736,Jh3h,J3s,Jh,3h,J,3,h,h,1,0,suited,4,47.33,46.73,1.20,21.60,29.20,4.3,Tier 5 (Trash),Pure Fold
+737,Jd3d,J3s,Jd,3d,J,3,d,d,1,0,suited,4,47.33,46.73,1.20,21.60,29.20,4.3,Tier 5 (Trash),Pure Fold
+738,Jc3c,J3s,Jc,3c,J,3,c,c,1,0,suited,4,47.33,46.73,1.20,21.60,29.20,4.3,Tier 5 (Trash),Pure Fold
+739,Th7s,T7o,Th,7s,T,7,h,s,0,0,offsuit,12,47.11,46.38,1.45,22.40,31.00,4.6,Tier 5 (Trash),Pure Fold
+740,Td7s,T7o,Td,7s,T,7,d,s,0,0,offsuit,12,47.11,46.38,1.45,22.40,31.00,4.6,Tier 5 (Trash),Pure Fold
+741,Tc7s,T7o,Tc,7s,T,7,c,s,0,0,offsuit,12,47.11,46.38,1.45,22.40,31.00,4.6,Tier 5 (Trash),Pure Fold
+742,Ts7h,T7o,Ts,7h,T,7,s,h,0,0,offsuit,12,47.11,46.38,1.45,22.40,31.00,4.6,Tier 5 (Trash),Pure Fold
+743,Td7h,T7o,Td,7h,T,7,d,h,0,0,offsuit,12,47.11,46.38,1.45,22.40,31.00,4.6,Tier 5 (Trash),Pure Fold
+744,Tc7h,T7o,Tc,7h,T,7,c,h,0,0,offsuit,12,47.11,46.38,1.45,22.40,31.00,4.6,Tier 5 (Trash),Pure Fold
+745,Ts7d,T7o,Ts,7d,T,7,s,d,0,0,offsuit,12,47.11,46.38,1.45,22.40,31.00,4.6,Tier 5 (Trash),Pure Fold
+746,Th7d,T7o,Th,7d,T,7,h,d,0,0,offsuit,12,47.11,46.38,1.45,22.40,31.00,4.6,Tier 5 (Trash),Pure Fold
+747,Tc7d,T7o,Tc,7d,T,7,c,d,0,0,offsuit,12,47.11,46.38,1.45,22.40,31.00,4.6,Tier 5 (Trash),Pure Fold
+748,Ts7c,T7o,Ts,7c,T,7,s,c,0,0,offsuit,12,47.11,46.38,1.45,22.40,31.00,4.6,Tier 5 (Trash),Pure Fold
+749,Th7c,T7o,Th,7c,T,7,h,c,0,0,offsuit,12,47.11,46.38,1.45,22.40,31.00,4.6,Tier 5 (Trash),Pure Fold
+750,Td7c,T7o,Td,7c,T,7,d,c,0,0,offsuit,12,47.11,46.38,1.45,22.40,31.00,4.6,Tier 5 (Trash),Pure Fold
+751,Ts5s,T5s,Ts,5s,T,5,s,s,1,0,suited,4,47.01,46.41,1.20,22.30,30.60,5.0,Tier 5 (Trash),Pure Fold
+752,Th5h,T5s,Th,5h,T,5,h,h,1,0,suited,4,47.01,46.41,1.20,22.30,30.60,5.0,Tier 5 (Trash),Pure Fold
+753,Td5d,T5s,Td,5d,T,5,d,d,1,0,suited,4,47.01,46.41,1.20,22.30,30.60,5.0,Tier 5 (Trash),Pure Fold
+754,Tc5c,T5s,Tc,5c,T,5,c,c,1,0,suited,4,47.01,46.41,1.20,22.30,30.60,5.0,Tier 5 (Trash),Pure Fold
+755,Jh6s,J6o,Jh,6s,J,6,h,s,0,0,offsuit,12,46.91,46.18,1.45,21.60,29.60,3.6,Tier 5 (Trash),Pure Fold
+756,Jd6s,J6o,Jd,6s,J,6,d,s,0,0,offsuit,12,46.91,46.18,1.45,21.60,29.60,3.6,Tier 5 (Trash),Pure Fold
+757,Jc6s,J6o,Jc,6s,J,6,c,s,0,0,offsuit,12,46.91,46.18,1.45,21.60,29.60,3.6,Tier 5 (Trash),Pure Fold
+758,Js6h,J6o,Js,6h,J,6,s,h,0,0,offsuit,12,46.91,46.18,1.45,21.60,29.60,3.6,Tier 5 (Trash),Pure Fold
+759,Jd6h,J6o,Jd,6h,J,6,d,h,0,0,offsuit,12,46.91,46.18,1.45,21.60,29.60,3.6,Tier 5 (Trash),Pure Fold
+760,Jc6h,J6o,Jc,6h,J,6,c,h,0,0,offsuit,12,46.91,46.18,1.45,21.60,29.60,3.6,Tier 5 (Trash),Pure Fold
+761,Js6d,J6o,Js,6d,J,6,s,d,0,0,offsuit,12,46.91,46.18,1.45,21.60,29.60,3.6,Tier 5 (Trash),Pure Fold
+762,Jh6d,J6o,Jh,6d,J,6,h,d,0,0,offsuit,12,46.91,46.18,1.45,21.60,29.60,3.6,Tier 5 (Trash),Pure Fold
+763,Jc6d,J6o,Jc,6d,J,6,c,d,0,0,offsuit,12,46.91,46.18,1.45,21.60,29.60,3.6,Tier 5 (Trash),Pure Fold
+764,Js6c,J6o,Js,6c,J,6,s,c,0,0,offsuit,12,46.91,46.18,1.45,21.60,29.60,3.6,Tier 5 (Trash),Pure Fold
+765,Jh6c,J6o,Jh,6c,J,6,h,c,0,0,offsuit,12,46.91,46.18,1.45,21.60,29.60,3.6,Tier 5 (Trash),Pure Fold
+766,Jd6c,J6o,Jd,6c,J,6,d,c,0,0,offsuit,12,46.91,46.18,1.45,21.60,29.60,3.6,Tier 5 (Trash),Pure Fold
+767,9h7s,97o,9h,7s,9,7,h,s,0,0,offsuit,12,46.73,46.00,1.45,23.10,32.20,5.1,Tier 5 (Trash),Pure Fold
+768,9d7s,97o,9d,7s,9,7,d,s,0,0,offsuit,12,46.73,46.00,1.45,23.10,32.20,5.1,Tier 5 (Trash),Pure Fold
+769,9c7s,97o,9c,7s,9,7,c,s,0,0,offsuit,12,46.73,46.00,1.45,23.10,32.20,5.1,Tier 5 (Trash),Pure Fold
+770,9s7h,97o,9s,7h,9,7,s,h,0,0,offsuit,12,46.73,46.00,1.45,23.10,32.20,5.1,Tier 5 (Trash),Pure Fold
+771,9d7h,97o,9d,7h,9,7,d,h,0,0,offsuit,12,46.73,46.00,1.45,23.10,32.20,5.1,Tier 5 (Trash),Pure Fold
+772,9c7h,97o,9c,7h,9,7,c,h,0,0,offsuit,12,46.73,46.00,1.45,23.10,32.20,5.1,Tier 5 (Trash),Pure Fold
+773,9s7d,97o,9s,7d,9,7,s,d,0,0,offsuit,12,46.73,46.00,1.45,23.10,32.20,5.1,Tier 5 (Trash),Pure Fold
+774,9h7d,97o,9h,7d,9,7,h,d,0,0,offsuit,12,46.73,46.00,1.45,23.10,32.20,5.1,Tier 5 (Trash),Pure Fold
+775,9c7d,97o,9c,7d,9,7,c,d,0,0,offsuit,12,46.73,46.00,1.45,23.10,32.20,5.1,Tier 5 (Trash),Pure Fold
+776,9s7c,97o,9s,7c,9,7,s,c,0,0,offsuit,12,46.73,46.00,1.45,23.10,32.20,5.1,Tier 5 (Trash),Pure Fold
+777,9h7c,97o,9h,7c,9,7,h,c,0,0,offsuit,12,46.73,46.00,1.45,23.10,32.20,5.1,Tier 5 (Trash),Pure Fold
+778,9d7c,97o,9d,7c,9,7,d,c,0,0,offsuit,12,46.73,46.00,1.45,23.10,32.20,5.1,Tier 5 (Trash),Pure Fold
+779,8h7s,87o,8h,7s,8,7,h,s,0,0,offsuit,12,46.68,45.95,1.45,24.50,33.60,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+780,8d7s,87o,8d,7s,8,7,d,s,0,0,offsuit,12,46.68,45.95,1.45,24.50,33.60,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+781,8c7s,87o,8c,7s,8,7,c,s,0,0,offsuit,12,46.68,45.95,1.45,24.50,33.60,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+782,8s7h,87o,8s,7h,8,7,s,h,0,0,offsuit,12,46.68,45.95,1.45,24.50,33.60,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+783,8d7h,87o,8d,7h,8,7,d,h,0,0,offsuit,12,46.68,45.95,1.45,24.50,33.60,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+784,8c7h,87o,8c,7h,8,7,c,h,0,0,offsuit,12,46.68,45.95,1.45,24.50,33.60,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+785,8s7d,87o,8s,7d,8,7,s,d,0,0,offsuit,12,46.68,45.95,1.45,24.50,33.60,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+786,8h7d,87o,8h,7d,8,7,h,d,0,0,offsuit,12,46.68,45.95,1.45,24.50,33.60,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+787,8c7d,87o,8c,7d,8,7,c,d,0,0,offsuit,12,46.68,45.95,1.45,24.50,33.60,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+788,8s7c,87o,8s,7c,8,7,s,c,0,0,offsuit,12,46.68,45.95,1.45,24.50,33.60,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+789,8h7c,87o,8h,7c,8,7,h,c,0,0,offsuit,12,46.68,45.95,1.45,24.50,33.60,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+790,8d7c,87o,8d,7c,8,7,d,c,0,0,offsuit,12,46.68,45.95,1.45,24.50,33.60,5.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+791,Qh3s,Q3o,Qh,3s,Q,3,h,s,0,0,offsuit,12,46.40,45.67,1.45,20.30,27.30,2.7,Tier 5 (Trash),Pure Fold
+792,Qd3s,Q3o,Qd,3s,Q,3,d,s,0,0,offsuit,12,46.40,45.67,1.45,20.30,27.30,2.7,Tier 5 (Trash),Pure Fold
+793,Qc3s,Q3o,Qc,3s,Q,3,c,s,0,0,offsuit,12,46.40,45.67,1.45,20.30,27.30,2.7,Tier 5 (Trash),Pure Fold
+794,Qs3h,Q3o,Qs,3h,Q,3,s,h,0,0,offsuit,12,46.40,45.67,1.45,20.30,27.30,2.7,Tier 5 (Trash),Pure Fold
+795,Qd3h,Q3o,Qd,3h,Q,3,d,h,0,0,offsuit,12,46.40,45.67,1.45,20.30,27.30,2.7,Tier 5 (Trash),Pure Fold
+796,Qc3h,Q3o,Qc,3h,Q,3,c,h,0,0,offsuit,12,46.40,45.67,1.45,20.30,27.30,2.7,Tier 5 (Trash),Pure Fold
+797,Qs3d,Q3o,Qs,3d,Q,3,s,d,0,0,offsuit,12,46.40,45.67,1.45,20.30,27.30,2.7,Tier 5 (Trash),Pure Fold
+798,Qh3d,Q3o,Qh,3d,Q,3,h,d,0,0,offsuit,12,46.40,45.67,1.45,20.30,27.30,2.7,Tier 5 (Trash),Pure Fold
+799,Qc3d,Q3o,Qc,3d,Q,3,c,d,0,0,offsuit,12,46.40,45.67,1.45,20.30,27.30,2.7,Tier 5 (Trash),Pure Fold
+800,Qs3c,Q3o,Qs,3c,Q,3,s,c,0,0,offsuit,12,46.40,45.67,1.45,20.30,27.30,2.7,Tier 5 (Trash),Pure Fold
+801,Qh3c,Q3o,Qh,3c,Q,3,h,c,0,0,offsuit,12,46.40,45.67,1.45,20.30,27.30,2.7,Tier 5 (Trash),Pure Fold
+802,Qd3c,Q3o,Qd,3c,Q,3,d,c,0,0,offsuit,12,46.40,45.67,1.45,20.30,27.30,2.7,Tier 5 (Trash),Pure Fold
+803,Js2s,J2s,Js,2s,J,2,s,s,1,0,suited,4,46.36,45.76,1.20,20.00,27.50,3.9,Tier 5 (Trash),Pure Fold
+804,Jh2h,J2s,Jh,2h,J,2,h,h,1,0,suited,4,46.36,45.76,1.20,20.00,27.50,3.9,Tier 5 (Trash),Pure Fold
+805,Jd2d,J2s,Jd,2d,J,2,d,d,1,0,suited,4,46.36,45.76,1.20,20.00,27.50,3.9,Tier 5 (Trash),Pure Fold
+806,Jc2c,J2s,Jc,2c,J,2,c,c,1,0,suited,4,46.36,45.76,1.20,20.00,27.50,3.9,Tier 5 (Trash),Pure Fold
+807,Ts4s,T4s,Ts,4s,T,4,s,s,1,0,suited,4,45.96,45.36,1.20,20.60,28.70,4.5,Tier 5 (Trash),Pure Fold
+808,Th4h,T4s,Th,4h,T,4,h,h,1,0,suited,4,45.96,45.36,1.20,20.60,28.70,4.5,Tier 5 (Trash),Pure Fold
+809,Td4d,T4s,Td,4d,T,4,d,d,1,0,suited,4,45.96,45.36,1.20,20.60,28.70,4.5,Tier 5 (Trash),Pure Fold
+810,Tc4c,T4s,Tc,4c,T,4,c,c,1,0,suited,4,45.96,45.36,1.20,20.60,28.70,4.5,Tier 5 (Trash),Pure Fold
+811,9s5s,95s,9s,5s,9,5,s,s,1,0,suited,4,45.74,45.14,1.20,21.60,30.10,5.4,Tier 5 (Trash),Pure Fold
+812,9h5h,95s,9h,5h,9,5,h,h,1,0,suited,4,45.74,45.14,1.20,21.60,30.10,5.4,Tier 5 (Trash),Pure Fold
+813,9d5d,95s,9d,5d,9,5,d,d,1,0,suited,4,45.74,45.14,1.20,21.60,30.10,5.4,Tier 5 (Trash),Pure Fold
+814,9c5c,95s,9c,5c,9,5,c,c,1,0,suited,4,45.74,45.14,1.20,21.60,30.10,5.4,Tier 5 (Trash),Pure Fold
+815,8s5s,85s,8s,5s,8,5,s,s,1,0,suited,4,45.71,45.11,1.20,22.20,31.10,6.1,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+816,8h5h,85s,8h,5h,8,5,h,h,1,0,suited,4,45.71,45.11,1.20,22.20,31.10,6.1,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+817,8d5d,85s,8d,5d,8,5,d,d,1,0,suited,4,45.71,45.11,1.20,22.20,31.10,6.1,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+818,8c5c,85s,8c,5c,8,5,c,c,1,0,suited,4,45.71,45.11,1.20,22.20,31.10,6.1,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+819,Jh5s,J5o,Jh,5s,J,5,h,s,0,0,offsuit,12,45.67,44.95,1.45,19.70,27.50,3.1,Tier 5 (Trash),Pure Fold
+820,Jd5s,J5o,Jd,5s,J,5,d,s,0,0,offsuit,12,45.67,44.95,1.45,19.70,27.50,3.1,Tier 5 (Trash),Pure Fold
+821,Jc5s,J5o,Jc,5s,J,5,c,s,0,0,offsuit,12,45.67,44.95,1.45,19.70,27.50,3.1,Tier 5 (Trash),Pure Fold
+822,Js5h,J5o,Js,5h,J,5,s,h,0,0,offsuit,12,45.67,44.95,1.45,19.70,27.50,3.1,Tier 5 (Trash),Pure Fold
+823,Jd5h,J5o,Jd,5h,J,5,d,h,0,0,offsuit,12,45.67,44.95,1.45,19.70,27.50,3.1,Tier 5 (Trash),Pure Fold
+824,Jc5h,J5o,Jc,5h,J,5,c,h,0,0,offsuit,12,45.67,44.95,1.45,19.70,27.50,3.1,Tier 5 (Trash),Pure Fold
+825,Js5d,J5o,Js,5d,J,5,s,d,0,0,offsuit,12,45.67,44.95,1.45,19.70,27.50,3.1,Tier 5 (Trash),Pure Fold
+826,Jh5d,J5o,Jh,5d,J,5,h,d,0,0,offsuit,12,45.67,44.95,1.45,19.70,27.50,3.1,Tier 5 (Trash),Pure Fold
+827,Jc5d,J5o,Jc,5d,J,5,c,d,0,0,offsuit,12,45.67,44.95,1.45,19.70,27.50,3.1,Tier 5 (Trash),Pure Fold
+828,Js5c,J5o,Js,5c,J,5,s,c,0,0,offsuit,12,45.67,44.95,1.45,19.70,27.50,3.1,Tier 5 (Trash),Pure Fold
+829,Jh5c,J5o,Jh,5c,J,5,h,c,0,0,offsuit,12,45.67,44.95,1.45,19.70,27.50,3.1,Tier 5 (Trash),Pure Fold
+830,Jd5c,J5o,Jd,5c,J,5,d,c,0,0,offsuit,12,45.67,44.95,1.45,19.70,27.50,3.1,Tier 5 (Trash),Pure Fold
+831,7s5s,75s,7s,5s,7,5,s,s,1,0,suited,4,45.48,44.88,1.20,23.20,32.20,6.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+832,7h5h,75s,7h,5h,7,5,h,h,1,0,suited,4,45.48,44.88,1.20,23.20,32.20,6.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+833,7d5d,75s,7d,5d,7,5,d,d,1,0,suited,4,45.48,44.88,1.20,23.20,32.20,6.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+834,7c5c,75s,7c,5c,7,5,c,c,1,0,suited,4,45.48,44.88,1.20,23.20,32.20,6.8,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+835,6s5s,65s,6s,5s,6,5,s,s,1,0,suited,4,45.45,44.85,1.20,24.70,33.60,7.4,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+836,6h5h,65s,6h,5h,6,5,h,h,1,0,suited,4,45.45,44.85,1.20,24.70,33.60,7.4,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+837,6d5d,65s,6d,5d,6,5,d,d,1,0,suited,4,45.45,44.85,1.20,24.70,33.60,7.4,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+838,6c5c,65s,6c,5c,6,5,c,c,1,0,suited,4,45.45,44.85,1.20,24.70,33.60,7.4,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+839,Qh2s,Q2o,Qh,2s,Q,2,h,s,0,0,offsuit,12,45.41,44.68,1.45,18.80,25.60,2.4,Tier 5 (Trash),Pure Fold
+840,Qd2s,Q2o,Qd,2s,Q,2,d,s,0,0,offsuit,12,45.41,44.68,1.45,18.80,25.60,2.4,Tier 5 (Trash),Pure Fold
+841,Qc2s,Q2o,Qc,2s,Q,2,c,s,0,0,offsuit,12,45.41,44.68,1.45,18.80,25.60,2.4,Tier 5 (Trash),Pure Fold
+842,Qs2h,Q2o,Qs,2h,Q,2,s,h,0,0,offsuit,12,45.41,44.68,1.45,18.80,25.60,2.4,Tier 5 (Trash),Pure Fold
+843,Qd2h,Q2o,Qd,2h,Q,2,d,h,0,0,offsuit,12,45.41,44.68,1.45,18.80,25.60,2.4,Tier 5 (Trash),Pure Fold
+844,Qc2h,Q2o,Qc,2h,Q,2,c,h,0,0,offsuit,12,45.41,44.68,1.45,18.80,25.60,2.4,Tier 5 (Trash),Pure Fold
+845,Qs2d,Q2o,Qs,2d,Q,2,s,d,0,0,offsuit,12,45.41,44.68,1.45,18.80,25.60,2.4,Tier 5 (Trash),Pure Fold
+846,Qh2d,Q2o,Qh,2d,Q,2,h,d,0,0,offsuit,12,45.41,44.68,1.45,18.80,25.60,2.4,Tier 5 (Trash),Pure Fold
+847,Qc2d,Q2o,Qc,2d,Q,2,c,d,0,0,offsuit,12,45.41,44.68,1.45,18.80,25.60,2.4,Tier 5 (Trash),Pure Fold
+848,Qs2c,Q2o,Qs,2c,Q,2,s,c,0,0,offsuit,12,45.41,44.68,1.45,18.80,25.60,2.4,Tier 5 (Trash),Pure Fold
+849,Qh2c,Q2o,Qh,2c,Q,2,h,c,0,0,offsuit,12,45.41,44.68,1.45,18.80,25.60,2.4,Tier 5 (Trash),Pure Fold
+850,Qd2c,Q2o,Qd,2c,Q,2,d,c,0,0,offsuit,12,45.41,44.68,1.45,18.80,25.60,2.4,Tier 5 (Trash),Pure Fold
+851,Ts3s,T3s,Ts,3s,T,3,s,s,1,0,suited,4,44.97,44.37,1.20,18.90,26.90,4.1,Tier 5 (Trash),Pure Fold
+852,Th3h,T3s,Th,3h,T,3,h,h,1,0,suited,4,44.97,44.37,1.20,18.90,26.90,4.1,Tier 5 (Trash),Pure Fold
+853,Td3d,T3s,Td,3d,T,3,d,d,1,0,suited,4,44.97,44.37,1.20,18.90,26.90,4.1,Tier 5 (Trash),Pure Fold
+854,Tc3c,T3s,Tc,3c,T,3,c,c,1,0,suited,4,44.97,44.37,1.20,18.90,26.90,4.1,Tier 5 (Trash),Pure Fold
+855,Th6s,T6o,Th,6s,T,6,h,s,0,0,offsuit,12,44.89,44.16,1.45,19.10,27.50,3.8,Tier 5 (Trash),Pure Fold
+856,Td6s,T6o,Td,6s,T,6,d,s,0,0,offsuit,12,44.89,44.16,1.45,19.10,27.50,3.8,Tier 5 (Trash),Pure Fold
+857,Tc6s,T6o,Tc,6s,T,6,c,s,0,0,offsuit,12,44.89,44.16,1.45,19.10,27.50,3.8,Tier 5 (Trash),Pure Fold
+858,Ts6h,T6o,Ts,6h,T,6,s,h,0,0,offsuit,12,44.89,44.16,1.45,19.10,27.50,3.8,Tier 5 (Trash),Pure Fold
+859,Td6h,T6o,Td,6h,T,6,d,h,0,0,offsuit,12,44.89,44.16,1.45,19.10,27.50,3.8,Tier 5 (Trash),Pure Fold
+860,Tc6h,T6o,Tc,6h,T,6,c,h,0,0,offsuit,12,44.89,44.16,1.45,19.10,27.50,3.8,Tier 5 (Trash),Pure Fold
+861,Ts6d,T6o,Ts,6d,T,6,s,d,0,0,offsuit,12,44.89,44.16,1.45,19.10,27.50,3.8,Tier 5 (Trash),Pure Fold
+862,Th6d,T6o,Th,6d,T,6,h,d,0,0,offsuit,12,44.89,44.16,1.45,19.10,27.50,3.8,Tier 5 (Trash),Pure Fold
+863,Tc6d,T6o,Tc,6d,T,6,c,d,0,0,offsuit,12,44.89,44.16,1.45,19.10,27.50,3.8,Tier 5 (Trash),Pure Fold
+864,Ts6c,T6o,Ts,6c,T,6,s,c,0,0,offsuit,12,44.89,44.16,1.45,19.10,27.50,3.8,Tier 5 (Trash),Pure Fold
+865,Th6c,T6o,Th,6c,T,6,h,c,0,0,offsuit,12,44.89,44.16,1.45,19.10,27.50,3.8,Tier 5 (Trash),Pure Fold
+866,Td6c,T6o,Td,6c,T,6,d,c,0,0,offsuit,12,44.89,44.16,1.45,19.10,27.50,3.8,Tier 5 (Trash),Pure Fold
+867,Jh4s,J4o,Jh,4s,J,4,h,s,0,0,offsuit,12,44.52,43.80,1.45,17.90,25.50,2.7,Tier 5 (Trash),Pure Fold
+868,Jd4s,J4o,Jd,4s,J,4,d,s,0,0,offsuit,12,44.52,43.80,1.45,17.90,25.50,2.7,Tier 5 (Trash),Pure Fold
+869,Jc4s,J4o,Jc,4s,J,4,c,s,0,0,offsuit,12,44.52,43.80,1.45,17.90,25.50,2.7,Tier 5 (Trash),Pure Fold
+870,Js4h,J4o,Js,4h,J,4,s,h,0,0,offsuit,12,44.52,43.80,1.45,17.90,25.50,2.7,Tier 5 (Trash),Pure Fold
+871,Jd4h,J4o,Jd,4h,J,4,d,h,0,0,offsuit,12,44.52,43.80,1.45,17.90,25.50,2.7,Tier 5 (Trash),Pure Fold
+872,Jc4h,J4o,Jc,4h,J,4,c,h,0,0,offsuit,12,44.52,43.80,1.45,17.90,25.50,2.7,Tier 5 (Trash),Pure Fold
+873,Js4d,J4o,Js,4d,J,4,s,d,0,0,offsuit,12,44.52,43.80,1.45,17.90,25.50,2.7,Tier 5 (Trash),Pure Fold
+874,Jh4d,J4o,Jh,4d,J,4,h,d,0,0,offsuit,12,44.52,43.80,1.45,17.90,25.50,2.7,Tier 5 (Trash),Pure Fold
+875,Jc4d,J4o,Jc,4d,J,4,c,d,0,0,offsuit,12,44.52,43.80,1.45,17.90,25.50,2.7,Tier 5 (Trash),Pure Fold
+876,Js4c,J4o,Js,4c,J,4,s,c,0,0,offsuit,12,44.52,43.80,1.45,17.90,25.50,2.7,Tier 5 (Trash),Pure Fold
+877,Jh4c,J4o,Jh,4c,J,4,h,c,0,0,offsuit,12,44.52,43.80,1.45,17.90,25.50,2.7,Tier 5 (Trash),Pure Fold
+878,Jd4c,J4o,Jd,4c,J,4,d,c,0,0,offsuit,12,44.52,43.80,1.45,17.90,25.50,2.7,Tier 5 (Trash),Pure Fold
+879,9h6s,96o,9h,6s,9,6,h,s,0,0,offsuit,12,44.52,43.80,1.45,19.30,28.20,4.1,Tier 5 (Trash),Pure Fold
+880,9d6s,96o,9d,6s,9,6,d,s,0,0,offsuit,12,44.52,43.80,1.45,19.30,28.20,4.1,Tier 5 (Trash),Pure Fold
+881,9c6s,96o,9c,6s,9,6,c,s,0,0,offsuit,12,44.52,43.80,1.45,19.30,28.20,4.1,Tier 5 (Trash),Pure Fold
+882,9s6h,96o,9s,6h,9,6,s,h,0,0,offsuit,12,44.52,43.80,1.45,19.30,28.20,4.1,Tier 5 (Trash),Pure Fold
+883,9d6h,96o,9d,6h,9,6,d,h,0,0,offsuit,12,44.52,43.80,1.45,19.30,28.20,4.1,Tier 5 (Trash),Pure Fold
+884,9c6h,96o,9c,6h,9,6,c,h,0,0,offsuit,12,44.52,43.80,1.45,19.30,28.20,4.1,Tier 5 (Trash),Pure Fold
+885,9s6d,96o,9s,6d,9,6,s,d,0,0,offsuit,12,44.52,43.80,1.45,19.30,28.20,4.1,Tier 5 (Trash),Pure Fold
+886,9h6d,96o,9h,6d,9,6,h,d,0,0,offsuit,12,44.52,43.80,1.45,19.30,28.20,4.1,Tier 5 (Trash),Pure Fold
+887,9c6d,96o,9c,6d,9,6,c,d,0,0,offsuit,12,44.52,43.80,1.45,19.30,28.20,4.1,Tier 5 (Trash),Pure Fold
+888,9s6c,96o,9s,6c,9,6,s,c,0,0,offsuit,12,44.52,43.80,1.45,19.30,28.20,4.1,Tier 5 (Trash),Pure Fold
+889,9h6c,96o,9h,6c,9,6,h,c,0,0,offsuit,12,44.52,43.80,1.45,19.30,28.20,4.1,Tier 5 (Trash),Pure Fold
+890,9d6c,96o,9d,6c,9,6,d,c,0,0,offsuit,12,44.52,43.80,1.45,19.30,28.20,4.1,Tier 5 (Trash),Pure Fold
+891,8h6s,86o,8h,6s,8,6,h,s,0,0,offsuit,12,44.40,43.67,1.45,20.30,29.40,4.8,Tier 5 (Trash),Pure Fold
+892,8d6s,86o,8d,6s,8,6,d,s,0,0,offsuit,12,44.40,43.67,1.45,20.30,29.40,4.8,Tier 5 (Trash),Pure Fold
+893,8c6s,86o,8c,6s,8,6,c,s,0,0,offsuit,12,44.40,43.67,1.45,20.30,29.40,4.8,Tier 5 (Trash),Pure Fold
+894,8s6h,86o,8s,6h,8,6,s,h,0,0,offsuit,12,44.40,43.67,1.45,20.30,29.40,4.8,Tier 5 (Trash),Pure Fold
+895,8d6h,86o,8d,6h,8,6,d,h,0,0,offsuit,12,44.40,43.67,1.45,20.30,29.40,4.8,Tier 5 (Trash),Pure Fold
+896,8c6h,86o,8c,6h,8,6,c,h,0,0,offsuit,12,44.40,43.67,1.45,20.30,29.40,4.8,Tier 5 (Trash),Pure Fold
+897,8s6d,86o,8s,6d,8,6,s,d,0,0,offsuit,12,44.40,43.67,1.45,20.30,29.40,4.8,Tier 5 (Trash),Pure Fold
+898,8h6d,86o,8h,6d,8,6,h,d,0,0,offsuit,12,44.40,43.67,1.45,20.30,29.40,4.8,Tier 5 (Trash),Pure Fold
+899,8c6d,86o,8c,6d,8,6,c,d,0,0,offsuit,12,44.40,43.67,1.45,20.30,29.40,4.8,Tier 5 (Trash),Pure Fold
+900,8s6c,86o,8s,6c,8,6,s,c,0,0,offsuit,12,44.40,43.67,1.45,20.30,29.40,4.8,Tier 5 (Trash),Pure Fold
+901,8h6c,86o,8h,6c,8,6,h,c,0,0,offsuit,12,44.40,43.67,1.45,20.30,29.40,4.8,Tier 5 (Trash),Pure Fold
+902,8d6c,86o,8d,6c,8,6,d,c,0,0,offsuit,12,44.40,43.67,1.45,20.30,29.40,4.8,Tier 5 (Trash),Pure Fold
+903,7h6s,76o,7h,6s,7,6,h,s,0,0,offsuit,12,44.25,43.52,1.45,21.60,30.70,5.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+904,7d6s,76o,7d,6s,7,6,d,s,0,0,offsuit,12,44.25,43.52,1.45,21.60,30.70,5.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+905,7c6s,76o,7c,6s,7,6,c,s,0,0,offsuit,12,44.25,43.52,1.45,21.60,30.70,5.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+906,7s6h,76o,7s,6h,7,6,s,h,0,0,offsuit,12,44.25,43.52,1.45,21.60,30.70,5.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+907,7d6h,76o,7d,6h,7,6,d,h,0,0,offsuit,12,44.25,43.52,1.45,21.60,30.70,5.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+908,7c6h,76o,7c,6h,7,6,c,h,0,0,offsuit,12,44.25,43.52,1.45,21.60,30.70,5.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+909,7s6d,76o,7s,6d,7,6,s,d,0,0,offsuit,12,44.25,43.52,1.45,21.60,30.70,5.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+910,7h6d,76o,7h,6d,7,6,h,d,0,0,offsuit,12,44.25,43.52,1.45,21.60,30.70,5.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+911,7c6d,76o,7c,6d,7,6,c,d,0,0,offsuit,12,44.25,43.52,1.45,21.60,30.70,5.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+912,7s6c,76o,7s,6c,7,6,s,c,0,0,offsuit,12,44.25,43.52,1.45,21.60,30.70,5.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+913,7h6c,76o,7h,6c,7,6,h,c,0,0,offsuit,12,44.25,43.52,1.45,21.60,30.70,5.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+914,7d6c,76o,7d,6c,7,6,d,c,0,0,offsuit,12,44.25,43.52,1.45,21.60,30.70,5.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+915,9s4s,94s,9s,4s,9,4,s,s,1,0,suited,4,44.13,43.53,1.20,19.30,27.50,4.4,Tier 5 (Trash),Pure Fold
+916,9h4h,94s,9h,4h,9,4,h,h,1,0,suited,4,44.13,43.53,1.20,19.30,27.50,4.4,Tier 5 (Trash),Pure Fold
+917,9d4d,94s,9d,4d,9,4,d,d,1,0,suited,4,44.13,43.53,1.20,19.30,27.50,4.4,Tier 5 (Trash),Pure Fold
+918,9c4c,94s,9c,4c,9,4,c,c,1,0,suited,4,44.13,43.53,1.20,19.30,27.50,4.4,Tier 5 (Trash),Pure Fold
+919,Ts2s,T2s,Ts,2s,T,2,s,s,1,0,suited,4,43.98,43.38,1.20,17.30,25.10,3.7,Tier 5 (Trash),Pure Fold
+920,Th2h,T2s,Th,2h,T,2,h,h,1,0,suited,4,43.98,43.38,1.20,17.30,25.10,3.7,Tier 5 (Trash),Pure Fold
+921,Td2d,T2s,Td,2d,T,2,d,d,1,0,suited,4,43.98,43.38,1.20,17.30,25.10,3.7,Tier 5 (Trash),Pure Fold
+922,Tc2c,T2s,Tc,2c,T,2,c,c,1,0,suited,4,43.98,43.38,1.20,17.30,25.10,3.7,Tier 5 (Trash),Pure Fold
+923,5s4s,54s,5s,4s,5,4,s,s,1,0,suited,4,43.51,42.91,1.20,22.30,31.00,7.1,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+924,5h4h,54s,5h,4h,5,4,h,h,1,0,suited,4,43.51,42.91,1.20,22.30,31.00,7.1,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+925,5d4d,54s,5d,4d,5,4,d,d,1,0,suited,4,43.51,42.91,1.20,22.30,31.00,7.1,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+926,5c4c,54s,5c,4c,5,4,c,c,1,0,suited,4,43.51,42.91,1.20,22.30,31.00,7.1,Tier 3 (Playable),Steal/Defend (BTN/SB/BB only)
+927,8s4s,84s,8s,4s,8,4,s,s,1,0,suited,4,43.43,42.83,1.20,18.70,27.20,5.0,Tier 5 (Trash),Pure Fold
+928,8h4h,84s,8h,4h,8,4,h,h,1,0,suited,4,43.43,42.83,1.20,18.70,27.20,5.0,Tier 5 (Trash),Pure Fold
+929,8d4d,84s,8d,4d,8,4,d,d,1,0,suited,4,43.43,42.83,1.20,18.70,27.20,5.0,Tier 5 (Trash),Pure Fold
+930,8c4c,84s,8c,4c,8,4,c,c,1,0,suited,4,43.43,42.83,1.20,18.70,27.20,5.0,Tier 5 (Trash),Pure Fold
+931,Jh3s,J3o,Jh,3s,J,3,h,s,0,0,offsuit,12,43.34,42.62,1.45,16.20,23.50,2.3,Tier 5 (Trash),Pure Fold
+932,Jd3s,J3o,Jd,3s,J,3,d,s,0,0,offsuit,12,43.34,42.62,1.45,16.20,23.50,2.3,Tier 5 (Trash),Pure Fold
+933,Jc3s,J3o,Jc,3s,J,3,c,s,0,0,offsuit,12,43.34,42.62,1.45,16.20,23.50,2.3,Tier 5 (Trash),Pure Fold
+934,Js3h,J3o,Js,3h,J,3,s,h,0,0,offsuit,12,43.34,42.62,1.45,16.20,23.50,2.3,Tier 5 (Trash),Pure Fold
+935,Jd3h,J3o,Jd,3h,J,3,d,h,0,0,offsuit,12,43.34,42.62,1.45,16.20,23.50,2.3,Tier 5 (Trash),Pure Fold
+936,Jc3h,J3o,Jc,3h,J,3,c,h,0,0,offsuit,12,43.34,42.62,1.45,16.20,23.50,2.3,Tier 5 (Trash),Pure Fold
+937,Js3d,J3o,Js,3d,J,3,s,d,0,0,offsuit,12,43.34,42.62,1.45,16.20,23.50,2.3,Tier 5 (Trash),Pure Fold
+938,Jh3d,J3o,Jh,3d,J,3,h,d,0,0,offsuit,12,43.34,42.62,1.45,16.20,23.50,2.3,Tier 5 (Trash),Pure Fold
+939,Jc3d,J3o,Jc,3d,J,3,c,d,0,0,offsuit,12,43.34,42.62,1.45,16.20,23.50,2.3,Tier 5 (Trash),Pure Fold
+940,Js3c,J3o,Js,3c,J,3,s,c,0,0,offsuit,12,43.34,42.62,1.45,16.20,23.50,2.3,Tier 5 (Trash),Pure Fold
+941,Jh3c,J3o,Jh,3c,J,3,h,c,0,0,offsuit,12,43.34,42.62,1.45,16.20,23.50,2.3,Tier 5 (Trash),Pure Fold
+942,Jd3c,J3o,Jd,3c,J,3,d,c,0,0,offsuit,12,43.34,42.62,1.45,16.20,23.50,2.3,Tier 5 (Trash),Pure Fold
+943,6s4s,64s,6s,4s,6,4,s,s,1,0,suited,4,43.34,42.74,1.20,20.70,29.60,6.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+944,7s4s,74s,7s,4s,7,4,s,s,1,0,suited,4,43.34,42.74,1.20,19.50,28.30,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+945,6h4h,64s,6h,4h,6,4,h,h,1,0,suited,4,43.34,42.74,1.20,20.70,29.60,6.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+946,7h4h,74s,7h,4h,7,4,h,h,1,0,suited,4,43.34,42.74,1.20,19.50,28.30,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+947,6d4d,64s,6d,4d,6,4,d,d,1,0,suited,4,43.34,42.74,1.20,20.70,29.60,6.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+948,7d4d,74s,7d,4d,7,4,d,d,1,0,suited,4,43.34,42.74,1.20,19.50,28.30,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+949,6c4c,64s,6c,4c,6,4,c,c,1,0,suited,4,43.34,42.74,1.20,20.70,29.60,6.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+950,7c4c,74s,7c,4c,7,4,c,c,1,0,suited,4,43.34,42.74,1.20,19.50,28.30,5.9,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+951,Th5s,T5o,Th,5s,T,5,h,s,0,0,offsuit,12,43.27,42.55,1.45,16.70,24.80,3.0,Tier 5 (Trash),Pure Fold
+952,Td5s,T5o,Td,5s,T,5,d,s,0,0,offsuit,12,43.27,42.55,1.45,16.70,24.80,3.0,Tier 5 (Trash),Pure Fold
+953,Tc5s,T5o,Tc,5s,T,5,c,s,0,0,offsuit,12,43.27,42.55,1.45,16.70,24.80,3.0,Tier 5 (Trash),Pure Fold
+954,Ts5h,T5o,Ts,5h,T,5,s,h,0,0,offsuit,12,43.27,42.55,1.45,16.70,24.80,3.0,Tier 5 (Trash),Pure Fold
+955,Td5h,T5o,Td,5h,T,5,d,h,0,0,offsuit,12,43.27,42.55,1.45,16.70,24.80,3.0,Tier 5 (Trash),Pure Fold
+956,Tc5h,T5o,Tc,5h,T,5,c,h,0,0,offsuit,12,43.27,42.55,1.45,16.70,24.80,3.0,Tier 5 (Trash),Pure Fold
+957,Ts5d,T5o,Ts,5d,T,5,s,d,0,0,offsuit,12,43.27,42.55,1.45,16.70,24.80,3.0,Tier 5 (Trash),Pure Fold
+958,Th5d,T5o,Th,5d,T,5,h,d,0,0,offsuit,12,43.27,42.55,1.45,16.70,24.80,3.0,Tier 5 (Trash),Pure Fold
+959,Tc5d,T5o,Tc,5d,T,5,c,d,0,0,offsuit,12,43.27,42.55,1.45,16.70,24.80,3.0,Tier 5 (Trash),Pure Fold
+960,Ts5c,T5o,Ts,5c,T,5,s,c,0,0,offsuit,12,43.27,42.55,1.45,16.70,24.80,3.0,Tier 5 (Trash),Pure Fold
+961,Th5c,T5o,Th,5c,T,5,h,c,0,0,offsuit,12,43.27,42.55,1.45,16.70,24.80,3.0,Tier 5 (Trash),Pure Fold
+962,Td5c,T5o,Td,5c,T,5,d,c,0,0,offsuit,12,43.27,42.55,1.45,16.70,24.80,3.0,Tier 5 (Trash),Pure Fold
+963,9s3s,93s,9s,3s,9,3,s,s,1,0,suited,4,43.11,42.51,1.20,17.60,25.60,3.9,Tier 5 (Trash),Pure Fold
+964,9h3h,93s,9h,3h,9,3,h,h,1,0,suited,4,43.11,42.51,1.20,17.60,25.60,3.9,Tier 5 (Trash),Pure Fold
+965,9d3d,93s,9d,3d,9,3,d,d,1,0,suited,4,43.11,42.51,1.20,17.60,25.60,3.9,Tier 5 (Trash),Pure Fold
+966,9c3c,93s,9c,3c,9,3,c,c,1,0,suited,4,43.11,42.51,1.20,17.60,25.60,3.9,Tier 5 (Trash),Pure Fold
+967,Jh2s,J2o,Jh,2s,J,2,h,s,0,0,offsuit,12,42.23,41.50,1.45,14.60,21.70,2.0,Tier 5 (Trash),Pure Fold
+968,Jd2s,J2o,Jd,2s,J,2,d,s,0,0,offsuit,12,42.23,41.50,1.45,14.60,21.70,2.0,Tier 5 (Trash),Pure Fold
+969,Jc2s,J2o,Jc,2s,J,2,c,s,0,0,offsuit,12,42.23,41.50,1.45,14.60,21.70,2.0,Tier 5 (Trash),Pure Fold
+970,Js2h,J2o,Js,2h,J,2,s,h,0,0,offsuit,12,42.23,41.50,1.45,14.60,21.70,2.0,Tier 5 (Trash),Pure Fold
+971,Jd2h,J2o,Jd,2h,J,2,d,h,0,0,offsuit,12,42.23,41.50,1.45,14.60,21.70,2.0,Tier 5 (Trash),Pure Fold
+972,Jc2h,J2o,Jc,2h,J,2,c,h,0,0,offsuit,12,42.23,41.50,1.45,14.60,21.70,2.0,Tier 5 (Trash),Pure Fold
+973,Js2d,J2o,Js,2d,J,2,s,d,0,0,offsuit,12,42.23,41.50,1.45,14.60,21.70,2.0,Tier 5 (Trash),Pure Fold
+974,Jh2d,J2o,Jh,2d,J,2,h,d,0,0,offsuit,12,42.23,41.50,1.45,14.60,21.70,2.0,Tier 5 (Trash),Pure Fold
+975,Jc2d,J2o,Jc,2d,J,2,c,d,0,0,offsuit,12,42.23,41.50,1.45,14.60,21.70,2.0,Tier 5 (Trash),Pure Fold
+976,Js2c,J2o,Js,2c,J,2,s,c,0,0,offsuit,12,42.23,41.50,1.45,14.60,21.70,2.0,Tier 5 (Trash),Pure Fold
+977,Jh2c,J2o,Jh,2c,J,2,h,c,0,0,offsuit,12,42.23,41.50,1.45,14.60,21.70,2.0,Tier 5 (Trash),Pure Fold
+978,Jd2c,J2o,Jd,2c,J,2,d,c,0,0,offsuit,12,42.23,41.50,1.45,14.60,21.70,2.0,Tier 5 (Trash),Pure Fold
+979,9s2s,92s,9s,2s,9,2,s,s,1,0,suited,4,42.11,41.51,1.20,15.90,23.70,3.5,Tier 5 (Trash),Pure Fold
+980,9h2h,92s,9h,2h,9,2,h,h,1,0,suited,4,42.11,41.51,1.20,15.90,23.70,3.5,Tier 5 (Trash),Pure Fold
+981,9d2d,92s,9d,2d,9,2,d,d,1,0,suited,4,42.11,41.51,1.20,15.90,23.70,3.5,Tier 5 (Trash),Pure Fold
+982,9c2c,92s,9c,2c,9,2,c,c,1,0,suited,4,42.11,41.51,1.20,15.90,23.70,3.5,Tier 5 (Trash),Pure Fold
+983,8h5s,85o,8h,5s,8,5,h,s,0,0,offsuit,12,42.09,41.37,1.45,16.40,25.30,3.8,Tier 5 (Trash),Pure Fold
+984,8d5s,85o,8d,5s,8,5,d,s,0,0,offsuit,12,42.09,41.37,1.45,16.40,25.30,3.8,Tier 5 (Trash),Pure Fold
+985,8c5s,85o,8c,5s,8,5,c,s,0,0,offsuit,12,42.09,41.37,1.45,16.40,25.30,3.8,Tier 5 (Trash),Pure Fold
+986,8s5h,85o,8s,5h,8,5,s,h,0,0,offsuit,12,42.09,41.37,1.45,16.40,25.30,3.8,Tier 5 (Trash),Pure Fold
+987,8d5h,85o,8d,5h,8,5,d,h,0,0,offsuit,12,42.09,41.37,1.45,16.40,25.30,3.8,Tier 5 (Trash),Pure Fold
+988,8c5h,85o,8c,5h,8,5,c,h,0,0,offsuit,12,42.09,41.37,1.45,16.40,25.30,3.8,Tier 5 (Trash),Pure Fold
+989,8s5d,85o,8s,5d,8,5,s,d,0,0,offsuit,12,42.09,41.37,1.45,16.40,25.30,3.8,Tier 5 (Trash),Pure Fold
+990,8h5d,85o,8h,5d,8,5,h,d,0,0,offsuit,12,42.09,41.37,1.45,16.40,25.30,3.8,Tier 5 (Trash),Pure Fold
+991,8c5d,85o,8c,5d,8,5,c,d,0,0,offsuit,12,42.09,41.37,1.45,16.40,25.30,3.8,Tier 5 (Trash),Pure Fold
+992,8s5c,85o,8s,5c,8,5,s,c,0,0,offsuit,12,42.09,41.37,1.45,16.40,25.30,3.8,Tier 5 (Trash),Pure Fold
+993,8h5c,85o,8h,5c,8,5,h,c,0,0,offsuit,12,42.09,41.37,1.45,16.40,25.30,3.8,Tier 5 (Trash),Pure Fold
+994,8d5c,85o,8d,5c,8,5,d,c,0,0,offsuit,12,42.09,41.37,1.45,16.40,25.30,3.8,Tier 5 (Trash),Pure Fold
+995,Th4s,T4o,Th,4s,T,4,h,s,0,0,offsuit,12,42.06,41.34,1.45,15.00,22.70,2.5,Tier 5 (Trash),Pure Fold
+996,Td4s,T4o,Td,4s,T,4,d,s,0,0,offsuit,12,42.06,41.34,1.45,15.00,22.70,2.5,Tier 5 (Trash),Pure Fold
+997,Tc4s,T4o,Tc,4s,T,4,c,s,0,0,offsuit,12,42.06,41.34,1.45,15.00,22.70,2.5,Tier 5 (Trash),Pure Fold
+998,Ts4h,T4o,Ts,4h,T,4,s,h,0,0,offsuit,12,42.06,41.34,1.45,15.00,22.70,2.5,Tier 5 (Trash),Pure Fold
+999,Td4h,T4o,Td,4h,T,4,d,h,0,0,offsuit,12,42.06,41.34,1.45,15.00,22.70,2.5,Tier 5 (Trash),Pure Fold
+1000,Tc4h,T4o,Tc,4h,T,4,c,h,0,0,offsuit,12,42.06,41.34,1.45,15.00,22.70,2.5,Tier 5 (Trash),Pure Fold
+1001,Ts4d,T4o,Ts,4d,T,4,s,d,0,0,offsuit,12,42.06,41.34,1.45,15.00,22.70,2.5,Tier 5 (Trash),Pure Fold
+1002,Th4d,T4o,Th,4d,T,4,h,d,0,0,offsuit,12,42.06,41.34,1.45,15.00,22.70,2.5,Tier 5 (Trash),Pure Fold
+1003,Tc4d,T4o,Tc,4d,T,4,c,d,0,0,offsuit,12,42.06,41.34,1.45,15.00,22.70,2.5,Tier 5 (Trash),Pure Fold
+1004,Ts4c,T4o,Ts,4c,T,4,s,c,0,0,offsuit,12,42.06,41.34,1.45,15.00,22.70,2.5,Tier 5 (Trash),Pure Fold
+1005,Th4c,T4o,Th,4c,T,4,h,c,0,0,offsuit,12,42.06,41.34,1.45,15.00,22.70,2.5,Tier 5 (Trash),Pure Fold
+1006,Td4c,T4o,Td,4c,T,4,d,c,0,0,offsuit,12,42.06,41.34,1.45,15.00,22.70,2.5,Tier 5 (Trash),Pure Fold
+1007,9h5s,95o,9h,5s,9,5,h,s,0,0,offsuit,12,42.06,41.34,1.45,15.80,24.20,3.2,Tier 5 (Trash),Pure Fold
+1008,9d5s,95o,9d,5s,9,5,d,s,0,0,offsuit,12,42.06,41.34,1.45,15.80,24.20,3.2,Tier 5 (Trash),Pure Fold
+1009,9c5s,95o,9c,5s,9,5,c,s,0,0,offsuit,12,42.06,41.34,1.45,15.80,24.20,3.2,Tier 5 (Trash),Pure Fold
+1010,9s5h,95o,9s,5h,9,5,s,h,0,0,offsuit,12,42.06,41.34,1.45,15.80,24.20,3.2,Tier 5 (Trash),Pure Fold
+1011,9d5h,95o,9d,5h,9,5,d,h,0,0,offsuit,12,42.06,41.34,1.45,15.80,24.20,3.2,Tier 5 (Trash),Pure Fold
+1012,9c5h,95o,9c,5h,9,5,c,h,0,0,offsuit,12,42.06,41.34,1.45,15.80,24.20,3.2,Tier 5 (Trash),Pure Fold
+1013,9s5d,95o,9s,5d,9,5,s,d,0,0,offsuit,12,42.06,41.34,1.45,15.80,24.20,3.2,Tier 5 (Trash),Pure Fold
+1014,9h5d,95o,9h,5d,9,5,h,d,0,0,offsuit,12,42.06,41.34,1.45,15.80,24.20,3.2,Tier 5 (Trash),Pure Fold
+1015,9c5d,95o,9c,5d,9,5,c,d,0,0,offsuit,12,42.06,41.34,1.45,15.80,24.20,3.2,Tier 5 (Trash),Pure Fold
+1016,9s5c,95o,9s,5c,9,5,s,c,0,0,offsuit,12,42.06,41.34,1.45,15.80,24.20,3.2,Tier 5 (Trash),Pure Fold
+1017,9h5c,95o,9h,5c,9,5,h,c,0,0,offsuit,12,42.06,41.34,1.45,15.80,24.20,3.2,Tier 5 (Trash),Pure Fold
+1018,9d5c,95o,9d,5c,9,5,d,c,0,0,offsuit,12,42.06,41.34,1.45,15.80,24.20,3.2,Tier 5 (Trash),Pure Fold
+1019,6h5s,65o,6h,5s,6,5,h,s,0,0,offsuit,12,41.97,41.24,1.45,18.90,28.00,5.2,Tier 5 (Trash),Pure Fold
+1020,6d5s,65o,6d,5s,6,5,d,s,0,0,offsuit,12,41.97,41.24,1.45,18.90,28.00,5.2,Tier 5 (Trash),Pure Fold
+1021,6c5s,65o,6c,5s,6,5,c,s,0,0,offsuit,12,41.97,41.24,1.45,18.90,28.00,5.2,Tier 5 (Trash),Pure Fold
+1022,6s5h,65o,6s,5h,6,5,s,h,0,0,offsuit,12,41.97,41.24,1.45,18.90,28.00,5.2,Tier 5 (Trash),Pure Fold
+1023,6d5h,65o,6d,5h,6,5,d,h,0,0,offsuit,12,41.97,41.24,1.45,18.90,28.00,5.2,Tier 5 (Trash),Pure Fold
+1024,6c5h,65o,6c,5h,6,5,c,h,0,0,offsuit,12,41.97,41.24,1.45,18.90,28.00,5.2,Tier 5 (Trash),Pure Fold
+1025,6s5d,65o,6s,5d,6,5,s,d,0,0,offsuit,12,41.97,41.24,1.45,18.90,28.00,5.2,Tier 5 (Trash),Pure Fold
+1026,6h5d,65o,6h,5d,6,5,h,d,0,0,offsuit,12,41.97,41.24,1.45,18.90,28.00,5.2,Tier 5 (Trash),Pure Fold
+1027,6c5d,65o,6c,5d,6,5,c,d,0,0,offsuit,12,41.97,41.24,1.45,18.90,28.00,5.2,Tier 5 (Trash),Pure Fold
+1028,6s5c,65o,6s,5c,6,5,s,c,0,0,offsuit,12,41.97,41.24,1.45,18.90,28.00,5.2,Tier 5 (Trash),Pure Fold
+1029,6h5c,65o,6h,5c,6,5,h,c,0,0,offsuit,12,41.97,41.24,1.45,18.90,28.00,5.2,Tier 5 (Trash),Pure Fold
+1030,6d5c,65o,6d,5c,6,5,d,c,0,0,offsuit,12,41.97,41.24,1.45,18.90,28.00,5.2,Tier 5 (Trash),Pure Fold
+1031,7h5s,75o,7h,5s,7,5,h,s,0,0,offsuit,12,41.91,41.18,1.45,17.40,26.50,4.5,Tier 5 (Trash),Pure Fold
+1032,7d5s,75o,7d,5s,7,5,d,s,0,0,offsuit,12,41.91,41.18,1.45,17.40,26.50,4.5,Tier 5 (Trash),Pure Fold
+1033,7c5s,75o,7c,5s,7,5,c,s,0,0,offsuit,12,41.91,41.18,1.45,17.40,26.50,4.5,Tier 5 (Trash),Pure Fold
+1034,7s5h,75o,7s,5h,7,5,s,h,0,0,offsuit,12,41.91,41.18,1.45,17.40,26.50,4.5,Tier 5 (Trash),Pure Fold
+1035,7d5h,75o,7d,5h,7,5,d,h,0,0,offsuit,12,41.91,41.18,1.45,17.40,26.50,4.5,Tier 5 (Trash),Pure Fold
+1036,7c5h,75o,7c,5h,7,5,c,h,0,0,offsuit,12,41.91,41.18,1.45,17.40,26.50,4.5,Tier 5 (Trash),Pure Fold
+1037,7s5d,75o,7s,5d,7,5,s,d,0,0,offsuit,12,41.91,41.18,1.45,17.40,26.50,4.5,Tier 5 (Trash),Pure Fold
+1038,7h5d,75o,7h,5d,7,5,h,d,0,0,offsuit,12,41.91,41.18,1.45,17.40,26.50,4.5,Tier 5 (Trash),Pure Fold
+1039,7c5d,75o,7c,5d,7,5,c,d,0,0,offsuit,12,41.91,41.18,1.45,17.40,26.50,4.5,Tier 5 (Trash),Pure Fold
+1040,7s5c,75o,7s,5c,7,5,s,c,0,0,offsuit,12,41.91,41.18,1.45,17.40,26.50,4.5,Tier 5 (Trash),Pure Fold
+1041,7h5c,75o,7h,5c,7,5,h,c,0,0,offsuit,12,41.91,41.18,1.45,17.40,26.50,4.5,Tier 5 (Trash),Pure Fold
+1042,7d5c,75o,7d,5c,7,5,d,c,0,0,offsuit,12,41.91,41.18,1.45,17.40,26.50,4.5,Tier 5 (Trash),Pure Fold
+1043,8s3s,83s,8s,3s,8,3,s,s,1,0,suited,4,41.81,41.21,1.20,16.50,24.60,4.1,Tier 5 (Trash),Pure Fold
+1044,8h3h,83s,8h,3h,8,3,h,h,1,0,suited,4,41.81,41.21,1.20,16.50,24.60,4.1,Tier 5 (Trash),Pure Fold
+1045,8d3d,83s,8d,3d,8,3,d,d,1,0,suited,4,41.81,41.21,1.20,16.50,24.60,4.1,Tier 5 (Trash),Pure Fold
+1046,8c3c,83s,8c,3c,8,3,c,c,1,0,suited,4,41.81,41.21,1.20,16.50,24.60,4.1,Tier 5 (Trash),Pure Fold
+1047,5s3s,53s,5s,3s,5,3,s,s,1,0,suited,4,41.28,40.68,1.20,18.20,26.80,6.1,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+1048,5h3h,53s,5h,3h,5,3,h,h,1,0,suited,4,41.28,40.68,1.20,18.20,26.80,6.1,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+1049,5d3d,53s,5d,3d,5,3,d,d,1,0,suited,4,41.28,40.68,1.20,18.20,26.80,6.1,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+1050,5c3c,53s,5c,3c,5,3,c,c,1,0,suited,4,41.28,40.68,1.20,18.20,26.80,6.1,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+1051,6s3s,63s,6s,3s,6,3,s,s,1,0,suited,4,41.05,40.45,1.20,16.80,25.40,5.3,Tier 5 (Trash),Pure Fold
+1052,6h3h,63s,6h,3h,6,3,h,h,1,0,suited,4,41.05,40.45,1.20,16.80,25.40,5.3,Tier 5 (Trash),Pure Fold
+1053,6d3d,63s,6d,3d,6,3,d,d,1,0,suited,4,41.05,40.45,1.20,16.80,25.40,5.3,Tier 5 (Trash),Pure Fold
+1054,6c3c,63s,6c,3c,6,3,c,c,1,0,suited,4,41.05,40.45,1.20,16.80,25.40,5.3,Tier 5 (Trash),Pure Fold
+1055,7s3s,73s,7s,3s,7,3,s,s,1,0,suited,4,40.94,40.34,1.20,15.80,24.20,4.6,Tier 5 (Trash),Pure Fold
+1056,7h3h,73s,7h,3h,7,3,h,h,1,0,suited,4,40.94,40.34,1.20,15.80,24.20,4.6,Tier 5 (Trash),Pure Fold
+1057,7d3d,73s,7d,3d,7,3,d,d,1,0,suited,4,40.94,40.34,1.20,15.80,24.20,4.6,Tier 5 (Trash),Pure Fold
+1058,7c3c,73s,7c,3c,7,3,c,c,1,0,suited,4,40.94,40.34,1.20,15.80,24.20,4.6,Tier 5 (Trash),Pure Fold
+1059,Th3s,T3o,Th,3s,T,3,h,s,0,0,offsuit,12,40.89,40.16,1.45,13.30,20.80,2.1,Tier 5 (Trash),Pure Fold
+1060,Td3s,T3o,Td,3s,T,3,d,s,0,0,offsuit,12,40.89,40.16,1.45,13.30,20.80,2.1,Tier 5 (Trash),Pure Fold
+1061,Tc3s,T3o,Tc,3s,T,3,c,s,0,0,offsuit,12,40.89,40.16,1.45,13.30,20.80,2.1,Tier 5 (Trash),Pure Fold
+1062,Ts3h,T3o,Ts,3h,T,3,s,h,0,0,offsuit,12,40.89,40.16,1.45,13.30,20.80,2.1,Tier 5 (Trash),Pure Fold
+1063,Td3h,T3o,Td,3h,T,3,d,h,0,0,offsuit,12,40.89,40.16,1.45,13.30,20.80,2.1,Tier 5 (Trash),Pure Fold
+1064,Tc3h,T3o,Tc,3h,T,3,c,h,0,0,offsuit,12,40.89,40.16,1.45,13.30,20.80,2.1,Tier 5 (Trash),Pure Fold
+1065,Ts3d,T3o,Ts,3d,T,3,s,d,0,0,offsuit,12,40.89,40.16,1.45,13.30,20.80,2.1,Tier 5 (Trash),Pure Fold
+1066,Th3d,T3o,Th,3d,T,3,h,d,0,0,offsuit,12,40.89,40.16,1.45,13.30,20.80,2.1,Tier 5 (Trash),Pure Fold
+1067,Tc3d,T3o,Tc,3d,T,3,c,d,0,0,offsuit,12,40.89,40.16,1.45,13.30,20.80,2.1,Tier 5 (Trash),Pure Fold
+1068,Ts3c,T3o,Ts,3c,T,3,s,c,0,0,offsuit,12,40.89,40.16,1.45,13.30,20.80,2.1,Tier 5 (Trash),Pure Fold
+1069,Th3c,T3o,Th,3c,T,3,h,c,0,0,offsuit,12,40.89,40.16,1.45,13.30,20.80,2.1,Tier 5 (Trash),Pure Fold
+1070,Td3c,T3o,Td,3c,T,3,d,c,0,0,offsuit,12,40.89,40.16,1.45,13.30,20.80,2.1,Tier 5 (Trash),Pure Fold
+1071,8s2s,82s,8s,2s,8,2,s,s,1,0,suited,4,40.75,40.15,1.20,14.80,22.70,3.6,Tier 5 (Trash),Pure Fold
+1072,8h2h,82s,8h,2h,8,2,h,h,1,0,suited,4,40.75,40.15,1.20,14.80,22.70,3.6,Tier 5 (Trash),Pure Fold
+1073,8d2d,82s,8d,2d,8,2,d,d,1,0,suited,4,40.75,40.15,1.20,14.80,22.70,3.6,Tier 5 (Trash),Pure Fold
+1074,8c2c,82s,8c,2c,8,2,c,c,1,0,suited,4,40.75,40.15,1.20,14.80,22.70,3.6,Tier 5 (Trash),Pure Fold
+1075,9h4s,94o,9h,4s,9,4,h,s,0,0,offsuit,12,40.23,39.50,1.45,13.40,21.30,2.2,Tier 5 (Trash),Pure Fold
+1076,9d4s,94o,9d,4s,9,4,d,s,0,0,offsuit,12,40.23,39.50,1.45,13.40,21.30,2.2,Tier 5 (Trash),Pure Fold
+1077,9c4s,94o,9c,4s,9,4,c,s,0,0,offsuit,12,40.23,39.50,1.45,13.40,21.30,2.2,Tier 5 (Trash),Pure Fold
+1078,9s4h,94o,9s,4h,9,4,s,h,0,0,offsuit,12,40.23,39.50,1.45,13.40,21.30,2.2,Tier 5 (Trash),Pure Fold
+1079,9d4h,94o,9d,4h,9,4,d,h,0,0,offsuit,12,40.23,39.50,1.45,13.40,21.30,2.2,Tier 5 (Trash),Pure Fold
+1080,9c4h,94o,9c,4h,9,4,c,h,0,0,offsuit,12,40.23,39.50,1.45,13.40,21.30,2.2,Tier 5 (Trash),Pure Fold
+1081,9s4d,94o,9s,4d,9,4,s,d,0,0,offsuit,12,40.23,39.50,1.45,13.40,21.30,2.2,Tier 5 (Trash),Pure Fold
+1082,9h4d,94o,9h,4d,9,4,h,d,0,0,offsuit,12,40.23,39.50,1.45,13.40,21.30,2.2,Tier 5 (Trash),Pure Fold
+1083,9c4d,94o,9c,4d,9,4,c,d,0,0,offsuit,12,40.23,39.50,1.45,13.40,21.30,2.2,Tier 5 (Trash),Pure Fold
+1084,9s4c,94o,9s,4c,9,4,s,c,0,0,offsuit,12,40.23,39.50,1.45,13.40,21.30,2.2,Tier 5 (Trash),Pure Fold
+1085,9h4c,94o,9h,4c,9,4,h,c,0,0,offsuit,12,40.23,39.50,1.45,13.40,21.30,2.2,Tier 5 (Trash),Pure Fold
+1086,9d4c,94o,9d,4c,9,4,d,c,0,0,offsuit,12,40.23,39.50,1.45,13.40,21.30,2.2,Tier 5 (Trash),Pure Fold
+1087,4s3s,43s,4s,3s,4,3,s,s,1,0,suited,4,40.09,39.49,1.20,16.20,24.60,6.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+1088,4h3h,43s,4h,3h,4,3,h,h,1,0,suited,4,40.09,39.49,1.20,16.20,24.60,6.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+1089,4d3d,43s,4d,3d,4,3,d,d,1,0,suited,4,40.09,39.49,1.20,16.20,24.60,6.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+1090,4c3c,43s,4c,3c,4,3,c,c,1,0,suited,4,40.09,39.49,1.20,16.20,24.60,6.5,Tier 4 (Marginal),Steal/Defend (BTN/SB/BB only)
+1091,5h4s,54o,5h,4s,5,4,h,s,0,0,offsuit,12,39.88,39.16,1.45,16.30,25.10,4.8,Tier 5 (Trash),Pure Fold
+1092,5d4s,54o,5d,4s,5,4,d,s,0,0,offsuit,12,39.88,39.16,1.45,16.30,25.10,4.8,Tier 5 (Trash),Pure Fold
+1093,5c4s,54o,5c,4s,5,4,c,s,0,0,offsuit,12,39.88,39.16,1.45,16.30,25.10,4.8,Tier 5 (Trash),Pure Fold
+1094,5s4h,54o,5s,4h,5,4,s,h,0,0,offsuit,12,39.88,39.16,1.45,16.30,25.10,4.8,Tier 5 (Trash),Pure Fold
+1095,5d4h,54o,5d,4h,5,4,d,h,0,0,offsuit,12,39.88,39.16,1.45,16.30,25.10,4.8,Tier 5 (Trash),Pure Fold
+1096,5c4h,54o,5c,4h,5,4,c,h,0,0,offsuit,12,39.88,39.16,1.45,16.30,25.10,4.8,Tier 5 (Trash),Pure Fold
+1097,5s4d,54o,5s,4d,5,4,s,d,0,0,offsuit,12,39.88,39.16,1.45,16.30,25.10,4.8,Tier 5 (Trash),Pure Fold
+1098,5h4d,54o,5h,4d,5,4,h,d,0,0,offsuit,12,39.88,39.16,1.45,16.30,25.10,4.8,Tier 5 (Trash),Pure Fold
+1099,5c4d,54o,5c,4d,5,4,c,d,0,0,offsuit,12,39.88,39.16,1.45,16.30,25.10,4.8,Tier 5 (Trash),Pure Fold
+1100,5s4c,54o,5s,4c,5,4,s,c,0,0,offsuit,12,39.88,39.16,1.45,16.30,25.10,4.8,Tier 5 (Trash),Pure Fold
+1101,5h4c,54o,5h,4c,5,4,h,c,0,0,offsuit,12,39.88,39.16,1.45,16.30,25.10,4.8,Tier 5 (Trash),Pure Fold
+1102,5d4c,54o,5d,4c,5,4,d,c,0,0,offsuit,12,39.88,39.16,1.45,16.30,25.10,4.8,Tier 5 (Trash),Pure Fold
+1103,Th2s,T2o,Th,2s,T,2,h,s,0,0,offsuit,12,39.77,39.05,1.45,11.70,18.90,1.7,Tier 5 (Trash),Pure Fold
+1104,Td2s,T2o,Td,2s,T,2,d,s,0,0,offsuit,12,39.77,39.05,1.45,11.70,18.90,1.7,Tier 5 (Trash),Pure Fold
+1105,Tc2s,T2o,Tc,2s,T,2,c,s,0,0,offsuit,12,39.77,39.05,1.45,11.70,18.90,1.7,Tier 5 (Trash),Pure Fold
+1106,Ts2h,T2o,Ts,2h,T,2,s,h,0,0,offsuit,12,39.77,39.05,1.45,11.70,18.90,1.7,Tier 5 (Trash),Pure Fold
+1107,Td2h,T2o,Td,2h,T,2,d,h,0,0,offsuit,12,39.77,39.05,1.45,11.70,18.90,1.7,Tier 5 (Trash),Pure Fold
+1108,Tc2h,T2o,Tc,2h,T,2,c,h,0,0,offsuit,12,39.77,39.05,1.45,11.70,18.90,1.7,Tier 5 (Trash),Pure Fold
+1109,Ts2d,T2o,Ts,2d,T,2,s,d,0,0,offsuit,12,39.77,39.05,1.45,11.70,18.90,1.7,Tier 5 (Trash),Pure Fold
+1110,Th2d,T2o,Th,2d,T,2,h,d,0,0,offsuit,12,39.77,39.05,1.45,11.70,18.90,1.7,Tier 5 (Trash),Pure Fold
+1111,Tc2d,T2o,Tc,2d,T,2,c,d,0,0,offsuit,12,39.77,39.05,1.45,11.70,18.90,1.7,Tier 5 (Trash),Pure Fold
+1112,Ts2c,T2o,Ts,2c,T,2,s,c,0,0,offsuit,12,39.77,39.05,1.45,11.70,18.90,1.7,Tier 5 (Trash),Pure Fold
+1113,Th2c,T2o,Th,2c,T,2,h,c,0,0,offsuit,12,39.77,39.05,1.45,11.70,18.90,1.7,Tier 5 (Trash),Pure Fold
+1114,Td2c,T2o,Td,2c,T,2,d,c,0,0,offsuit,12,39.77,39.05,1.45,11.70,18.90,1.7,Tier 5 (Trash),Pure Fold
+1115,6h4s,64o,6h,4s,6,4,h,s,0,0,offsuit,12,39.58,38.85,1.45,14.70,23.60,4.1,Tier 5 (Trash),Pure Fold
+1116,6d4s,64o,6d,4s,6,4,d,s,0,0,offsuit,12,39.58,38.85,1.45,14.70,23.60,4.1,Tier 5 (Trash),Pure Fold
+1117,6c4s,64o,6c,4s,6,4,c,s,0,0,offsuit,12,39.58,38.85,1.45,14.70,23.60,4.1,Tier 5 (Trash),Pure Fold
+1118,6s4h,64o,6s,4h,6,4,s,h,0,0,offsuit,12,39.58,38.85,1.45,14.70,23.60,4.1,Tier 5 (Trash),Pure Fold
+1119,6d4h,64o,6d,4h,6,4,d,h,0,0,offsuit,12,39.58,38.85,1.45,14.70,23.60,4.1,Tier 5 (Trash),Pure Fold
+1120,6c4h,64o,6c,4h,6,4,c,h,0,0,offsuit,12,39.58,38.85,1.45,14.70,23.60,4.1,Tier 5 (Trash),Pure Fold
+1121,6s4d,64o,6s,4d,6,4,s,d,0,0,offsuit,12,39.58,38.85,1.45,14.70,23.60,4.1,Tier 5 (Trash),Pure Fold
+1122,6h4d,64o,6h,4d,6,4,h,d,0,0,offsuit,12,39.58,38.85,1.45,14.70,23.60,4.1,Tier 5 (Trash),Pure Fold
+1123,6c4d,64o,6c,4d,6,4,c,d,0,0,offsuit,12,39.58,38.85,1.45,14.70,23.60,4.1,Tier 5 (Trash),Pure Fold
+1124,6s4c,64o,6s,4c,6,4,s,c,0,0,offsuit,12,39.58,38.85,1.45,14.70,23.60,4.1,Tier 5 (Trash),Pure Fold
+1125,6h4c,64o,6h,4c,6,4,h,c,0,0,offsuit,12,39.58,38.85,1.45,14.70,23.60,4.1,Tier 5 (Trash),Pure Fold
+1126,6d4c,64o,6d,4c,6,4,d,c,0,0,offsuit,12,39.58,38.85,1.45,14.70,23.60,4.1,Tier 5 (Trash),Pure Fold
+1127,8h4s,84o,8h,4s,8,4,h,s,0,0,offsuit,12,39.53,38.80,1.45,12.80,21.00,2.7,Tier 5 (Trash),Pure Fold
+1128,8d4s,84o,8d,4s,8,4,d,s,0,0,offsuit,12,39.53,38.80,1.45,12.80,21.00,2.7,Tier 5 (Trash),Pure Fold
+1129,8c4s,84o,8c,4s,8,4,c,s,0,0,offsuit,12,39.53,38.80,1.45,12.80,21.00,2.7,Tier 5 (Trash),Pure Fold
+1130,8s4h,84o,8s,4h,8,4,s,h,0,0,offsuit,12,39.53,38.80,1.45,12.80,21.00,2.7,Tier 5 (Trash),Pure Fold
+1131,8d4h,84o,8d,4h,8,4,d,h,0,0,offsuit,12,39.53,38.80,1.45,12.80,21.00,2.7,Tier 5 (Trash),Pure Fold
+1132,8c4h,84o,8c,4h,8,4,c,h,0,0,offsuit,12,39.53,38.80,1.45,12.80,21.00,2.7,Tier 5 (Trash),Pure Fold
+1133,8s4d,84o,8s,4d,8,4,s,d,0,0,offsuit,12,39.53,38.80,1.45,12.80,21.00,2.7,Tier 5 (Trash),Pure Fold
+1134,8h4d,84o,8h,4d,8,4,h,d,0,0,offsuit,12,39.53,38.80,1.45,12.80,21.00,2.7,Tier 5 (Trash),Pure Fold
+1135,8c4d,84o,8c,4d,8,4,c,d,0,0,offsuit,12,39.53,38.80,1.45,12.80,21.00,2.7,Tier 5 (Trash),Pure Fold
+1136,8s4c,84o,8s,4c,8,4,s,c,0,0,offsuit,12,39.53,38.80,1.45,12.80,21.00,2.7,Tier 5 (Trash),Pure Fold
+1137,8h4c,84o,8h,4c,8,4,h,c,0,0,offsuit,12,39.53,38.80,1.45,12.80,21.00,2.7,Tier 5 (Trash),Pure Fold
+1138,8d4c,84o,8d,4c,8,4,d,c,0,0,offsuit,12,39.53,38.80,1.45,12.80,21.00,2.7,Tier 5 (Trash),Pure Fold
+1139,7h4s,74o,7h,4s,7,4,h,s,0,0,offsuit,12,39.49,38.77,1.45,13.50,22.20,3.4,Tier 5 (Trash),Pure Fold
+1140,7d4s,74o,7d,4s,7,4,d,s,0,0,offsuit,12,39.49,38.77,1.45,13.50,22.20,3.4,Tier 5 (Trash),Pure Fold
+1141,7c4s,74o,7c,4s,7,4,c,s,0,0,offsuit,12,39.49,38.77,1.45,13.50,22.20,3.4,Tier 5 (Trash),Pure Fold
+1142,7s4h,74o,7s,4h,7,4,s,h,0,0,offsuit,12,39.49,38.77,1.45,13.50,22.20,3.4,Tier 5 (Trash),Pure Fold
+1143,7d4h,74o,7d,4h,7,4,d,h,0,0,offsuit,12,39.49,38.77,1.45,13.50,22.20,3.4,Tier 5 (Trash),Pure Fold
+1144,7c4h,74o,7c,4h,7,4,c,h,0,0,offsuit,12,39.49,38.77,1.45,13.50,22.20,3.4,Tier 5 (Trash),Pure Fold
+1145,7s4d,74o,7s,4d,7,4,s,d,0,0,offsuit,12,39.49,38.77,1.45,13.50,22.20,3.4,Tier 5 (Trash),Pure Fold
+1146,7h4d,74o,7h,4d,7,4,h,d,0,0,offsuit,12,39.49,38.77,1.45,13.50,22.20,3.4,Tier 5 (Trash),Pure Fold
+1147,7c4d,74o,7c,4d,7,4,c,d,0,0,offsuit,12,39.49,38.77,1.45,13.50,22.20,3.4,Tier 5 (Trash),Pure Fold
+1148,7s4c,74o,7s,4c,7,4,s,c,0,0,offsuit,12,39.49,38.77,1.45,13.50,22.20,3.4,Tier 5 (Trash),Pure Fold
+1149,7h4c,74o,7h,4c,7,4,h,c,0,0,offsuit,12,39.49,38.77,1.45,13.50,22.20,3.4,Tier 5 (Trash),Pure Fold
+1150,7d4c,74o,7d,4c,7,4,d,c,0,0,offsuit,12,39.49,38.77,1.45,13.50,22.20,3.4,Tier 5 (Trash),Pure Fold
+1151,7s2s,72s,7s,2s,7,2,s,s,1,0,suited,4,39.38,38.78,1.20,13.70,21.50,3.3,Tier 5 (Trash),Pure Fold
+1152,7h2h,72s,7h,2h,7,2,h,h,1,0,suited,4,39.38,38.78,1.20,13.70,21.50,3.3,Tier 5 (Trash),Pure Fold
+1153,7d2d,72s,7d,2d,7,2,d,d,1,0,suited,4,39.38,38.78,1.20,13.70,21.50,3.3,Tier 5 (Trash),Pure Fold
+1154,7c2c,72s,7c,2c,7,2,c,c,1,0,suited,4,39.38,38.78,1.20,13.70,21.50,3.3,Tier 5 (Trash),Pure Fold
+1155,9h3s,93o,9h,3s,9,3,h,s,0,0,offsuit,12,39.06,38.34,1.45,11.70,19.30,1.7,Tier 5 (Trash),Pure Fold
+1156,9d3s,93o,9d,3s,9,3,d,s,0,0,offsuit,12,39.06,38.34,1.45,11.70,19.30,1.7,Tier 5 (Trash),Pure Fold
+1157,9c3s,93o,9c,3s,9,3,c,s,0,0,offsuit,12,39.06,38.34,1.45,11.70,19.30,1.7,Tier 5 (Trash),Pure Fold
+1158,9s3h,93o,9s,3h,9,3,s,h,0,0,offsuit,12,39.06,38.34,1.45,11.70,19.30,1.7,Tier 5 (Trash),Pure Fold
+1159,9d3h,93o,9d,3h,9,3,d,h,0,0,offsuit,12,39.06,38.34,1.45,11.70,19.30,1.7,Tier 5 (Trash),Pure Fold
+1160,9c3h,93o,9c,3h,9,3,c,h,0,0,offsuit,12,39.06,38.34,1.45,11.70,19.30,1.7,Tier 5 (Trash),Pure Fold
+1161,9s3d,93o,9s,3d,9,3,s,d,0,0,offsuit,12,39.06,38.34,1.45,11.70,19.30,1.7,Tier 5 (Trash),Pure Fold
+1162,9h3d,93o,9h,3d,9,3,h,d,0,0,offsuit,12,39.06,38.34,1.45,11.70,19.30,1.7,Tier 5 (Trash),Pure Fold
+1163,9c3d,93o,9c,3d,9,3,c,d,0,0,offsuit,12,39.06,38.34,1.45,11.70,19.30,1.7,Tier 5 (Trash),Pure Fold
+1164,9s3c,93o,9s,3c,9,3,s,c,0,0,offsuit,12,39.06,38.34,1.45,11.70,19.30,1.7,Tier 5 (Trash),Pure Fold
+1165,9h3c,93o,9h,3c,9,3,h,c,0,0,offsuit,12,39.06,38.34,1.45,11.70,19.30,1.7,Tier 5 (Trash),Pure Fold
+1166,9d3c,93o,9d,3c,9,3,d,c,0,0,offsuit,12,39.06,38.34,1.45,11.70,19.30,1.7,Tier 5 (Trash),Pure Fold
+1167,5s2s,52s,5s,2s,5,2,s,s,1,0,suited,4,38.86,38.26,1.20,14.30,22.40,5.0,Tier 5 (Trash),Pure Fold
+1168,5h2h,52s,5h,2h,5,2,h,h,1,0,suited,4,38.86,38.26,1.20,14.30,22.40,5.0,Tier 5 (Trash),Pure Fold
+1169,5d2d,52s,5d,2d,5,2,d,d,1,0,suited,4,38.86,38.26,1.20,14.30,22.40,5.0,Tier 5 (Trash),Pure Fold
+1170,5c2c,52s,5c,2c,5,2,c,c,1,0,suited,4,38.86,38.26,1.20,14.30,22.40,5.0,Tier 5 (Trash),Pure Fold
+1171,6s2s,62s,6s,2s,6,2,s,s,1,0,suited,4,38.65,38.05,1.20,13.20,21.20,3.5,Tier 5 (Trash),Pure Fold
+1172,6h2h,62s,6h,2h,6,2,h,h,1,0,suited,4,38.65,38.05,1.20,13.20,21.20,3.5,Tier 5 (Trash),Pure Fold
+1173,6d2d,62s,6d,2d,6,2,d,d,1,0,suited,4,38.65,38.05,1.20,13.20,21.20,3.5,Tier 5 (Trash),Pure Fold
+1174,6c2c,62s,6c,2c,6,2,c,c,1,0,suited,4,38.65,38.05,1.20,13.20,21.20,3.5,Tier 5 (Trash),Pure Fold
+1175,9h2s,92o,9h,2s,9,2,h,s,0,0,offsuit,12,37.91,37.18,1.45,10.20,17.30,1.4,Tier 5 (Trash),Pure Fold
+1176,9d2s,92o,9d,2s,9,2,d,s,0,0,offsuit,12,37.91,37.18,1.45,10.20,17.30,1.4,Tier 5 (Trash),Pure Fold
+1177,9c2s,92o,9c,2s,9,2,c,s,0,0,offsuit,12,37.91,37.18,1.45,10.20,17.30,1.4,Tier 5 (Trash),Pure Fold
+1178,9s2h,92o,9s,2h,9,2,s,h,0,0,offsuit,12,37.91,37.18,1.45,10.20,17.30,1.4,Tier 5 (Trash),Pure Fold
+1179,9d2h,92o,9d,2h,9,2,d,h,0,0,offsuit,12,37.91,37.18,1.45,10.20,17.30,1.4,Tier 5 (Trash),Pure Fold
+1180,9c2h,92o,9c,2h,9,2,c,h,0,0,offsuit,12,37.91,37.18,1.45,10.20,17.30,1.4,Tier 5 (Trash),Pure Fold
+1181,9s2d,92o,9s,2d,9,2,s,d,0,0,offsuit,12,37.91,37.18,1.45,10.20,17.30,1.4,Tier 5 (Trash),Pure Fold
+1182,9h2d,92o,9h,2d,9,2,h,d,0,0,offsuit,12,37.91,37.18,1.45,10.20,17.30,1.4,Tier 5 (Trash),Pure Fold
+1183,9c2d,92o,9c,2d,9,2,c,d,0,0,offsuit,12,37.91,37.18,1.45,10.20,17.30,1.4,Tier 5 (Trash),Pure Fold
+1184,9s2c,92o,9s,2c,9,2,s,c,0,0,offsuit,12,37.91,37.18,1.45,10.20,17.30,1.4,Tier 5 (Trash),Pure Fold
+1185,9h2c,92o,9h,2c,9,2,h,c,0,0,offsuit,12,37.91,37.18,1.45,10.20,17.30,1.4,Tier 5 (Trash),Pure Fold
+1186,9d2c,92o,9d,2c,9,2,d,c,0,0,offsuit,12,37.91,37.18,1.45,10.20,17.30,1.4,Tier 5 (Trash),Pure Fold
+1187,4s2s,42s,4s,2s,4,2,s,s,1,0,suited,4,37.69,37.09,1.20,12.30,20.10,5.3,Tier 5 (Trash),Pure Fold
+1188,4h2h,42s,4h,2h,4,2,h,h,1,0,suited,4,37.69,37.09,1.20,12.30,20.10,5.3,Tier 5 (Trash),Pure Fold
+1189,4d2d,42s,4d,2d,4,2,d,d,1,0,suited,4,37.69,37.09,1.20,12.30,20.10,5.3,Tier 5 (Trash),Pure Fold
+1190,4c2c,42s,4c,2c,4,2,c,c,1,0,suited,4,37.69,37.09,1.20,12.30,20.10,5.3,Tier 5 (Trash),Pure Fold
+1191,8h3s,83o,8h,3s,8,3,h,s,0,0,offsuit,12,37.69,36.96,1.45,10.60,18.20,1.9,Tier 5 (Trash),Pure Fold
+1192,8d3s,83o,8d,3s,8,3,d,s,0,0,offsuit,12,37.69,36.96,1.45,10.60,18.20,1.9,Tier 5 (Trash),Pure Fold
+1193,8c3s,83o,8c,3s,8,3,c,s,0,0,offsuit,12,37.69,36.96,1.45,10.60,18.20,1.9,Tier 5 (Trash),Pure Fold
+1194,8s3h,83o,8s,3h,8,3,s,h,0,0,offsuit,12,37.69,36.96,1.45,10.60,18.20,1.9,Tier 5 (Trash),Pure Fold
+1195,8d3h,83o,8d,3h,8,3,d,h,0,0,offsuit,12,37.69,36.96,1.45,10.60,18.20,1.9,Tier 5 (Trash),Pure Fold
+1196,8c3h,83o,8c,3h,8,3,c,h,0,0,offsuit,12,37.69,36.96,1.45,10.60,18.20,1.9,Tier 5 (Trash),Pure Fold
+1197,8s3d,83o,8s,3d,8,3,s,d,0,0,offsuit,12,37.69,36.96,1.45,10.60,18.20,1.9,Tier 5 (Trash),Pure Fold
+1198,8h3d,83o,8h,3d,8,3,h,d,0,0,offsuit,12,37.69,36.96,1.45,10.60,18.20,1.9,Tier 5 (Trash),Pure Fold
+1199,8c3d,83o,8c,3d,8,3,c,d,0,0,offsuit,12,37.69,36.96,1.45,10.60,18.20,1.9,Tier 5 (Trash),Pure Fold
+1200,8s3c,83o,8s,3c,8,3,s,c,0,0,offsuit,12,37.69,36.96,1.45,10.60,18.20,1.9,Tier 5 (Trash),Pure Fold
+1201,8h3c,83o,8h,3c,8,3,h,c,0,0,offsuit,12,37.69,36.96,1.45,10.60,18.20,1.9,Tier 5 (Trash),Pure Fold
+1202,8d3c,83o,8d,3c,8,3,d,c,0,0,offsuit,12,37.69,36.96,1.45,10.60,18.20,1.9,Tier 5 (Trash),Pure Fold
+1203,5h3s,53o,5h,3s,5,3,h,s,0,0,offsuit,12,37.36,36.63,1.45,12.10,20.60,3.7,Tier 5 (Trash),Pure Fold
+1204,5d3s,53o,5d,3s,5,3,d,s,0,0,offsuit,12,37.36,36.63,1.45,12.10,20.60,3.7,Tier 5 (Trash),Pure Fold
+1205,5c3s,53o,5c,3s,5,3,c,s,0,0,offsuit,12,37.36,36.63,1.45,12.10,20.60,3.7,Tier 5 (Trash),Pure Fold
+1206,5s3h,53o,5s,3h,5,3,s,h,0,0,offsuit,12,37.36,36.63,1.45,12.10,20.60,3.7,Tier 5 (Trash),Pure Fold
+1207,5d3h,53o,5d,3h,5,3,d,h,0,0,offsuit,12,37.36,36.63,1.45,12.10,20.60,3.7,Tier 5 (Trash),Pure Fold
+1208,5c3h,53o,5c,3h,5,3,c,h,0,0,offsuit,12,37.36,36.63,1.45,12.10,20.60,3.7,Tier 5 (Trash),Pure Fold
+1209,5s3d,53o,5s,3d,5,3,s,d,0,0,offsuit,12,37.36,36.63,1.45,12.10,20.60,3.7,Tier 5 (Trash),Pure Fold
+1210,5h3d,53o,5h,3d,5,3,h,d,0,0,offsuit,12,37.36,36.63,1.45,12.10,20.60,3.7,Tier 5 (Trash),Pure Fold
+1211,5c3d,53o,5c,3d,5,3,c,d,0,0,offsuit,12,37.36,36.63,1.45,12.10,20.60,3.7,Tier 5 (Trash),Pure Fold
+1212,5s3c,53o,5s,3c,5,3,s,c,0,0,offsuit,12,37.36,36.63,1.45,12.10,20.60,3.7,Tier 5 (Trash),Pure Fold
+1213,5h3c,53o,5h,3c,5,3,h,c,0,0,offsuit,12,37.36,36.63,1.45,12.10,20.60,3.7,Tier 5 (Trash),Pure Fold
+1214,5d3c,53o,5d,3c,5,3,d,c,0,0,offsuit,12,37.36,36.63,1.45,12.10,20.60,3.7,Tier 5 (Trash),Pure Fold
+1215,6h3s,63o,6h,3s,6,3,h,s,0,0,offsuit,12,36.98,36.25,1.45,10.80,19.10,2.8,Tier 5 (Trash),Pure Fold
+1216,6d3s,63o,6d,3s,6,3,d,s,0,0,offsuit,12,36.98,36.25,1.45,10.80,19.10,2.8,Tier 5 (Trash),Pure Fold
+1217,6c3s,63o,6c,3s,6,3,c,s,0,0,offsuit,12,36.98,36.25,1.45,10.80,19.10,2.8,Tier 5 (Trash),Pure Fold
+1218,6s3h,63o,6s,3h,6,3,s,h,0,0,offsuit,12,36.98,36.25,1.45,10.80,19.10,2.8,Tier 5 (Trash),Pure Fold
+1219,6d3h,63o,6d,3h,6,3,d,h,0,0,offsuit,12,36.98,36.25,1.45,10.80,19.10,2.8,Tier 5 (Trash),Pure Fold
+1220,6c3h,63o,6c,3h,6,3,c,h,0,0,offsuit,12,36.98,36.25,1.45,10.80,19.10,2.8,Tier 5 (Trash),Pure Fold
+1221,6s3d,63o,6s,3d,6,3,s,d,0,0,offsuit,12,36.98,36.25,1.45,10.80,19.10,2.8,Tier 5 (Trash),Pure Fold
+1222,6h3d,63o,6h,3d,6,3,h,d,0,0,offsuit,12,36.98,36.25,1.45,10.80,19.10,2.8,Tier 5 (Trash),Pure Fold
+1223,6c3d,63o,6c,3d,6,3,c,d,0,0,offsuit,12,36.98,36.25,1.45,10.80,19.10,2.8,Tier 5 (Trash),Pure Fold
+1224,6s3c,63o,6s,3c,6,3,s,c,0,0,offsuit,12,36.98,36.25,1.45,10.80,19.10,2.8,Tier 5 (Trash),Pure Fold
+1225,6h3c,63o,6h,3c,6,3,h,c,0,0,offsuit,12,36.98,36.25,1.45,10.80,19.10,2.8,Tier 5 (Trash),Pure Fold
+1226,6d3c,63o,6d,3c,6,3,d,c,0,0,offsuit,12,36.98,36.25,1.45,10.80,19.10,2.8,Tier 5 (Trash),Pure Fold
+1227,7h3s,73o,7h,3s,7,3,h,s,0,0,offsuit,12,36.81,36.09,1.45,9.90,17.70,2.1,Tier 5 (Trash),Pure Fold
+1228,7d3s,73o,7d,3s,7,3,d,s,0,0,offsuit,12,36.81,36.09,1.45,9.90,17.70,2.1,Tier 5 (Trash),Pure Fold
+1229,7c3s,73o,7c,3s,7,3,c,s,0,0,offsuit,12,36.81,36.09,1.45,9.90,17.70,2.1,Tier 5 (Trash),Pure Fold
+1230,7s3h,73o,7s,3h,7,3,s,h,0,0,offsuit,12,36.81,36.09,1.45,9.90,17.70,2.1,Tier 5 (Trash),Pure Fold
+1231,7d3h,73o,7d,3h,7,3,d,h,0,0,offsuit,12,36.81,36.09,1.45,9.90,17.70,2.1,Tier 5 (Trash),Pure Fold
+1232,7c3h,73o,7c,3h,7,3,c,h,0,0,offsuit,12,36.81,36.09,1.45,9.90,17.70,2.1,Tier 5 (Trash),Pure Fold
+1233,7s3d,73o,7s,3d,7,3,s,d,0,0,offsuit,12,36.81,36.09,1.45,9.90,17.70,2.1,Tier 5 (Trash),Pure Fold
+1234,7h3d,73o,7h,3d,7,3,h,d,0,0,offsuit,12,36.81,36.09,1.45,9.90,17.70,2.1,Tier 5 (Trash),Pure Fold
+1235,7c3d,73o,7c,3d,7,3,c,d,0,0,offsuit,12,36.81,36.09,1.45,9.90,17.70,2.1,Tier 5 (Trash),Pure Fold
+1236,7s3c,73o,7s,3c,7,3,s,c,0,0,offsuit,12,36.81,36.09,1.45,9.90,17.70,2.1,Tier 5 (Trash),Pure Fold
+1237,7h3c,73o,7h,3c,7,3,h,c,0,0,offsuit,12,36.81,36.09,1.45,9.90,17.70,2.1,Tier 5 (Trash),Pure Fold
+1238,7d3c,73o,7d,3c,7,3,d,c,0,0,offsuit,12,36.81,36.09,1.45,9.90,17.70,2.1,Tier 5 (Trash),Pure Fold
+1239,8h2s,82o,8h,2s,8,2,h,s,0,0,offsuit,12,36.47,35.74,1.45,9.10,16.20,1.4,Tier 5 (Trash),Pure Fold
+1240,8d2s,82o,8d,2s,8,2,d,s,0,0,offsuit,12,36.47,35.74,1.45,9.10,16.20,1.4,Tier 5 (Trash),Pure Fold
+1241,8c2s,82o,8c,2s,8,2,c,s,0,0,offsuit,12,36.47,35.74,1.45,9.10,16.20,1.4,Tier 5 (Trash),Pure Fold
+1242,8s2h,82o,8s,2h,8,2,s,h,0,0,offsuit,12,36.47,35.74,1.45,9.10,16.20,1.4,Tier 5 (Trash),Pure Fold
+1243,8d2h,82o,8d,2h,8,2,d,h,0,0,offsuit,12,36.47,35.74,1.45,9.10,16.20,1.4,Tier 5 (Trash),Pure Fold
+1244,8c2h,82o,8c,2h,8,2,c,h,0,0,offsuit,12,36.47,35.74,1.45,9.10,16.20,1.4,Tier 5 (Trash),Pure Fold
+1245,8s2d,82o,8s,2d,8,2,s,d,0,0,offsuit,12,36.47,35.74,1.45,9.10,16.20,1.4,Tier 5 (Trash),Pure Fold
+1246,8h2d,82o,8h,2d,8,2,h,d,0,0,offsuit,12,36.47,35.74,1.45,9.10,16.20,1.4,Tier 5 (Trash),Pure Fold
+1247,8c2d,82o,8c,2d,8,2,c,d,0,0,offsuit,12,36.47,35.74,1.45,9.10,16.20,1.4,Tier 5 (Trash),Pure Fold
+1248,8s2c,82o,8s,2c,8,2,s,c,0,0,offsuit,12,36.47,35.74,1.45,9.10,16.20,1.4,Tier 5 (Trash),Pure Fold
+1249,8h2c,82o,8h,2c,8,2,h,c,0,0,offsuit,12,36.47,35.74,1.45,9.10,16.20,1.4,Tier 5 (Trash),Pure Fold
+1250,8d2c,82o,8d,2c,8,2,d,c,0,0,offsuit,12,36.47,35.74,1.45,9.10,16.20,1.4,Tier 5 (Trash),Pure Fold
+1251,4h3s,43o,4h,3s,4,3,h,s,0,0,offsuit,12,36.14,35.41,1.45,10.10,18.20,4.1,Tier 5 (Trash),Pure Fold
+1252,4d3s,43o,4d,3s,4,3,d,s,0,0,offsuit,12,36.14,35.41,1.45,10.10,18.20,4.1,Tier 5 (Trash),Pure Fold
+1253,4c3s,43o,4c,3s,4,3,c,s,0,0,offsuit,12,36.14,35.41,1.45,10.10,18.20,4.1,Tier 5 (Trash),Pure Fold
+1254,4s3h,43o,4s,3h,4,3,s,h,0,0,offsuit,12,36.14,35.41,1.45,10.10,18.20,4.1,Tier 5 (Trash),Pure Fold
+1255,4d3h,43o,4d,3h,4,3,d,h,0,0,offsuit,12,36.14,35.41,1.45,10.10,18.20,4.1,Tier 5 (Trash),Pure Fold
+1256,4c3h,43o,4c,3h,4,3,c,h,0,0,offsuit,12,36.14,35.41,1.45,10.10,18.20,4.1,Tier 5 (Trash),Pure Fold
+1257,4s3d,43o,4s,3d,4,3,s,d,0,0,offsuit,12,36.14,35.41,1.45,10.10,18.20,4.1,Tier 5 (Trash),Pure Fold
+1258,4h3d,43o,4h,3d,4,3,h,d,0,0,offsuit,12,36.14,35.41,1.45,10.10,18.20,4.1,Tier 5 (Trash),Pure Fold
+1259,4c3d,43o,4c,3d,4,3,c,d,0,0,offsuit,12,36.14,35.41,1.45,10.10,18.20,4.1,Tier 5 (Trash),Pure Fold
+1260,4s3c,43o,4s,3c,4,3,s,c,0,0,offsuit,12,36.14,35.41,1.45,10.10,18.20,4.1,Tier 5 (Trash),Pure Fold
+1261,4h3c,43o,4h,3c,4,3,h,c,0,0,offsuit,12,36.14,35.41,1.45,10.10,18.20,4.1,Tier 5 (Trash),Pure Fold
+1262,4d3c,43o,4d,3c,4,3,d,c,0,0,offsuit,12,36.14,35.41,1.45,10.10,18.20,4.1,Tier 5 (Trash),Pure Fold
+1263,3s2s,32s,3s,2s,3,2,s,s,1,0,suited,4,35.40,34.80,1.20,10.30,17.50,5.8,Tier 5 (Trash),Pure Fold
+1264,3h2h,32s,3h,2h,3,2,h,h,1,0,suited,4,35.40,34.80,1.20,10.30,17.50,5.8,Tier 5 (Trash),Pure Fold
+1265,3d2d,32s,3d,2d,3,2,d,d,1,0,suited,4,35.40,34.80,1.20,10.30,17.50,5.8,Tier 5 (Trash),Pure Fold
+1266,3c2c,32s,3c,2c,3,2,c,c,1,0,suited,4,35.40,34.80,1.20,10.30,17.50,5.8,Tier 5 (Trash),Pure Fold
+1267,5h2s,52o,5h,2s,5,2,h,s,0,0,offsuit,12,34.64,33.91,1.45,8.30,15.80,2.4,Tier 5 (Trash),Pure Fold
+1268,5d2s,52o,5d,2s,5,2,d,s,0,0,offsuit,12,34.64,33.91,1.45,8.30,15.80,2.4,Tier 5 (Trash),Pure Fold
+1269,5c2s,52o,5c,2s,5,2,c,s,0,0,offsuit,12,34.64,33.91,1.45,8.30,15.80,2.4,Tier 5 (Trash),Pure Fold
+1270,5s2h,52o,5s,2h,5,2,s,h,0,0,offsuit,12,34.64,33.91,1.45,8.30,15.80,2.4,Tier 5 (Trash),Pure Fold
+1271,5d2h,52o,5d,2h,5,2,d,h,0,0,offsuit,12,34.64,33.91,1.45,8.30,15.80,2.4,Tier 5 (Trash),Pure Fold
+1272,5c2h,52o,5c,2h,5,2,c,h,0,0,offsuit,12,34.64,33.91,1.45,8.30,15.80,2.4,Tier 5 (Trash),Pure Fold
+1273,5s2d,52o,5s,2d,5,2,s,d,0,0,offsuit,12,34.64,33.91,1.45,8.30,15.80,2.4,Tier 5 (Trash),Pure Fold
+1274,5h2d,52o,5h,2d,5,2,h,d,0,0,offsuit,12,34.64,33.91,1.45,8.30,15.80,2.4,Tier 5 (Trash),Pure Fold
+1275,5c2d,52o,5c,2d,5,2,c,d,0,0,offsuit,12,34.64,33.91,1.45,8.30,15.80,2.4,Tier 5 (Trash),Pure Fold
+1276,5s2c,52o,5s,2c,5,2,s,c,0,0,offsuit,12,34.64,33.91,1.45,8.30,15.80,2.4,Tier 5 (Trash),Pure Fold
+1277,5h2c,52o,5h,2c,5,2,h,c,0,0,offsuit,12,34.64,33.91,1.45,8.30,15.80,2.4,Tier 5 (Trash),Pure Fold
+1278,5d2c,52o,5d,2c,5,2,d,c,0,0,offsuit,12,34.64,33.91,1.45,8.30,15.80,2.4,Tier 5 (Trash),Pure Fold
+1279,7h2s,72o,7h,2s,7,2,h,s,0,0,offsuit,12,34.58,33.85,1.45,7.80,14.80,1.0,Tier 5 (Trash),Pure Fold
+1280,7d2s,72o,7d,2s,7,2,d,s,0,0,offsuit,12,34.58,33.85,1.45,7.80,14.80,1.0,Tier 5 (Trash),Pure Fold
+1281,7c2s,72o,7c,2s,7,2,c,s,0,0,offsuit,12,34.58,33.85,1.45,7.80,14.80,1.0,Tier 5 (Trash),Pure Fold
+1282,7s2h,72o,7s,2h,7,2,s,h,0,0,offsuit,12,34.58,33.85,1.45,7.80,14.80,1.0,Tier 5 (Trash),Pure Fold
+1283,7d2h,72o,7d,2h,7,2,d,h,0,0,offsuit,12,34.58,33.85,1.45,7.80,14.80,1.0,Tier 5 (Trash),Pure Fold
+1284,7c2h,72o,7c,2h,7,2,c,h,0,0,offsuit,12,34.58,33.85,1.45,7.80,14.80,1.0,Tier 5 (Trash),Pure Fold
+1285,7s2d,72o,7s,2d,7,2,s,d,0,0,offsuit,12,34.58,33.85,1.45,7.80,14.80,1.0,Tier 5 (Trash),Pure Fold
+1286,7h2d,72o,7h,2d,7,2,h,d,0,0,offsuit,12,34.58,33.85,1.45,7.80,14.80,1.0,Tier 5 (Trash),Pure Fold
+1287,7c2d,72o,7c,2d,7,2,c,d,0,0,offsuit,12,34.58,33.85,1.45,7.80,14.80,1.0,Tier 5 (Trash),Pure Fold
+1288,7s2c,72o,7s,2c,7,2,s,c,0,0,offsuit,12,34.58,33.85,1.45,7.80,14.80,1.0,Tier 5 (Trash),Pure Fold
+1289,7h2c,72o,7h,2c,7,2,h,c,0,0,offsuit,12,34.58,33.85,1.45,7.80,14.80,1.0,Tier 5 (Trash),Pure Fold
+1290,7d2c,72o,7d,2c,7,2,d,c,0,0,offsuit,12,34.58,33.85,1.45,7.80,14.80,1.0,Tier 5 (Trash),Pure Fold
+1291,6h2s,62o,6h,2s,6,2,h,s,0,0,offsuit,12,34.33,33.60,1.45,7.40,14.50,1.2,Tier 5 (Trash),Pure Fold
+1292,6d2s,62o,6d,2s,6,2,d,s,0,0,offsuit,12,34.33,33.60,1.45,7.40,14.50,1.2,Tier 5 (Trash),Pure Fold
+1293,6c2s,62o,6c,2s,6,2,c,s,0,0,offsuit,12,34.33,33.60,1.45,7.40,14.50,1.2,Tier 5 (Trash),Pure Fold
+1294,6s2h,62o,6s,2h,6,2,s,h,0,0,offsuit,12,34.33,33.60,1.45,7.40,14.50,1.2,Tier 5 (Trash),Pure Fold
+1295,6d2h,62o,6d,2h,6,2,d,h,0,0,offsuit,12,34.33,33.60,1.45,7.40,14.50,1.2,Tier 5 (Trash),Pure Fold
+1296,6c2h,62o,6c,2h,6,2,c,h,0,0,offsuit,12,34.33,33.60,1.45,7.40,14.50,1.2,Tier 5 (Trash),Pure Fold
+1297,6s2d,62o,6s,2d,6,2,s,d,0,0,offsuit,12,34.33,33.60,1.45,7.40,14.50,1.2,Tier 5 (Trash),Pure Fold
+1298,6h2d,62o,6h,2d,6,2,h,d,0,0,offsuit,12,34.33,33.60,1.45,7.40,14.50,1.2,Tier 5 (Trash),Pure Fold
+1299,6c2d,62o,6c,2d,6,2,c,d,0,0,offsuit,12,34.33,33.60,1.45,7.40,14.50,1.2,Tier 5 (Trash),Pure Fold
+1300,6s2c,62o,6s,2c,6,2,s,c,0,0,offsuit,12,34.33,33.60,1.45,7.40,14.50,1.2,Tier 5 (Trash),Pure Fold
+1301,6h2c,62o,6h,2c,6,2,h,c,0,0,offsuit,12,34.33,33.60,1.45,7.40,14.50,1.2,Tier 5 (Trash),Pure Fold
+1302,6d2c,62o,6d,2c,6,2,d,c,0,0,offsuit,12,34.33,33.60,1.45,7.40,14.50,1.2,Tier 5 (Trash),Pure Fold
+1303,4h2s,42o,4h,2s,4,2,h,s,0,0,offsuit,12,33.39,32.66,1.45,6.40,13.40,2.7,Tier 5 (Trash),Pure Fold
+1304,4d2s,42o,4d,2s,4,2,d,s,0,0,offsuit,12,33.39,32.66,1.45,6.40,13.40,2.7,Tier 5 (Trash),Pure Fold
+1305,4c2s,42o,4c,2s,4,2,c,s,0,0,offsuit,12,33.39,32.66,1.45,6.40,13.40,2.7,Tier 5 (Trash),Pure Fold
+1306,4s2h,42o,4s,2h,4,2,s,h,0,0,offsuit,12,33.39,32.66,1.45,6.40,13.40,2.7,Tier 5 (Trash),Pure Fold
+1307,4d2h,42o,4d,2h,4,2,d,h,0,0,offsuit,12,33.39,32.66,1.45,6.40,13.40,2.7,Tier 5 (Trash),Pure Fold
+1308,4c2h,42o,4c,2h,4,2,c,h,0,0,offsuit,12,33.39,32.66,1.45,6.40,13.40,2.7,Tier 5 (Trash),Pure Fold
+1309,4s2d,42o,4s,2d,4,2,s,d,0,0,offsuit,12,33.39,32.66,1.45,6.40,13.40,2.7,Tier 5 (Trash),Pure Fold
+1310,4h2d,42o,4h,2d,4,2,h,d,0,0,offsuit,12,33.39,32.66,1.45,6.40,13.40,2.7,Tier 5 (Trash),Pure Fold
+1311,4c2d,42o,4c,2d,4,2,c,d,0,0,offsuit,12,33.39,32.66,1.45,6.40,13.40,2.7,Tier 5 (Trash),Pure Fold
+1312,4s2c,42o,4s,2c,4,2,s,c,0,0,offsuit,12,33.39,32.66,1.45,6.40,13.40,2.7,Tier 5 (Trash),Pure Fold
+1313,4h2c,42o,4h,2c,4,2,h,c,0,0,offsuit,12,33.39,32.66,1.45,6.40,13.40,2.7,Tier 5 (Trash),Pure Fold
+1314,4d2c,42o,4d,2c,4,2,d,c,0,0,offsuit,12,33.39,32.66,1.45,6.40,13.40,2.7,Tier 5 (Trash),Pure Fold
+1315,3h2s,32o,3h,2s,3,2,h,s,0,0,offsuit,12,31.15,30.42,1.45,4.60,10.60,3.2,Tier 5 (Trash),Pure Fold
+1316,3d2s,32o,3d,2s,3,2,d,s,0,0,offsuit,12,31.15,30.42,1.45,4.60,10.60,3.2,Tier 5 (Trash),Pure Fold
+1317,3c2s,32o,3c,2s,3,2,c,s,0,0,offsuit,12,31.15,30.42,1.45,4.60,10.60,3.2,Tier 5 (Trash),Pure Fold
+1318,3s2h,32o,3s,2h,3,2,s,h,0,0,offsuit,12,31.15,30.42,1.45,4.60,10.60,3.2,Tier 5 (Trash),Pure Fold
+1319,3d2h,32o,3d,2h,3,2,d,h,0,0,offsuit,12,31.15,30.42,1.45,4.60,10.60,3.2,Tier 5 (Trash),Pure Fold
+1320,3c2h,32o,3c,2h,3,2,c,h,0,0,offsuit,12,31.15,30.42,1.45,4.60,10.60,3.2,Tier 5 (Trash),Pure Fold
+1321,3s2d,32o,3s,2d,3,2,s,d,0,0,offsuit,12,31.15,30.42,1.45,4.60,10.60,3.2,Tier 5 (Trash),Pure Fold
+1322,3h2d,32o,3h,2d,3,2,h,d,0,0,offsuit,12,31.15,30.42,1.45,4.60,10.60,3.2,Tier 5 (Trash),Pure Fold
+1323,3c2d,32o,3c,2d,3,2,c,d,0,0,offsuit,12,31.15,30.42,1.45,4.60,10.60,3.2,Tier 5 (Trash),Pure Fold
+1324,3s2c,32o,3s,2c,3,2,s,c,0,0,offsuit,12,31.15,30.42,1.45,4.60,10.60,3.2,Tier 5 (Trash),Pure Fold
+1325,3h2c,32o,3h,2c,3,2,h,c,0,0,offsuit,12,31.15,30.42,1.45,4.60,10.60,3.2,Tier 5 (Trash),Pure Fold
+1326,3d2c,32o,3d,2c,3,2,d,c,0,0,offsuit,12,31.15,30.42,1.45,4.60,10.60,3.2,Tier 5 (Trash),Pure Fold

@@ -1,7 +1,7 @@
 # PokerMath Open Science Research Archive
 
 [![License: CC-BY-4.0](https://img.shields.io/badge/License-CC--BY--4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Preprint: API-PM-2026-01](https://img.shields.io/badge/Preprint-API--PM--2026--01-purple.svg)](https://pokermath.org/research/)
+[![Preprint: API-PM-2026-01](https://img.shields.io/badge/Preprint-API--PM--2026--01-purple.svg)](https://pokermath.org/en/research/)
 [![Reproducibility: Verified](https://img.shields.io/badge/Reproducibility-Verified%20(Seed%2042)-brightgreen.svg)](https://github.com/pokermath-research/research-papers)
 [![Portal](https://img.shields.io/badge/Portal-pokermath.org-0d6b3d.svg)](https://pokermath.org)
 

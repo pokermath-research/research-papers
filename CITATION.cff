@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these datasets, papers or scripts in your work, please cite them as below."
+title: "Empirical Distribution of Preflop Equities and Multi-Street Variance in No-Limit Texas Hold'em: A 1,326-Combination Monte Carlo Study"
+authors:
+  - name: "PokerMath Research Group"
+    affiliation: "Applied Probability Institute"
+    website: "https://pokermath.org"
+date-released: 2026-09-21
+url: "https://pokermath.org/en/research/poker-equity-distribution-study/"
+repository-code: "https://github.com/pokermath-research/research-papers"
+keywords:
+  - "poker"
+  - "texas hold'em"
+  - "preflop equity"
+  - "monte carlo"
+  - "variance"
+  - "open science"
+license: CC-BY-4.0
